@@ -1,0 +1,14 @@
+/*style.css*/
+
+#content blockquote {
+    background-color: #ccc;
+    color: #39424e;
+    width: auto;
+    padding: 2rem;
+    margin: 2rem 1rem;
+    border-radius: 3px;
+}
+
+body {
+    
+}

@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Esteban | ˈe-stə-vən</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on Esteban | ˈe-stə-vən</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>event</title>
+      <link>/tags/event/</link>
+      <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/event/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pictures</title>
+      <link>/tags/pictures/</link>
+      <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/pictures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tough mudder</title>
+      <link>/tags/tough-mudder/</link>
+      <pubDate>Thu, 20 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/tough-mudder/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>blog</title>
+      <link>/tags/blog/</link>
+      <pubDate>Fri, 16 Mar 2018 20:18:53 -0500</pubDate>
+      
+      <guid>/tags/blog/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>code</title>
+      <link>/tags/code/</link>
+      <pubDate>Thu, 08 Mar 2018 20:18:53 -0500</pubDate>
+      
+      <guid>/tags/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>story</title>
+      <link>/tags/story/</link>
+      <pubDate>Mon, 19 Feb 2018 12:41:46 -0500</pubDate>
+      
+      <guid>/tags/story/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>poem</title>
+      <link>/tags/poem/</link>
+      <pubDate>Tue, 13 Feb 2018 13:56:12 -0500</pubDate>
+      
+      <guid>/tags/poem/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>classic</title>
+      <link>/tags/classic/</link>
+      <pubDate>Sun, 11 Feb 2018 12:34:41 -0500</pubDate>
+      
+      <guid>/tags/classic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>plot</title>
+      <link>/tags/plot/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/tags/plot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Markdown</title>
+      <link>/tags/r-markdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/tags/r-markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>regression</title>
+      <link>/tags/regression/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>/tags/regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>artist</title>
+      <link>/tags/artist/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/artist/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>music</title>
+      <link>/tags/music/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>quotes</title>
+      <link>/tags/quotes/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/quotes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>writer</title>
+      <link>/tags/writer/</link>
+      <pubDate>Thu, 27 Apr 1882 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/writer/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

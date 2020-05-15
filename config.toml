@@ -1,0 +1,35 @@
+baseurl                  = "https://estebanvalencia.com/"           # Your domain name. Must end with "/"
+languageCode             = "en-us"
+defaultContentLanguage   = "en"
+isMultilingual           = false
+title                    = "Esteban | ˈe-stə-vən"
+theme = "hugo-theme-sam"
+pygmentsStyle            = "manni"                        # https://help.farbox.com/pygments.html
+pygmentsCodefences       = true
+# googleAnalytics        = ""                               # Tracking code, eg. "UA-111111111-1"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$","posts$","post$"]
+
+[params]
+    dateform             = "Mon Jan 02, 2006"
+    dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
+    favicon              = "sam.ico"
+    tagpage             = "tags"                           # What to call the home page link
+    homepage             = "main"                           # What to call the home page link
+    footerText           = "“The soul that is within me no man can degrade.” – Frederick Douglass"
+
+# Metadata for Open Graph and Twitter
+    description          = "Love is the new money"               # Max 160 characters show in search results
+    images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
+    title                = "Esteban Valencia: The Collection"
+    custom_css           = ["css/style.css"] 
+
+[[params.mainMenu]]
+    link = "/me"
+    text = "Esteban"
+
+[[params.mainMenu]]
+    link = "/n"
+    text = "The collection"
+
+[imaging]
+    quality = 75
