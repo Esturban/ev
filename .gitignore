@@ -38,7 +38,3 @@ vignettes/*.pdf
 rsconnect/
 
 Dockerfile
-
-layouts/
-resources/
-data/

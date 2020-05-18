@@ -20,7 +20,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$","posts$","post$"
 # Metadata for Open Graph and Twitter
     description          = "Love is the new money"               # Max 160 characters show in search results
     images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
-    title                = "Esteban Valencia: The Collection"
+    title                = "Esteban's personal page"
     custom_css           = ["css/style.css"] 
 
 [[params.mainMenu]]
