@@ -1,35 +1,28 @@
-baseurl                  = "https://estebanvalencia.com/"           # Your domain name. Must end with "/"
-languageCode             = "en-us"
-defaultContentLanguage   = "en"
-isMultilingual           = false
-title                    = "Esteban | ˈe-stə-vən"
-theme = "hugo-theme-sam"
-pygmentsStyle            = "manni"                        # https://help.farbox.com/pygments.html
-pygmentsCodefences       = true
-# googleAnalytics        = ""                               # Tracking code, eg. "UA-111111111-1"
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$","posts$","post$"]
+baseurl = "/"
+title = "estebanvalencia.com"
+theme = "hugo-theme-console"
+languageCode = "en-us"
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
 
 [params]
-    dateform             = "Mon Jan 02, 2006"
-    dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
-    favicon              = "sam.ico"
-    tagpage             = "tags"                           # What to call the home page link
-    homepage             = "main"                           # What to call the home page link
-    footerText           = "“The soul that is within me no man can degrade.” – Frederick Douglass"
+  # Cutting off the page title to two chars for mobile (console-demo -> co)
+  titleCutting = true
+  footerText = "*“The soul that is within me no man can degrade.”* – Frederick Douglass"
 
-# Metadata for Open Graph and Twitter
-    description          = "Love is the new money"               # Max 160 characters show in search results
-    images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
-    title                = "Esteban's personal page"
-    custom_css           = ["css/style.css"] 
+  [[params.navlinks]]
+  name = "me/"
+  url = "me/"
 
-[[params.mainMenu]]
-    link = "/me"
-    text = "Esteban"
-
-[[params.mainMenu]]
-    link = "/n"
-    text = "The collection"
-
-[imaging]
-    quality = 75
+  [[params.navlinks]]
+  name = "collection/"
+  url = "collection/"
+  
+  [[params.navlinks]]
+  name = "photos/"
+  url = "photos/"
+  
+[[params.plugins.css]]
+URL = "css/hugo-easy-gallery.css"
+[[params.plugins.css]]
+URL = "css/style.css"

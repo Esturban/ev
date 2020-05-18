@@ -12,3 +12,8 @@
 body {
     
 }
+div.box > figure > figcaption > h4
+figure > h4
+{
+color: #ffffff;
+}
