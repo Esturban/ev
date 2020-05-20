@@ -54,21 +54,7 @@
         
         <url>
             <loc>/collection/</loc>
-            <lastmod>2019-08-03T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>/collection/what-is-hugo/</loc>
-            <lastmod>2019-08-03T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>/collection/introduction/</loc>
-            <lastmod>2019-07-01T00:00:00+00:00</lastmod>
+            <lastmod>2018-09-20T00:00:00+00:00</lastmod>
         </url>
         
     
@@ -201,6 +187,12 @@
         
         <url>
             <loc>/categories/</loc>
+        </url>
+        
+    
+        
+        <url>
+            <loc>/privacy/</loc>
         </url>
         
     

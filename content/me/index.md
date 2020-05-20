@@ -1,32 +1,11 @@
 ---
 date: "2016-11-05T21:05:33+05:30"
-title: About
+title: Esteban Valencia
 ---
 
-A minimal, responsive and light theme for Hugo inspired by Linux console. 
+Welcome to my site! 
 
-![Console](https://github.com/mrmierzejewski/hugo-theme-console/blob/master/images/preview.png?raw=true)
+{{<figure src = "https://media.giphy.com/media/OJqimXwqG7CQE/giphy.gif" height = "300px">}}
 
-## Installation
+I'm Esteban Valencia, a Canadian who likes to spend his time building digital and phyiscal products to solve problems.  In the information age, I seek out existing solutions and apply them in a new context to how they're used today to inform models or decision making for myself, my employer or my clients.  
 
-```
-$ mkdir themes
-$ cd themes
-$ git submodule add https://github.com/mrmierzejewski/hugo-theme-console.git hugo-theme-console
-```
-    
-See the [Hugo documentation](https://gohugo.io/themes/installing/) for more information.
-
-## Configuration
-
-Set theme parameter in your config file:
-
-```
-theme = "hugo-theme-console"
-```
-
-## License
-
-Copyright © 2020 [Marcin Mierzejewski](https://mrmierzejewski.com/)
-
-The theme is released under the MIT License. Check the [original theme license](https://github.com/panr/hugo-theme-terminal/blob/master/LICENSE.md) for additional licensing information.
