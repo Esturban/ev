@@ -10,7 +10,7 @@ tags:
   - music
   - artist
 showDate: no
-draft: yes
+draft: no
 ---
 
 

@@ -10,6 +10,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   footerText = "*“The soul that is within me no man can degrade.”* – Frederick Douglass"
   summary = "This is a heart warming summary about the joys of reading my content"
   description = "This is a description of the website"
+  favicon = "sam.ico"
 
   [[params.navlinks]]
   name = "me/"

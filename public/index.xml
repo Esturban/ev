@@ -94,13 +94,21 @@
     </item>
     
     <item>
+      <title>Jimi Hendrix</title>
+      <link>/collection/jimi-hendrix/</link>
+      <pubDate>Wed, 11 Apr 2007 00:00:00 +0000</pubDate>
+      
+      <guid>/collection/jimi-hendrix/</guid>
+      <description>One of the saddest and earliest additions to the 28 club</description>
+    </item>
+    
+    <item>
       <title>Kurt Vonnegut</title>
       <link>/collection/kurt-vonnegut/</link>
       <pubDate>Wed, 11 Apr 2007 00:00:00 +0000</pubDate>
       
       <guid>/collection/kurt-vonnegut/</guid>
-      <description>Kurt Vonnegut breathes inhales smoke “So, in the interests of survival, they trained themselves to be agreeing machines instead of thinking machines. All their minds had to do was to discover what other people were thinking, and then they thought that, too.”
--Breakfast of Champions</description>
+      <description>Art in text, the truest of flex</description>
     </item>
     
     <item>
@@ -114,10 +122,10 @@
     
     <item>
       <title>Earl Sweatshirt</title>
-      <link>/collection/earl-sweatshirt/best-of-5/</link>
+      <link>/collection/earl-sweatshirt/</link>
       <pubDate>Fri, 25 Feb 1994 00:00:00 +0000</pubDate>
       
-      <guid>/collection/earl-sweatshirt/best-of-5/</guid>
+      <guid>/collection/earl-sweatshirt/</guid>
       <description>wipe the dirt and vomit off</description>
     </item>
     
