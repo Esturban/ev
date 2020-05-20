@@ -1,21 +1,24 @@
 ---
 title: 'Jimi Hendrix'
 author: E
-date: '2007-04-11'
+date: '1970-09-18'
 categories: []
 summaryOn: true
-summary: 'One of the saddest and earliest additions to the 28 club'
+summary: 'Pioneering electric guitarist, 27 Club'
 tags:
   - quotes
-  - classic
+  - music
 showDate: no
 draft: yes
 ---
 
 
 
-{{< figure src="https://www.thenation.com/wp-content/uploads/2017/09/vonnegut-SevenStoriesPress_img.jpg" title="Kurt Vonnegut breathes inhales smoke" class="img" width="1200px">}}
+{{< figure src="https://cdn.aarp.net/content/dam/aarp/entertainment/music/2018/03/1140-jimi-hendrix.imgcache.revfb505572a906cf97cf7babf077bd2961.jpg" title="Jimi live on stage in 1969 at Royal Albert Hall in London" class="img" width="1200px">}}
+###### *DAVID REDFERN/GETTY IMAGES*
 
 
-*“So, in the interests of survival, they trained themselves to be agreeing machines instead of thinking machines. All their minds had to do was to discover what other people were thinking, and then they thought that, too.”*\
-**-Breakfast of Champions**
+*“The traffic lights they turn blue tomorrow\
+And shine their emptiness down on my bed”*\
+**-The Wind Cries Mary**
+

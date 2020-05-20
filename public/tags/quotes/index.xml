@@ -21,15 +21,6 @@
     </item>
     
     <item>
-      <title>Jimi Hendrix</title>
-      <link>/collection/jimi-hendrix/</link>
-      <pubDate>Wed, 11 Apr 2007 00:00:00 +0000</pubDate>
-      
-      <guid>/collection/jimi-hendrix/</guid>
-      <description>One of the saddest and earliest additions to the 28 club</description>
-    </item>
-    
-    <item>
       <title>Kurt Vonnegut</title>
       <link>/collection/kurt-vonnegut/</link>
       <pubDate>Wed, 11 Apr 2007 00:00:00 +0000</pubDate>
@@ -63,6 +54,15 @@
       
       <guid>/collection/kanye-west/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Jimi Hendrix</title>
+      <link>/collection/jimi-hendrix/</link>
+      <pubDate>Fri, 18 Sep 1970 00:00:00 +0000</pubDate>
+      
+      <guid>/collection/jimi-hendrix/</guid>
+      <description>Pioneering electric guitarist, 27 Club</description>
     </item>
     
     <item>

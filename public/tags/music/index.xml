@@ -47,5 +47,14 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Jimi Hendrix</title>
+      <link>/collection/jimi-hendrix/</link>
+      <pubDate>Fri, 18 Sep 1970 00:00:00 +0000</pubDate>
+      
+      <guid>/collection/jimi-hendrix/</guid>
+      <description>Pioneering electric guitarist, 27 Club</description>
+    </item>
+    
   </channel>
 </rss>
