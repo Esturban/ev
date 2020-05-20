@@ -1,4 +1,4 @@
-baseurl = "estebanvalencia.com"
+baseurl = "/"
 title = "estebanvalencia.com"
 theme = "hugo-theme-console"
 languageCode = "en-us"
