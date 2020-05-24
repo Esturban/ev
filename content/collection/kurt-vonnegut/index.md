@@ -3,7 +3,7 @@ title: 'Kurt Vonnegut'
 author: E
 date: '2007-04-11'
 summaryOn: true
-summary: 'Art in text, the truest of flex'
+summary: 'Art in text, the truest flex'
 categories: []
 tags:
   - quotes
