@@ -1,5 +1,6 @@
 baseurl = "/"
 title = "estebanvalencia.com"
+
 theme = "hugo-theme-console"
 languageCode = "en-us"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -7,9 +8,11 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [params]
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
-  footerText = "*“The soul that is within me no man can degrade.”* – Frederick Douglass"
+  pre = "Esteban | ˈe-stə-vən"
+  #footerText = "*“The soul that is within me no man can degrade.”* – Frederick Douglass"
+  footerText = "*“The difference between a flower and a weed is judgement.”* – Unknown"
   summary = "This is a heart warming summary about the joys of reading my content"
-  description = "This is a description of the website"
+  description = "Bite-sized ideas sourced from the internet"
   favicon = "sam.ico"
   amp = true
   ampElements = ["amp-accordion","amp-ad","amp-analytics","amp-app-banner","amp-carousel","amp-iframe","amp-dynamic-css-classes","amp-form","amp-fx-flying-carpet","amp-image-lightbox","amp-lightbox","amp-sidebar","amp-social-share","amp-sticky-ad","amp-user-notification"]
@@ -31,18 +34,17 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   javascriptRegular = ["/script.js"] # these scripts are used when amp is disabled for a specific page
 
   
+[[params.navlinks]]
+name = "me/"
+url = "me/"
 
-  [[params.navlinks]]
-  name = "me/"
-  url = "me/"
-
-  [[params.navlinks]]
-  name = "collection/"
-  url = "collection/"
+[[params.navlinks]]
+name = "collection/"
+url = "collection/"
   
-  [[params.navlinks]]
-  name = "photos/"
-  url = "photos/"
+[[params.navlinks]]
+name = "photos/"
+url = "photos/"
   
 [[params.plugins.css]]
 URL = "hugo-theme-console/css/terminal-0.7.1.min.css"
@@ -54,5 +56,14 @@ URL = "hugo-theme-console/css/console.css"
 URL = "css/hugo-easy-gallery.css"
 [[params.plugins.css]]
 URL = "css/style.css"
-[[params.plugins.css]]
-URL = "css/fontawesome.min.css" 
+
+
+[params.twitterCard]
+    generate = true
+    card = "summary"
+    image = "images/twitter-card-summary-image.jpg"
+    imageAlt = "Dereck Curry's avatar"
+    site = "dereckcurry"
+    creator = "dereckcurry"
+    title = "DereckCurry.com Page"
+    description = "A page from DereckCurry.com"

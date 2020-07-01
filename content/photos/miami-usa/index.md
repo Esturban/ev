@@ -1,7 +1,7 @@
 ---
 date: "2020-01-21"
-image: arizona-us.jpg
-title: Arizona, US
+image: miami-beach.jpg
+title: Miami Beach - Miami-Dade, FL
 type: gallery
 ---
 

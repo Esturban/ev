@@ -1,6 +1,6 @@
 ---
 date: "2020-02-06"
-image: hel-poland-3.jpg
+image: charlotte-walk.jpg
 title: Hel, Poland
 type: gallery
 ---

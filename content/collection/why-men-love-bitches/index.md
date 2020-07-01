@@ -1,0 +1,910 @@
+---
+title: Why Men Love Bitches (Sherry Argov)
+author: E
+date: '2018-08-12'
+summaryOn: true
+summary: 'Hola, this is el summary'
+categories: []
+tags:
+  - books
+  - review
+showDate: no
+draft: yes
+---
+
+
+*Among the hundreds of interviews I conducted with men for the book, over 90 percent laughed and agreed with the title within the first thirty seconds. Some men chuckled as though their best-kept secret had just been revealed. “Men need a mental challenge,” they said. Time and time again, this was the recurrent theme. The men I interviewed all phrased it slightly differently, but the message didn’t change. “Men like it when a woman has a bit of an edge to her,” they said. Two things became clear across the board: First, they would regularly use the phrase mental challenge to describe a woman who didn’t appear needy. And second, the word bitch was synonymous with their concept of mental challenge. And this characteristic, above all, they found attractive. When I used the phrase mental challenge with men, it was immediately clear to them the quality I meant. On the other hand, when I interviewed hundreds of women, rarely did they understand the same phrase. They often related the phrase to intelligence, rather than to neediness. It wasn’t just that my hunch was confirmed by these interviews; they also strengthened my sense of purpose. I thought that anything this obvious to men should not be kept a secret from women. This book addresses the very issues that men won’t. He won’t say, “Look, don’t be a doormat,” “Don’t always say yes,” “Don’t revolve your whole world around me.” This book is necessary because these are things a man will not spell out for his partner.*  
+
+- Page 8 (location ~ 113-125)    
+
+*The woman who has a positive experience with men possesses the ever-so-subtle qualities I discuss in this book: a sense of humor and an aura that conveys, “I’m driving the train here. I’ll tell you where we get on and where we get off.” This woman has that presence of mind to do what is in her best interest and an attitude that says she doesn’t need to be there. She is there by choice. The bitchy women who are so loved by men give off a devil-may-care quality and, yes, have that “edge.” This is that same edge, coincidentally, that men say they find so magnetic. The difference is this woman isn’t looking for it outside herself; it is a special quality she carries within.*  
+
+- Page 9 (location ~ 137-142)    
+
+*ATTRACTION PRINCIPLE #1 Anything a person chases in life runs away.*  
+
+- Page 11 (location ~ 156-156)    
+
+*Especially when it comes to dealing with a man. With one caveat: If you chase him in a black nightie, first he’ll have sex with you . . . and then he’ll run. Why does a man run from a situation like this one? He runs because the woman’s behavior doesn’t suggest that she places a high value on herself. The relationship is new, and the bond between them is relatively shallow. Yet she’s already dealt him her best card. The fact that she is willing to overcompensate to a virtual stranger immediately suggests one of two things. He’ll either assume she is desperate, or he’ll assume she is willing to sleep with all men right away. Or both. What gets lost is his appreciation for her extra effort. Once a man begins to lose respect for a woman because she is willing to subtly devalue herself, he will also lose the desire to get closer to her. Nightie or no nightie.*  
+
+- Page 11 (location ~ 157-164)    
+
+*ATTRACTION PRINCIPLE #2 The women who have the men climbing the walls for them aren’t always exceptional. Often, they are the ones who don’t appear to care that much.*  
+
+- Page 12 (location ~ 171-173)    
+
+*Nice girls need to know what a bitch understands. Overcompensating or being too eager to please will lessen a man’s respect; it will give the kiss of death to his attraction, and it will put a time limit on the relationship. Most men don’t perceive a woman who jumps through hoops as someone who offers a mental challenge. Intelligent women make the mistake of assuming that if they hold a higher degree, they can hold their own in a political debate, and they have a good understanding of mid-caps, they offer a man mental stimulation during dinner. But the mental challenge has little to do with conversation. (Granted, if she thinks that Al Green and Alan Greenspan are the same person, then Houston? We have a problem.)*  
+
+- Page 12 (location ~ 180-185)    
+
+*Nice girls need to know what a bitch understands. Overcompensating or being too eager to please will lessen a man’s respect; it will give the kiss of death to his attraction, and it will put a time limit on the relationship. Most men don’t perceive a woman who jumps through hoops as someone who offers a mental challenge. Intelligent women make the mistake of assuming that if they hold a higher degree, they can hold their own in a political debate, and they have a good understanding of mid-caps, they offer a man mental stimulation during dinner. But the mental challenge has little to do with conversation. (Granted, if she thinks that Al Green and Alan Greenspan are the same person, then Houston? We have a problem.) In general, the mental challenge has to do with whether you expect to be respected. It has to do with how you relate to him. It has to do with whether he knows that you aren’t afraid to be without him.*  
+
+- Page 12 (location ~ 180-187)    
+
+*ATTRACTION PRINCIPLE #3 A woman is perceived as offering a mental challenge to the degree that a man doesn’t feel he has a 100 percent hold on her.*  
+
+- Page 13 (location ~ 195-197)    
+
+*Your time with him is telling. The nice girl sits in a chair after a week of knowing the guy, bored out of her mind as he does something that interests him. He may be watching sports on TV, cleaning his fishing gear, strumming his guitar, or working on his car. She is miserable but doesn’t say a peep. Instead, she tries to make the best of it and twiddles her thumbs politely, just so she can be in his company. The bitch, on the other hand, makes plenty of peeps. In fact, she is bitching the whole way through. This is not a bad thing, because then he knows he can’t walk all over her. But remember, a mental challenge has little to do with being verbally combative. It has to do with your actions and how much of yourself you are willing to give up. For example, he says he likes blondes. You have dark skin, dark eyes, and black hair. The next time he sees you, you’ve bleached your hair and dyed your eyebrows to match. Translation? He’ll sense he has a 100 percent hold on you.*  
+
+- Page 13 (location ~ 198-205)    
+
+*You’ll know dinner was a smashing success when he insists on taking you out to eat next time. Never again will you hear him utter the words, “Hey, what’s for dinner?” If, after some time, he ever slips and asks you to cook, simply offer to make your specialty: popcorn, wieners, and a jelly roll, with coffee and Kool-Aid to help wash it down. Then start getting ready because you’ll have reservations within the hour. The bitch is not the woman who will sit at home and work overtime to refine her “man-catching” skills. All she feels she has to do in the beginning is focus on being good company. This is more than enough until he earns the “cat-bird seat” at the top of the yacht.*  
+
+- Page 16 (location ~ 231-236)    
+
+*ATTRACTION PRINCIPLE #4 Sometimes a man deliberately won’t call, just to see how you’ll respond.*  
+
+- Page 18 (location ~ 265-266)    
+
+*Pulling back is also something men do to gain reassurance. No man is going to say, “Honey, I need reassurance about where I stand with you.” Instead he’ll pull back to see how you’ll react. When you react emotionally, it gives him a feeling of control. And if you react emotionally frequently, over time he will come to see you as less of a mental challenge. If he can’t predict how you’ll always react, you remain a challenge. It also gives him something he absolutely needs: the freedom to breathe. If you don’t hear from him for a little longer than usual, show him that you have absolutely no “attitude” about it. This behavior will make him a little unsure about whether you miss him (i.e., “need him”) when he isn’t around. It gives him a reason to come your way because he won’t perceive you as needy. Try not to say things such as “Why haven’t you called me?” or “Why haven’t I heard from you in a week?” If you act as though you haven’t even noticed (because time flies when you’re having fun), he will come your way. Why? Because he doesn’t feel as though he has a 100 percent hold on you.*  
+
+- Page 18 (location ~ 268-277)    
+
+*ATTRACTION PRINCIPLE #5 If you start out dependent, it turns him off. But if it is something he can’t have, it becomes more of a challenge for him to get it.*  
+
+- Page 19 (location ~ 281-282)    
+
+*Another mistake that a woman can make is to put herself down. When you’re on a date, you should never talk about the plastic surgery you want to have or the weight you want to lose. Don’t talk him out of a compliment. This is the time to be sure of who you are. So, what’s the right attitude? “This is me, in all of my splendor . . . and it doesn’t get any better than this.” Don’t spend a fortune on a therapist. Just say it to yourself until you believe it. Eventually you will believe it, and so will he. Humility? Don’t worry. It’s a treatable affliction, a mental glitch. If you catch yourself being modest or humble or any of that nonsense, correct the problem immediately. Go directly back to believing you are “a catch.” Period. End of story. Case closed. If someone else doesn’t like your confidence, that’s their problem. Why? You always come before they do, that’s why. Case in point: Ever hear a man say that all the guys wanted his exgirlfriend? He’ll build her up so much that when you finally see a picture, you are dumbfounded. What you really want to say is, “Honey, she looks like she had the starring role in Lassie Comes Home.” Don’t bother because he’ll rush to her defense: “She looked better in real life.” No sale . . . try again. “She looked better back then? (Pause.) It was a really bad picture, no, really.” (Still, no sale.) What women need to understand is that when a man considers a woman to be a prize, looks have very little to do with it. In the above example, it was a simple mind trick that goes like this: She acted like a prize, and then a funny thing happened. He completely forgot who he was looking*  
+
+- Page 19 (location ~ 288-301)    
+
+*Another mistake that a woman can make is to put herself down. When you’re on a date, you should never talk about the plastic surgery you want to have or the weight you want to lose. Don’t talk him out of a compliment. This is the time to be sure of who you are. So, what’s the right attitude? “This is me, in all of my splendor . . . and it doesn’t get any better than this.” Don’t spend a fortune on a therapist. Just say it to yourself until you believe it. Eventually you will believe it, and so will he. Humility? Don’t worry. It’s a treatable affliction, a mental glitch. If you catch yourself being modest or humble or any of that nonsense, correct the problem immediately. Go directly back to believing you are “a catch.” Period. End of story. Case closed. If someone else doesn’t like your confidence, that’s their problem. Why? You always come before they do, that’s why. Case in point: Ever hear a man say that all the guys wanted his exgirlfriend? He’ll build her up so much that when you finally see a picture, you are dumbfounded. What you really want to say is, “Honey, she looks like she had the starring role in Lassie Comes Home.” Don’t bother because he’ll rush to her defense: “She looked better in real life.” No sale . . . try again. “She looked better back then? (Pause.) It was a really bad picture, no, really.” (Still, no sale.) What women need to understand is that when a man considers a woman to be a prize, looks have very little to do with it. In the above example, it was a simple mind trick that goes like this: She acted like a prize, and then a funny thing happened. He completely forgot who he was looking at.*  
+
+- Page 19 (location ~ 288-301)    
+
+*ATTRACTION PRINCIPLE #6 It is your attitude about yourself that a man will adopt.*  
+
+- Page 20 (location ~ 301-303)    
+
+*ATTRACTION PRINCIPLE #7 Act like a prize and you’ll turn him into a believer.*  
+
+- Page 21 (location ~ 309-310)    
+
+*A woman also demeans herself when she compares herself to another woman. So, don’t let on when you feel threatened by another attractive woman who walks into the room. If you want to make a woman who is a 6 on a scale of 10 look like a 12, what do you need to do? Simple. Act threatened by her. If you pretend not to notice her, he’ll see your confidence in yourself and then he’ll become intrigued with you. Then another curious thing will happen. Suddenly she won’t look so good. She only has as much power as you give her. A girlfriend of mine named Samantha went on a first date with a man who took her to a local boxing match. In between rounds, as always, there was a sexy, barely dressed stripper who came out holding the round number. Her date looked at the woman and then, in an effort to be a gentleman, turned to look at Samantha. She acted as though she was oblivious as to why he had turned to look at her. When the woman came out again in the following round in a see-through lace nightie, my friend leaned down under the seat and nonchalantly asked her date if she could drink some of the water in his water bottle. He said, “Sure.” At no time did she behave as if she was threatened. Instead, she remained very composed as though the other woman didn’t even exist. By the end of the third round, he no longer noticed the woman in the boxing ring. The end result was that he was completely enamored with Samantha. And while driving home, he kept saying how incredibly beautiful he thought she was.*  
+
+- Page 21 (location ~ 311-322)    
+
+*If you are in an uncomfortable situation, don’t feel compelled to compete with another woman. In addition, you don’t need to expose a lot of skin or feel as if you have to work harder to earn a man’s sexual attention. I know a woman who takes off layers of clothes based on how the other women in the room are dressed. The issue again is overcompensation. No need. Wearing your sexuality on your sleeve isn’t advantageous in luring a man. The issue is not about whether you are successful in turning him on; this is no big achievement. He can get aroused from riding a motorcycle or from sleeping. The issue is not whether you turn him on; it’s whether he stays turned on after he has been satisfied. This is the key.*  
+
+- Page 22 (location ~ 327-332)    
+
+*Quality men are attracted by less, not more. If he sees a pretty secretary wearing her hair in a bun, right there in broad daylight he’s going to start wondering what she looks like with her hair down. If he sees a woman dressed in a way that shows there is something moving behind a sweater that he can’t see, his desire to see is greater than if she’s showing it right off the bat. When you show your shape, but don’t expose every inch, the “unwrapping of the gift” becomes much more stimulating. If he has to unbutton an item of clothing to get to what he wants to see, it turns him on more. Not less. You often hear a man say of a provocatively dressed woman, “I wouldn’t kick her out of bed for eating crackers.” This is true until he’s had “his way” with her and then crackers or no crackers, he moves on. The difficult part isn’t getting a man’s interest. The trick is knowing how to sustain it.*  
+
+- Page 22 (location ~ 332-339)    
+
+*Je ne sais quoi is a French expression that translates to “I don’t know what.” It implies “that something special” that there aren’t words for. It is that elusive charming quality you just cannot put your finger on. What does this quality boil down to? A woman who is comfortable in her own skin and cannot be made to feel bad about herself. It isn’t about looks; gorgeous women get dumped every day. It isn’t about intelligence. Women of all types, from brilliant women to women with the IQ equivalent of plant life, pull it off every day. It’s about mystery and learning how to create intrigue. When you lose your edge, the relationship loses its fire. Think of him as the match. You are the striking board on the back of the match cover. When the rough edge or sand wears off and starts to become dull, it is much harder to get that spark.*  
+
+- Page 24 (location ~ 360-367)    
+
+*ATTRACTION PRINCIPLE #8 The biggest variable between a bitch and a woman who is too nice is fear. The bitch shows that she’s not afraid to be without him.*  
+
+- Page 25 (location ~ 377-379)    
+
+*Margaret Atwood said, “Fear has a smell, as love does.” It is said that excitement and fear come from the same part of the brain. When a man is slightly afraid of losing a woman, his excitement is piqued. His psyche is like a plant. It needs water but also air to breathe. To give a man too much reassurance too soon is the same as overwatering a plant. It kills it. One of the things women have to get out of their mindset is the notion of what a bitch is. A bitch is nice. She’s sweet as a Georgia peach. She smiles and she is feminine. She just doesn’t make decisions based on the fear of losing a man.*  
+
+- Page 25 (location ~ 380-385)    
+
+*ATTRACTION PRINCIPLE #9 If the choice is between her dignity and having a relationship, the bitch will prioritize her dignity above all else.*  
+
+- Page 26 (location ~ 387-389)    
+
+*A bitch is not a woman who speaks in a harsh tone of voice. It is not a woman who is abrasive*  
+
+- Page 26 (location ~ 397-398)    
+
+*Let us conclude this chapter by redefining the word bitch. Think of it as a “term of endearment.” A bitch is not a woman who speaks in a harsh tone of voice. It is not a woman who is abrasive or rude. She is polite but clear. She communicates directly with a man, in much the same way men communicate with one another. In this way, it’s easier for a man to deal with her than with a woman who waffles or appears too emotional, because the emotionally sensitive type of woman confuses him. The bitch knows what she likes and has an easier time expressing it directly. As a result, she usually gets what she wants. Here are the ten characteristics that define her. 1. She maintains her independence. It doesn’t matter if she is the CEO of a company or a waitress at Denny’s. She earns an honest living. She has honor, and she isn’t standing there with her hand out. 2. She doesn’t pursue him. The moon and the sun and the stars don’t revolve around him. She doesn’t make her dates with him when her horoscope advises that his big Mercury is about to retrograde in her little Venus. She doesn’t chase him or keep tabs on him. He is not the center of the world. 3. She is mysterious. There is a difference between honesty and disclosure. She is honest but does not reveal everything. She isn’t verbally putting her cards on the table. Familiarity breeds contempt and predictability breeds boredom. 4. She leaves him wanting. She doesn’t see him every night or leave long messages on his machine. She isn’t on a first-name basis with his secretary in one week. Men equate longing with love. Longing is good. 5. She doesn’t let him see her sweat. She keeps communication from getting messy and avoids communicating when upset. When she clears her head, she is succinct and speaks in a “bottom line” way. 6. She remains in control of her time. She takes it slowly, especially when he wants to hurry. She moves to her rhythm, not his, preventing him from taking control of her. 7. She maintains a sense of humor. A sense of humor lets him know she is detached. However, she doesn’t treat disrespect as a laughing matter. 8. She places a high value on herself. When he gives her a compliment, she says thank you. She doesn’t talk him out of it. She doesn’t ask what the ex looked like and doesn’t compete with other women. 9. She is passionate about something other than him. When he feels he isn’t the “be all and end all” of her existence, it makes her more desirable. Staying busy ensures she isn’t resentful if he is unavailable. He doesn’t have a monopoly on the rent space in her head. He doesn’t get Park Place, and he doesn’t get Boardwalk. He gets one of those little purple properties next to Go. 10. She treats her body like a finely tuned machine. She maintains her appearance and health. A person’s self-respect is reflected in how he or she maintains physical appearance. If he tells her he doesn’t like red lipstick, she wears it anyway, if it makes her feel good.*  
+
+- Page 26 (location ~ 396-426)    
+
+*Women need to understand that men love the “thrill of the chase” and are highly competitive. They like racing cars, engaging in athletics, and hunting. They like to fix things, to figure things out, to pursue. The cat-and-mouse game that women find maddening is actually very exciting to men. This is a very basic difference between the sexes. For a woman, the objective is often a committed relationship, also known as the destination. For a man, the road trip on the way to the destination is often the most fun.*  
+
+- Page 29 (location ~ 432-436)    
+
+*No one respects a freebie or a handout in any facet of life. When a woman sleeps with a man right away, it doesn’t pull him in. The men I interviewed often admitted that if the sex was too easy to get, it was not that great. It’s like blackjack. If he wins big right up front, he’s done for the night. But with the slow win, things develop differently He wins a few hands and then loses a couple. At this point, wild horses couldn’t pull him away, because he feels so close to winning again. He can almost taste it. His inborn, competitive male nature kicks in and makes him stay there and fight. And if he’s losing, he’ll fight even harder.*  
+
+- Page 29 (location ~ 439-444)    
+
+*ATTRACTION PRINCIPLE #10 When a woman doesn’t give in easily and doesn’t appear docile or submissive, it becomes more stimulating to obtain her. Another example is when he goes on a hunting trip with “the boys.”*  
+
+- Page 29 (location ~ 444-447)    
+
+*ATTRACTION PRINCIPLE #10 When a woman doesn’t give in easily and doesn’t appear docile or submissive, it becomes more stimulating to obtain*  
+
+- Page 29 (location ~ 444-445)    
+
+*ATTRACTION PRINCIPLE #10 When a woman doesn’t give in easily and doesn’t appear docile or submissive, it becomes more stimulating to obtain her.*  
+
+- Page 29 (location ~ 444-445)    
+
+*ATTRACTION PRINCIPLE # 11 Being right on the verge of getting something generates a desire that has to be satisfied.*  
+
+- Page 30 (location ~ 454-455)    
+
+*Women understand the concept of balance between work and play. They balance time with family and time with friends. They balance a job with getting an education. But when it comes to a man, the nice girl abandons all sense of balance and immediately makes the man the whole pie. But with a bitch, he is just a piece of it. She keeps the other pieces intact. It all starts out subtly. “What are you doing right now?” he asks when he calls her from his cell phone. “Well, I was going to catch a movie with a girlfriend,” she answers. The operative word is was (past tense). Then he asks, “Want to hook up?” She pauses for two seconds. “Okay.”*  
+
+- Page 33 (location ~ 500-505)    
+
+*A man will try to get you to be very accessible because it’s natural that he’ll want to make things more convenient for himself. And he’ll do so by saying the following to pressure you to accommodate him: “I don’t like to plan things.” “I like to be spontaneous.” “I like to fly by the seat of my pants.”*  
+
+- Page 33 (location ~ 505-508)    
+
+*ATTRACTION PRINCIPLE #12 A man knows which woman will give in to last-minute requests.*  
+
+- Page 34 (location ~ 514-515)    
+
+*THE SPONTANEOUS GUY WHO IS TREATING YOU LIKE A BACKUP VS. THE SPONTANEOUS GUY WHO ADORES YOU You don’t hear from him for two weeks at a time and then all of a sudden you get a phone call. He makes dates ahead of time, and he also wants to see you spontaneously in between. He prioritizes social engagements with his drinking buddies. His buddies complain that he fell off the face of the earth. They hassle him but he doesn’t seem to care. He makes travel arrangements with friends and never asks you to accompany him. He’s constantly asking you to take time off from work so you can get away together. He’s irritable when he’s around you and frequently complains of not having more time to himself. He’s happy to be in your company. His friends and family all think he looks happier than he’s ever looked. He calls you to cancel plans for that evening. Later that night, you call right back and it goes directly to voice mail. Then he calls the following day with a good excuse. If he has to cancel, he feels badly about it. He calls you when he gets in from wherever he is because he has nothing to hide and he wants you to know he’s being totally “on the level.” He won’t ever take you out or spend much money. He may ask you for a loan. Before you know it, you’re supporting the guy through college. He’ll do anything just to see you smile. You make it known that you’re available on a weekend night. And even though he works during the week, he doesn’t make himself available to see you. He almost always sees you whenever you have time, unless he has a professional commitment or there’s an important extenuating circumstance.*  
+
+- Page 34 (location ~ 521-539)    
+
+*A common example is the typical “booty call.” First, the guy waits to hear back from someone else before confirming whether he can see you. He’ll call at 5:00 and say he hasn’t showered yet and he’s on the way At 7:00 he calls again and pulls the plug: “My friend Troy stopped by” Then he says he’ll make it an early night with Troy and tells you he wants to get together afterward. He gets in late, and that’s when he offers to see you, providing you drive to his place. No matter how much you want to see him, don’t go. At this point, you want to seriously consider not ever seeing him again. If you do go, you won’t be more appealing to him; you’ll be turning the dimmer switch down on his attraction for you.*  
+
+- Page 36 (location ~ 540-545)    
+
+*There is nothing wrong with having a little self-respect— and a few conditions. Condition #1. He books in advance. The message? Your time and attention are valuable.*  
+
+- Page 37 (location ~ 556-557)    
+
+*Condition #2. Don’t see him when you are “running on empty.” The message? He does not come before basic necessities (i.e., rest).*  
+
+- Page 37 (location ~ 565-566)    
+
+*Condition #2. Don’t see him when you are “running on empty.” The message? He does not come before basic necessities (i.e., rest). He says he’d like to see you at 9:00 P.M., and you don’t want to be out too late? Tell him, “I’d prefer to get together earlier.” If he can’t because he is working late, make no issue of it. Simply suggest getting together another night.*  
+
+- Page 37 (location ~ 565-568)    
+
+*Condition #3. If you aren’t having fun or he isn’t good company, end the date immediately, and give a superficial explanation as to why. The message? You have a standard of how you expect to be treated. For example, you are on a first date. He gets drunk and behaves badly. For starters, never get into a car with someone who is drinking. Always keep a credit card in your back pocket or a $20 bill in your bra. Tell him you are going home early. Excuse yourself, go to the little girl’s room, and call a cab.*  
+
+- Page 38 (location ~ 569-573)    
+
+*ATTRACTION PRINCIPLE #13 Whether you have terms and conditions indicates whether you have options. Almost immediately, you present yourself as a doormat or a dreamgirl.*  
+
+- Page 38 (location ~ 581-583)    
+
+*“Terms and conditions” are a novel idea for the woman who is too nice. (And you shouldn’t leave home without them.) Don’t get me wrong: Unconditional love is a beautiful thing. Just be sure to give it after your conditions have been met.*  
+
+- Page 39 (location ~ 584-586)    
+
+*The Mamal Ho Complex In the field of psychoanalysis, there’s a male hang-up called the Madonna/Whore Syndrome. Let’s forget all the fancy psychobabble and refer to the informal Mama/Ho version to better understand our male counterparts. The Mama/Ho theory holds that a man will either see you as his “mama” or his “ho.” The word ho is a derivative of the word whore. It is not a garden tool. A ho is any woman he is having sex with, any woman he wants to have sex with, or any woman he has had sex with. The antonym for ho is mama. A man will feel affectionate toward a woman who is really sweet and nice, much like the affection he has for his mother. Because she doesn’t present a challenge and she’s always there, he begins to take her for granted. This is when you hear men say, “She’s really nice, but there just wasn’t any chemistry.” Therefore: SAFE + BORING + MAMA = NO SPARK & UNPREDICTABLE + NOT MONOTONOUS + HO = FIREWORKS Even though a man is turned on by the independent woman he can’t have, he’ll still try to get you to be like his mama. He’ll want you to cook, clean, and do his laundry. One woman I know nipped the issue of laundry in the very beginning. Early in her marriage, she threw a red sweat-shirt in with all of her husband’s white cotton underwear. Then she turned the water on hot to seal the deal. The only underwear he had left was the pair he was wearing. No self-respecting, heterosexual male would ever be caught dead wearing pink underwear.*  
+
+- Page 39 (location ~ 586-599)    
+
+*These are the major Mommy no-no’s: Do not appear to check up on him or ask him to check in with you. Do not expect him (without asking first) to spend all his free time with you. Do not ask him to account for the time that he isn’t with you. Do not be overly doting, leaving him no room to come your way. Never give the appearance that you are closing in on him. For example,*  
+
+- Page 40 (location ~ 604-609)    
+
+*These are the major Mommy no-no’s: Do not appear to check up on him or ask him to check in with you. Do not expect him (without asking first) to spend all his free time with you. Do not ask him to account for the time that he isn’t with you. Do not be overly doting, leaving him no room to come your way.*  
+
+- Page 40 (location ~ 604-608)    
+
+*ATTRACTION PRINCIPLE #14 If you smother him, he’ll go into defense mode and look for an escape route to protect his freedom.*  
+
+- Page 41 (location ~ 617-620)    
+
+*When you treat your time together as something he has to do, you’ve taken something that was a pleasure and made it a chore. If you are nice, but you give of yourself with strings attached, the demand for reciprocity will send him several steps backward. Whenever you make him feel as though he has to see you, it will feel like work. When it’s not an obligation to see you, the very same thing will feel like pleasure. ATTRACTION PRINCIPLE #15 Whenever a woman requires too many things from a man, he’ll resent it. Let him give what he wants to give freely; then observe who he is.*  
+
+- Page 42 (location ~ 631-636)    
+
+*The No Cage Rule The minute a man feels vulnerable, he fears being devastated emotionally. When he meets a nice girl, she could potentially represent “forever.” Heaven forbid she lets the word relationship trip off her tongue a couple of times? Call 911. He immediately thinks she wants to latch onto him and have babies. Heaven forbid you get excited to see a cute baby? Trauma. He has nightmares and sees it as a sign that he’s in dire need of a backup form of birth control. Sometimes you hear men say, “I want to leave my options open” or “I don’t want to get tied down.” Or they use catch phrases like ball and chain or henpecked. My favorite is a hyphenated term that begins with a female body part and is followed by the word whipped. ATTRACTION PRINCIPLE #16 A bitch gives a man plenty of space so he doesn’t fear being trapped in a cage. Then . . . he sets out to trap her in his.*  
+
+- Page 42 (location ~ 642-650)    
+
+*Ask yourself the following . . . Ever have a pillow fight and notice that you and your partner are more turned on? Ever notice that when you play-wrestle with a man, he gets all fired up? Ever notice when a man steps over the line and you put him in his place, he gets turned on? Ever wonder why the men you aren’t interested in won’t stop chasing you? When you’re dating someone and you don’t pay attention to him, does he seem more intrigued and chase you even more? Have you ever played with your pet and noticed that your man seems jealous? To fully understand these occurrences, we must focus our attention on where the true answer lies: The Animal Channel. Men are hunters, and like any hunting animal, they are more intrigued by conquering prey when it resists the predator. Most men are turned on by a bitch because it’s a thrill to take down a powerful woman.*  
+
+- Page 44 (location ~ 663-672)    
+
+*ATTRACTION PRINCIPLE #17 If you tell him you are not interested in jumping into a relationship with both feet, he will set out to try to change your mind.*  
+
+- Page 45 (location ~ 676-677)    
+
+*Things You Can Say to Avoid the Cage When you go on a first date, tell him you “don’t want to be in a serious relationship, for the time being.” (Of course, things may change.) When you work together, say, “I don’t know if it’s a good idea for us to mix business with pleasure.” (You need a little convincing.) When it’s a long-distance relationship, say, “I’m not sure long-distance relationships can work.” (Tentative is good.) The opposite is also true. If, for example, you don’t like him and wish he’d stop calling, try, “Babies? I love babies! I want at least a half a dozen of them, maybe more. My clock is ticking so I’d like to have them soon. Real soon. Perhaps six of them in the next four years . . .” Keep talking about those babies.*  
+
+- Page 45 (location ~ 684-691)    
+
+*“She’s a bitch, so I won’t get too serious. I’ll just have a little fun,” he says to himself. Fun equals freedom. That is, until he gets attached and then it’s checkmate. Men don’t choose to be in love. It happens by accident. That’s why they coined the phrase to fall in love. As in “Oops!” He fell. He had a plan . . . but it went terribly awry. ATTRACTION PRINCIPLE #18 Always give the appearance that he has plenty of space. It gets him to drop his guard.*  
+
+- Page 46 (location ~ 698-703)    
+
+*When he’s in madly in love, you won’t need to say things like “Where are you going?” or “What are you doing?” He’ll tell you everything you ever wanted to know because he wants to, not because you had to ask. And, if and when he does go out with the boys, he won’t be able to wait to get home to you.*  
+
+- Page 46 (location ~ 704-706)    
+
+*Who can forget the scene in Coming to America in which Eddie Murphy, as the prince, stands before the altar prepared to wed his beautiful bride in a prearranged marriage? Before the ceremony, he takes the bride into a back room and asks her, “What do you like?” She responds, “Whatever you like.” Then he asks her what she likes to eat. “Whatever you like.” Her answers become more and more subservient. Then he tells her to bark like a dog and hop on one leg. When she does, he realizes he can’t go through with the wedding. A man wants a woman who has a mind of her own. An opinion. The way you assert yourself lets him know whether you have self-confidence. It lets him know you can hold up your end of the bargain. When he gives you a “little crap,” you can give him a “little crap” right back. He respects a woman who can “trade blows” with him and hold her own. You don’t have to always agree with everything he believes. A man falls in love with a woman when he feels he has “met his match.”*  
+
+- Page 47 (location ~ 707-715)    
+
+*For example, suppose you’re at the video store deciding between two movies to rent. Don’t get the one that you’ve already seen. “I’ll see it again if you haven’t seen it.” Slap yourself. “There are a lot of good movies. How about we get one neither one of us has seen?” If he suggests Indian food and you absolutely hate it, say, “Hey, I heard there’s a really good new restaurant right next door.” Show him that you aren’t afraid to make a suggestion or take the initiative. Assume that a man wants to be a gentleman. And if he wants to be a gentleman, he wants to please you. The bitch requires an equivocal situation, whereas the nice girl does not. If the guy insists on picking the movie or restaurant all the time and has no regard for what she likes, the bitch will not have any contact with him. It isn’t about Italian or Chinese. It isn’t about one movie over another. It’s about whether he shows her he is selfish. This is a character flaw the bitch won’t tolerate.*  
+
+- Page 48 (location ~ 723-730)    
+
+*ATTRACTION PRINCIPLE #19 More than anything else, he watches to see if you’ll be too emotionally dependent on him.*  
+
+- Page 49 (location ~ 737-738)    
+
+*ATTRACTION PRINCIPLE #20 He must feel that you choose to be with him, not that you need to be with him. Only then will he perceive you as an equal partner.*  
+
+- Page 49 (location ~ 751-753)    
+
+*This is also why giving him space is so important. It makes you look proud rather than desperate. It enables you to remain a challenge indefinitely. Why? You chose to be with him. You didn’t need to be. As a person, you feel you are complete with him or without him. This is the most important thing you can convey: independence rather than dependence. This is what gives him the perception you can hold your own.*  
+
+- Page 50 (location ~ 757-759)    
+
+*Ever wonder why you see a gorgeous guy marry the girl-next-door? To your eye she looks plain, but to his eye she’s a “natural beauty.” It doesn’t matter if her most glamorous moment was winning the Miss Pumpkin Patch contest on a farm at age six. When he goes to bed with her, he’s happier than a fat rat in a cheese factory. In general, there are two things a woman does to encourage a man to fall madly in love after he is attracted to her. First, she appeals to his imagination, sexually. Second, she waits a little while before consummating the relationship, sexually. This brings us to the “candy store” theory: Don’t give up the candy store at once. Give it one jujube at a time. ATTRACTION PRINCIPLE #21 If a man has to wait before he sleeps with a woman, he’ll not only perceive her as more beautiful, he’ll also take time to appreciate who she is.*  
+
+- Page 51 (location ~ 770-777)    
+
+*What men don’t want women to know is that, almost immediately, they put women into one of two categories: “good time only” or “worthwhile.” And the minute he slides you into that “good time only” category, you’ll almost never come back out. It’s not that the bitch is slutty or more conservative—it’s that she demands that he treat her as though she is “worth-while.” And, more often than not, it means revealing her sexuality a little at a time. With her demeanor, the bitch is subtly “driving that train.” Because he perceives her as slightly standoffish, he knows a lot of other men can’t get to her. In fact, he’s not even sure if he can have her. So he’ll rarely get the luxury of being able to assume that she’s a “good time only” companion.*  
+
+- Page 51 (location ~ 778-784)    
+
+*A man named Brad described this distinction: “There are two types of sexy. The woman who is obviously trying to be sexy. Then there is the woman who isn’t trying to be sexy—she just is. Most guys find the second one to be much sexier. It may not seem like that, because the woman who is trying hard will get you to do a double-take because she’s more obvious about it. But the woman who isn’t trying is sexier. And that’s the girl you’ll take seriously.” What is more interesting is that Brad is just out of college. And if a guy in his early twenties saw this with 20/20 vision, rest assured—so will most men you meet.*  
+
+- Page 52 (location ~ 788-793)    
+
+*How long should you wait before having sex? As long as you can. At the very least, keep it platonic*  
+
+- Page 53 (location ~ 810-810)    
+
+*A “GOOD TIME ONLY” WOMAN VS. A “WORTHWHILE” WOMAN She talks a lot about sex on the first date or in the first phone conversation. She flirts more subtly and uses body language to convey her sensuality. She wears an outfit that is very short, showing leg, cleavage, and back. Her sexuality is overstated. She follows the pattern of what he sees all the time. She shows one physical attribute. Or she wears something that’s slightly sheer. Her sexuality seems like it’s a part of who she is. It doesn’t seem forced. She compliments him incessantly or hangs all over him. She keeps him interested by giving him compliments when he’s hoping to have sex, so he feels he’s “in the game.” She wears a black lace teddy for him on the third date, leaving nothing for him to imagine. She hangs the same nightie on the back of her bathroom door, so he sees it when he uses her bathroom. Then his eyes almost burn a hole through her clothes as he imagines seeing her in it. On the second date she invites him in. He promised they’d “just cuddle.” They end up sleeping together; but she ends up feeling insecure about it. He has then had the whole candy store. They kiss passionately at the door. She’d love to invite him in, but she controls her own urges and tells him good night on her porch. The spark fizzles. The spark doesn’t fizzle . . . it ignites. How long should you wait before having sex? As long as you can. At the very least, keep it platonic for the first month. This tactic gives you time to learn about him. You don’t want to wait until after you sleep with him to learn he’s married. Or that he has an ex-girlfriend who has chronic car problems and regularly needs a lift. Or that his first cousin recently dumped him when he cheated on her with her older sister.*  
+
+- Page 52 (location ~ 795-813)    
+
+*And in his mind, you are the most beautiful thing he’s ever seen. It’s all about having that magic spark. And men live for that spark. ATTRACTION PRINCIPLE #22 Sex and the “spark” are not one and the same.*  
+
+- Page 54 (location ~ 817-819)    
+
+*ATTRACTION PRINCIPLE #23 Before sex, a man isn’t thinking clearly and a woman is thinking clearly. After sex, it reverses. The man is thinking clearly and the woman isn’t.*  
+
+- Page 55 (location ~ 831-833)    
+
+*ATTRACTION PRINCIPLE #23 Before sex, a man isn’t thinking clearly and a woman is thinking clearly. After sex, it reverses. The man is thinking clearly and the woman isn’t. When sex happens at lightning speed, the man has achieved what he wanted. The reason he thinks more clearly after sex is that he’s relieved and has already attained his goal. Meanwhile, the woman is just starting to pursue her goal. She has unfinished business. Then she chases him . . . and he runs.*  
+
+- Page 55 (location ~ 831-836)    
+
+*ATTRACTION PRINCIPLE #24 Every man wants to have sex first; whether he wants a girlfriend is something he thinks about later. By not giving him what he wants up front, you become his girlfriend without him realizing*  
+
+- Page 55 (location ~ 843-845)    
+
+*ATTRACTION PRINCIPLE #24 Every man wants to have sex first; whether he wants a girlfriend is something he thinks about later. By not giving him what he wants up front, you become his girlfriend without him realizing it.*  
+
+- Page 55 (location ~ 843-845)    
+
+*This may sound “old school,” but rest assured it is advice based on countless interviews I conducted with men, both young and old. A perfect example is Nathan. He just turned twenty-five, and he does pretty well with the ladies. Here’s what he had to say, word-for-word: If she gives it up too soon, we stop with the romance and we stop working at it. And truthfully, we’d rather be working hard at it. We enjoy playing the game, and if it ends too soon, we’re disappointed. We even struggle inside, subconsciously. We know we want to get it, but we know we want the girl to make us wait. Otherwise, it’s a one- or a two-time thing. And then you move on. Granted, there are some men who don’t want to invest any effort. These are the men who subscribe to the “three-date rule.” This rule holds that if a woman doesn’t put out by the third date, the man should stop pursuing her altogether. There are men who truly want to find a woman they can spend time with. However, the “three-date rule” is for men who have ruled out this option entirely; they just want to hit and run. If a man leaves because he didn’t score by the third date, it’s a clear signal he would have left after getting it anyway. The nice girl is more likely to feel obligated, pressured, or manipulated to sleep with a man early on. She sleeps with him and then believes she’ll hook him with great sex, as though what she has to offer sexually is “golden.” The bitch understands that the sex only becomes “golden” when he doesn’t get it right away. Don’t be misled by the fact that men want it quick and they are accustomed to having it be easy. If given the option, most men would love to know how much it would take—the bottom-line dollar figure—to get a woman into bed. It’s almost as if there is an unspoken transaction between the guy and the nice girl, in which a bartered transaction takes place: “Lookie, here. I’m willing to spend the equivalent of two dinners, a bouquet of flowers, and a movie—for a grand total of $255.92. And not a penny more.” He budgets how much he can spend and wants to know how much it will cost. The bitch is smarter. She knows that if he’s not pursuing her, he’ll pursue someone else. So whatever his budget is, large or small, she makes sure it is spent on her and on no one else. In her mind, she’s the best investment he’ll ever make. The “three-date rule” will fall on deaf ears with the bitch.*  
+
+- Page 56 (location ~ 851-871)    
+
+*ATTRACTION PRINCIPLE #25 A man intuitively senses whether sexuality comes from a place of security or from a place of neediness. He knows when a woman is having sex to appease him.*  
+
+- Page 57 (location ~ 873-875)    
+
+*When sex happens early on because the nice girl wants desperately to hold on to a man, his behavior changes completely The dinners, the candlelight, the flowers—it all comes to a screeching halt. Instead of taking her out to dinner and a movie, now he’s dropping by unannounced with a video because he already knows what’s going to happen. However, when a woman makes him wait and he’s romantic over time, the dinners and the flowers keep on coming. Why? Because he formed the habit of treating her with respect before he got what he wanted. ATTRACTION PRINCIPLE #26 Bad habits are easier to form than good ones, because good habits require conscious effort. Waiting encourages this effort. A quality guy will stick around as long as he is being reassured in two areas: He wants to know that he is sexually desirable to you, and he wants to see signs that he is still in “the game.”*  
+
+- Page 58 (location ~ 881-889)    
+
+*ATTRACTION PRINCIPLE #27 If you pull the sexual plug at the last minute, he’ll label you a tease.*  
+
+- Page 59 (location ~ 904-905)    
+
+*The following guidelines will allow you to delay the time before you have sex without being perceived as a tease: In the beginning, try not to be alone at his place or at yours, especially very late at night. Do things socially that require that you to meet somewhere in public. Or have him pick you up and then have somewhere to go. Do fun things during the daylight hours. If you go biking, it will seem like a red light. But if you’re both wrapped up in a blanket in front of a fireplace with a bottle of wine at midnight, he’ll assume you’ve given him a green light. Give kisses that are sexy and sensual. But do it while you’re out, where it is unlikely to last too long. Don’t get him worked up when you’re alone together, while rolling around on the floor, a bed, or the couch. The first few times you go out, he may want to come in late at night, after your date. If you think he’s going to make a move but you aren’t quite ready, abort the mission at the door. If you live in an apartment building, say good night in the lobby. “Thanks so much, I’ve had a great time.” Smile a lot, laugh at his jokes, and be good company. You want him to think of you as a friend as well as a lover. It’s a great sign if he babbles on about himself, especially if he’s a little nervous. If he likes you, he’ll want to open up. Flirt in moderation. Be careful of sexual joking because it’s never really a joke. A lot of times men will use humor to see where the parameters lie. Don’t be a prude—you can laugh at the jokes and be playful. But don’t stay on the subject of sex for a long time, or he’ll view it as a green light. Compliment him. Let him know he’s desirable to you. For example, lean close and smell his cologne when he gives you a hug. Or tell him he looks gorgeous. This subtly confirms you choose to wait for reasons that have nothing to do with his desirability. Show that you are affectionate and loving. Hold hands or put your head on his shoulder so he feels manly. Rub his leg lightly while you are at the movies. But don’t tease him; this means stay close to the knee.*  
+
+- Page 60 (location ~ 910-927)    
+
+*ATTRACTION PRINCIPLE #28 If he makes you feel insecure, let your insecurity be your guide.*  
+
+- Page 62 (location ~ 951-952)    
+
+*How to Fake an Orgasm— The Animated Guide Arch your back at a 45-degree angle and pant like a dog. Recite a couple of bad lines from a B-rated blue movie. Example: Tell Big Poppa he does it for you like no one else can. And the basics: “Yes, yes, yes . . . harder, harder. . . don’t stop!” Then you’ll want to immediately slap the nearest pillow. Mix it up. This means sometimes you’ll want to slap the pillow then scream, other times you want to scream first, then slap the pillow. Men love variety. Don’t forget to suck your finger. Now for show and tell: Ask him whose “it” is, and tell him that it’s his! If he switches positions, stops for a rest, or reaches for a drink of water, pay no attention and keep screaming anyway. Now for the alleged orgasm: Scream like a ban-shee, and begin those Kegel exercises.*  
+
+- Page 63 (location ~ 963-972)    
+
+*How to Fake an Orgasm— The Animated Guide Arch your back at a 45-degree angle and pant like a dog. Recite a couple of bad lines from a B-rated blue movie. Example: Tell Big Poppa he does it for you like no one else can. And the basics: “Yes, yes, yes . . . harder, harder. . . don’t stop!” Then you’ll want to immediately slap the nearest pillow. Mix it up. This means sometimes you’ll want to slap the pillow then scream, other times you want to scream first, then slap the pillow. Men love variety. Don’t forget to suck your finger. Now for show and tell: Ask him whose “it” is, and tell him that it’s his! If he switches positions, stops for a rest, or reaches for a drink of water, pay no attention and keep screaming anyway. Now for the alleged orgasm: Scream like a ban-shee, and begin those Kegel exercises. Squeeze . . . release . . . squeeze . . . release. And after sex, don’t forget pillow talk. You’ve had two men before him. (Okay, three, tops. But that’s your final offer.) WARNING: If your man sees this page, it could have an adverse effect (erectile dysfunction). A bitch is far less likely to put on a “cartoon” show. She is much more honest. She asks for what she wants. If he doesn’t do it right, she won’t encourage him by giving disingenuous feedback. Yet then he doesn’t learn how to please her, and that won’t work because the bitch rightly cares about her own pleasure.*  
+
+- Page 63 (location ~ 963-977)    
+
+*It is much more of a turn-on to a man when a woman is able to be herself and she’s honest about what she likes and dislikes. A man loves watching a woman get off; it’s an automatic turn-on. And that’s much more important than putting on an award-winning performance. ATTRACTION PRINCIPLE #29 A quality guy fantasizes about a woman who genuinely loves sex.*  
+
+- Page 64 (location ~ 979-982)    
+
+*The nice girl will also make the mistake of being disingenuous in other ways. For example, suppose she sleeps with him on the second date and he asks how many lovers she’s had. She gives the oldest line in the book: “I’ve only had three lovers.” The bitch will not go there. She won’t sleep with a guy right away and then try to give the almost-virgin shtick: “I’ve only had three lovers . . . the first one hurt . . . the second wasn’t as good as you . . . the third one had three inches and thirty seconds of fury . . . and the fourth . . . uh, oops . . . there wasn’t a fourth. Okay, yes, there was a fourth. But we didn’t go all the way, so it doesn’t count . . . the fifth one doesn’t matter either because I was drunk . . . .” If you tell him you’ve had three lovers and you are over the age of a fetus, he’ll know you’re a straight-up liar. Show him with your actions that you are a classy woman by letting him wait. And if he pries or wants to know about your private life say, “I probably haven’t been with as many men as you’ve been with women.” If you become defensive as if you have something to hide, up goes the red flag. What do you do when he boasts about his past conquests? The last thing you want to do is listen, because you’ll get the embellished version—and you might actually believe some of it is true.*  
+
+- Page 65 (location ~ 987-997)    
+
+*“Honey, I’m not one of the guys. Please don’t tell me about other women you’ve been with.” ATTRACTION PRINCIPLE #30 Any time a woman competes with another woman, she demeans herself.*  
+
+- Page 66 (location ~ 999-1001)    
+
+*ATTRACTION PRINCIPLE #31 When there is that undeniable “spark,” there is only one key to the lock.*  
+
+- Page 66 (location ~ 1009-1010)    
+
+*The Dumb Fox Handles His Ego with Kid Gloves In the last chapter we touched on why power is intoxicating to a man in the very same way that romance is intoxicating to a woman. And now . . . a closer look. In order to motivate a man to give, he must feel good when he gives. He wants to feel appreciated and revered. Ego is the reason men go to war. It’s the reason they build large corporations. Ego is the reason they stick needles in their butts at the gym before lifting heavy weights. It’s the reason they beg, steal, and borrow. And ego is the reason they fall in love. The explanation may sound obvious, but it’s not: A man needs to feel “manly.” That’s why he won’t stop to ask for directions. It doesn’t matter if you tell him that six exits ago he was supposed to go west. He’ll still push the pedal to the metal and hightail it in the opposite direction. Men don’t get lost. They merely . . . “Get familiar with another area.” “Change destinations.” “Look to see what is down another street.” “Explore new terrain.” He’s never lost. No, Inspector Gadget is merely “checking things out” in every last square foot of a 37-mile radius that is outside the intended destination.*  
+
+- Page 67 (location ~ 1019-1030)    
+
+*ATTRACTION PRINCIPLE #32 Let him think he’s in control. He’ll automatically start doing things you want done because he’ll always want to look like “a king” in your eyes.*  
+
+- Page 68 (location ~ 1036-1038)    
+
+*ATTRACTION PRINCIPLE #33 When you cater to his ego in a soft way, he doesn’t try to get power in an aggressive way.*  
+
+- Page 69 (location ~ 1054-1055)    
+
+*ATTRACTION PRINCIPLE #34 When you appear softer and more feminine, you appeal to his instinct to protect. When you appear more aggressive, you appeal to his instinct to compete.*  
+
+- Page 70 (location ~ 1061-1063)    
+
+*ATTRACTION PRINCIPLE #34 When you appear softer and more feminine, you appeal to his instinct to protect. When you appear more aggressive, you appeal to his instinct to compete. Whenever you give a man the impression that you want to “wear the pants,” you’ll almost always have a battle on your hands, in which case, congrats—you’ve become his opponent. If he competes, he plays to win at your expense, and good luck getting anything that way. Men need a little coaching, and the way to coach them is to praise them when they behave well. A man’s favorite word? “Best.” It doesn’t matter if you say, “Honey, you eat those beer nuts the best—like no one I have ever met in my life.” Use the word best, and you’ll always have his full attention.*  
+
+- Page 70 (location ~ 1061-1068)    
+
+*Handling his ego with kid gloves is as easy as learning your A-B-Cs. When her child brings home a crayon drawing from kindergarten—no matter how ugly it is—a mother doesn’t criticize it. She’d never say, “Is that a dog or a cow? Hey kid—don’t quit your day job.” Instead she tells him, “This is a masterpiece!” Then the child thinks he is the next Picasso, and he draws ten more pictures.*  
+
+- Page 72 (location ~ 1096-1099)    
+
+*If he can’t afford it, suggest an inexpensive place or do something that doesn’t cost money. Visit a museum. Go on a bike ride. Split a dinner plate, and don’t order alcohol. However, if he asks you to split the check on the first few dates, don’t see him again. It has less to do with a few dollars than with the fact that he’s not very concerned with impressing you. And that’s never a good sign. ATTRACTION PRINCIPLE #35 He’ll let a woman who becomes his doormat pay for dinner on the first couple of dates, but he wouldn’t think of it with his dreamgirl.*  
+
+- Page 73 (location ~ 1106-1111)    
+
+*If he doesn’t help out around the house, the dumb fox doesn’t complain and say, “You can’t put a price on what I do around the house.” Instead, she gets an estimate from a maid service. See how easy? Now not only does she “put a price on it,” she even pays it to someone else. Here’s another example of how a dumb fox might “maneuver.” A friend named Sharon was running herself ragged trying to clean up after her kids and her husband. She wanted to have someone come in to help her once a week. Her husband was very opposed to paying $50 for a maid every week, even though they could afford it. He kept insisting on “just once a month.”*  
+
+- Page 74 (location ~ 1129-1134)    
+
+*The Dumb Fox Credo as outlined here, allows for smooth sailing and no room for conflict: Agree with everything. Explain nothing. Then do what is best for you. It will make life a whole lot easier. For example, the dumb fox is smart enough to save herself the grief by insisting on separate bathrooms. First of all, the concept of guest towels or decorative towels is foreign to men. To him, a towel is a towel, which means a bath towel is a beach towel is a carwash towel is an oil-changing towel. You would think he’d “spare” the pretty one with the pink bow, but no such luck. And the towels you use on your face? Say hello to your new floor mop.*  
+
+- Page 75 (location ~ 1137-1143)    
+
+*The dumb fox also cleverly divides up the personal space in the home with the utmost fairness. She gives him 20 percent of the closet, but “the whole garage” or basement to himself. He also controls the lawnmower, the cars, the barbecue, and the tools. Remember: Men are very territorial, so you’ll also want to designate the yard as his domain in the “habitat.” It will come in handy when you’re hogging the bathroom. In Japan, there is an interesting motto: A smart eagle does not show her claws. American women perceive Japanese women as submissive because they bow to men and walk behind them in the streets. However, Japanese men typically bring their paychecks home and give them to their wives. The wife controls the purse strings in the Japanese home and decides how the money is spent. Now we uncover the real reason why a Japanese woman may walk behind her man in the street: It is those deep, heavy pockets that are slowing her down. The poor thing can hardly keep up.*  
+
+- Page 75 (location ~ 1147-1154)    
+
+*The dumb fox is strong in a demure way. She stands her ground, but she’s not a ballbuster. She employs the “Science of Compliance.” She appears to give up power, but gains leverage in the process. ATTRACTION PRINCIPLE #36 The token power position is for public display, but the true power position is for private viewing only. And this is the only one that matters.*  
+
+- Page 76 (location ~ 1162-1165)    
+
+*When you are truly running the show, you don’t need to tip your hand or flaunt it. If he is treating you like you are his dreamgirl, you have all the power you need. Remember, feminine strength is equally as powerful. It’s poetic justice: Men control the world, but women control the men. Alice, an attractive older woman who has been married for many years, shared the following advice. “Whenever I want to do something, I convince my husband it was his idea. I’ll say ‘Sweetie, would you like to go to this restaurant or that one?’ He’s paying, so I always let him think he’s the one choosing. And after we’re done eating? I tell him, ‘What a great idea that was!’”*  
+
+- Page 77 (location ~ 1168-1173)    
+
+*When you appeal to his ego, it has the same effect. He’ll want to remain a king in your eyes, and he’ll want to please you. Men work their whole lives just to have a woman look at them adoringly and say, “You’re wonderful” and “I admire you.” He’ll climb a whole mountain just to feel admired by a woman he loves. ATTRACTION PRINCIPLE #37 If you give him a feeling of power, he’ll want to protect you and he’ll want to give you the world.*  
+
+- Page 77 (location ~ 1178-1182)    
+
+*Once you’re in charge of that relationship, you’re giving him what he needs (power) and he doesn’t even know it. It works with even the smartest men. Here’s what Albert Einstein said about his wife on their fiftieth wedding anniversary: When we first got married, we made a pact. It was this: In our life together, it was decided I would make all of the big decisions and my wife would make all of the little decisions. For fifty years, we have held true to that agreement. I believe that is the reason for the success in our marriage. However, the strange thing is that in fifty years, there hasn’t been one big decision. The dumb fox doesn’t have to “obey” her man as in, “I promise to love, honor, and obey until death do us part.” She has her own rendition of the marital vows. She “promises to love, honor, and appear to be agreeable some of the time.”*  
+
+- Page 78 (location ~ 1183-1190)    
+
+*As Erica Jong said, “Beware of the man who praises women’s liberation. He’s about to quit his job.”*  
+
+- Page 79 (location ~ 1197-1198)    
+
+*As Erica Jong said, “Beware of the man who praises women’s liberation. He’s about to quit his job.” Women who are successful in other areas of life are often the ones who find themselves saying, “I should not have to apologize for being strong.” Then the following week they wonder why they “can’t find a good man.” Because a good man wants a good w-o-m-a-n. Being a bitch does not mean you lose your femininity. And it also doesn’t mean you overtly try to wear the pants in the house. It just means you don’t allow anyone to walk all over you. The classic superwoman wants a relationship in which the man and woman are “equals.” This is a nice theory, but in practice it becomes a onesided relationship pretty quickly. ATTRACTION PRINCIPLE #38 When a woman acts as though she’s capable of everything, she gets stuck doing everything.*  
+
+- Page 79 (location ~ 1197-1204)    
+
+*If a man offers to take you to lunch or dinner, let him. If he asks if he can bring over takeout, bring on the egg rolls. If he asks to get you something from the grocery store, let him pick up sorbet in the flavor you like. It isn’t about him paying the three dollars. It makes him happy to feel he’s meeting your needs. And it makes him feel as if he’s “driving that train.” Even though you really are. The hardest lesson for the nice girl to learn is how to receive. Let him give to you, because part of his manhood is defined by feeling “responsible.”*  
+
+- Page 80 (location ~ 1212-1216)    
+
+*If a man offers to take you to lunch or dinner, let him. If he asks if he can bring over takeout, bring on the egg rolls. If he asks to get you something from the grocery store, let him pick up sorbet in the flavor you like. It isn’t about him paying the three dollars. It makes him happy to feel he’s meeting your needs. And it makes him feel as if he’s “driving that train.” Even though you really are. The hardest lesson for the nice girl to learn is how to receive. Let him give to you, because part of his manhood is defined by feeling “responsible.” The dumb fox doesn’t give up power, she simply creates the appearance that she does. And this very much helps her positioning power because she gets what she wants.*  
+
+- Page 80 (location ~ 1212-1218)    
+
+*The beauty is that the dumb fox is agreeable, tactful, and always polite, so he thinks he’s in control (even though he isn’t). Even though the dumb fox appears oblivious, she is very aware. It’s no different than a successful business negotiation: 1. She doesn’t spell out where she’s coming from. 2. She’s prepared to walk away, if the terms aren’t favorable to her. The dumb fox does both, without words. She negotiates with her willingness (or lack thereof) to participate.*  
+
+- Page 80 (location ~ 1222-1227)    
+
+*ATTRACTION PRINCIPLE #39 Men don’t respond to words. They respond to no contact.*  
+
+- Page 81 (location ~ 1229-1230)    
+
+*The dumb fox doesn’t spell things out. The nice girl, on the other hand, makes the mistake of wearing her heart on her sleeve almost all the time. As one man named Paul said, “Women talk too much. If she’s upset, she’ll go on and on. I’d rather get into a ring with Mike Tyson for six rounds than hear a woman repeat herself over and over.” Think about the last time a man spilled his guts. At first it feels like “bonding.” But the novelty wears off very quickly. Men want bonding, sure— below the waist. The two-hour phone calls you love are a big mistake. He likes it the first time because he knows you’re interested. After that, he hates it. Don’t let conversations on the phone last too long. Don’t let yourself be perceived as a tiresome obligation. Keep the phone calls short and sweet—and he’ll never get tired of calling. ATTRACTION PRINCIPLE #40 Talking about the “relationship” too much takes away the element of the “unknown” and thus the mystery.*  
+
+- Page 81 (location ~ 1237-1246)    
+
+*Eliminate the following words from your vocabulary: We need to talk. My friend Jeanette shared her observations on men with me: “You have to sneak up on them. Feed them, get them a beer, and then casually bring it up. Go through the back door. In and out—before they realize what has happened.” When men talk to each other, they say their piece and then the other one responds. One nods. The other grunts. One takes a shot; the other buys him a beer. The most feed-back he’ll get is a couple of sentences. Did you blink? The “bonding” has commenced. Most men have a concentration threshold for the “mushy” stuff that lasts about two minutes. Right around the second minute, his mind will start to wander. He’ll be thinking, “Man, I’m getting hungry. I wonder what we’re having for dinner?” ATTRACTION PRINCIPLE #41 Men respect women who communicate in a succinct way, because it’s the language men use to talk to one another.*  
+
+- Page 82 (location ~ 1249-1257)    
+
+*When you first meet a man, don’t overcompensate by doing all the talking. Don’t talk constantly out of nervousness. Keeping cool and quiet will give you more appeal, not to mention the ability to wield more power. I was once on a date with a man I had just met. He began to share all the sordid details of his last relationship. I had no desire to listen, but I didn’t criticize him or make him feel “wrong.” I was polite. I simply asked, “So John, what’s your workload like at the office this week?” The dumb fox does not ask, “May we change the subject?” Permission isn’t necessary. The dumb fox also doesn’t tell him about her past relationships. You’re “a prize,” and you don’t have a long list of calamities to report. He doesn’t need to know that your ex-husband stole your appliances, is defaulting on his child support, and has a Mafioso brother who is doing time for racketeering. If he’s classy, he won’t be impressed that your last boyfriend is “still stalking you and can’t let go.”*  
+
+- Page 83 (location ~ 1263-1271)    
+
+*Men automatically assume that, if you’re interested, you’ll do anything to “nail him down.” He immediately thinks you want “exclusivity”; you want to break open the hope chest and have babies with him. It’s important for him to think you’re different: You are relaxed, secure, and happy with him or without him. This is known as the happy-go-lucky formula, described in Attraction Principle #42. ATTRACTION PRINCIPLE #42 When you are always HAPPY; And he is always free to GO; He feels LUCKY*  
+
+- Page 84 (location ~ 1275-1279)    
+
+*WHAT HE WON'T SAY WHAT HE WILL SAY “I want sex and only sex, with no strings attached.” “I’m interested in having a long term relationship!” “Give me sex, and I’ll pretend to be your boyfriend for a week.” “Trust me.” “Hey can I rotate you with three other women, like a pitching staff?” “You are so different.” “Wanna be the flavor of the month?” “I am so tired of the dating scene.” Trivia question: Which guy scores more women: the guy who “flowers up” his intentions, or the guy who tells it like it is? The point is, if he has a hidden agenda the last thing he’ll do is spell it out for her. So it’s up to the fox to figure things out on her own.*  
+
+- Page 84 (location ~ 1288-1298)    
+
+*Are you prejudging him? You had better be. The only mistake is letting him know it. The dumb fox is selfreliant. She judges people by her own experiences. The dumb fox takes better care of herself and makes better choices because she lets time elapse and she watches to see how the man behaves. She trusts her observations and she trusts her animal instincts. No hunted animal gives the “benefit of the doubt.” The fox senses danger and hightails it out of there. Never be around a person who has shown you he is a hurtful person. If he does this by accident, that’s one thing. But if he’s hurtful on purpose? Game over. You’ve learned everything you need to know. In the beginning, have fun and go out . . . but keep your cards close to your vest. Most important, take your time. This will not only make you smart as a fox, it will help you keep your independence.*  
+
+- Page 86 (location ~ 1306-1313)    
+
+*The bitch does not stop moving to her own rhythm. This, in and of itself, prevents her from becoming off-balance like a nice girl who abandons her routine. ATTRACTION PRINCIPLE #43 If you allow your rhythm to be interrupted, you’ll create a void. Then, to replace what you give up, you’ll start to expect and need more from your partner.*  
+
+- Page 87 (location ~ 1333-1336)    
+
+*ATTRACTION PRINCIPLE #44 Most women are starving to receive something from a man that they need to give to themselves. The nice girl thinks she’s giving up something to get something better in return. She gives up control over her own life. When the time comes for her to get what she had expected, she winds up disappointed. In addition to being empty-handed, she’s depleted.*  
+
+- Page 88 (location ~ 1347-1352)    
+
+*ATTRACTION PRINCIPLE #45 A woman looks more secure in a man’s eyes when he can’t pull her away from her life, because she is content with her life.*  
+
+- Page 89 (location ~ 1358-1360)    
+
+*WHO IS THE BOSS OF YOU? THE NICE GIRL THE BITCH The nice girl dismisses what she used to value and what used to be important in her life. The bitch values her priorities, her values, and her preferences. Always. He is the boss . . . of her. She stays the boss . . . of herself The nice girl searches for a sign from him to see when the closeness is “too much.” The bitch acts as her own guide. She doesn’t allow him an opportunity to be bored. He is the boss . . . of her. She stays the boss . . . of herself. The nice girl senses how happy he is, paying close attention to his approval of her. The bitch doesn’t obsess over his opinion or need his approval. He is the boss . . . of her. She stays the boss . . . of herself When he’s “into it” with the nice girl, she feels good; when he snubs her, she feels bad. The bitch has more confidence, so someone else’s mood doesn’t have much impact. Instead she plays tennis. He is the boss . . . of her. She stays the boss . . . of herself. The nice girl treats her interests as “little things” or secondary. The bitch doesn’t treat her interests as minor little things. They are her things. He is the boss . . . of her. She stays the boss . . . of herself. The nice girl gives too much first, and then negotiates reciprocity later. The bitch gives only when it is reciprocal. He is the boss . . . of her. She stays the boss . . . of herself.*  
+
+- Page 89 (location ~ 1362-1379)    
+
+*A man needs to “bring offerings.” He needs to be on his toes a little bit. He has to make sure his shoes are tied, his pants are pulled up, and his manners are existent. When he opens car doors, when he minds his p’s and q’s, and when he shows his best manners, it means she has his respect. In this way, she remains a bit of a bitch in his eyes because he has to keep himself in check; he doesn’t relax in terms of how he behaves around her.*  
+
+- Page 91 (location ~ 1382-1385)    
+
+*ATTRACTION PRINCIPLE #46 The second a woman works overtime to make herself fit his criteria, she has lowered the standard of that relationship.*  
+
+- Page 91 (location ~ 1385-1387)    
+
+*Women are much more likely to cancel plans. Men don’t give up “boys’ night out.” Men don’t give up their work, or their sleep, or their food. (Most don’t even give up their mothers.) Likewise, they respect a woman who will hold onto what is important to her. When was the last time you heard a guy call his barber and say, “Yeah, Sam . . . I’ll need to cancel my 2:15 haircut. Sally and I need to spend more time bonding.” It just ain’t happening. It doesn’t matter if you swung from the chandelier the night before with show-stopping sex accompanied by screaming that scared off the alley cats. At 2:15, your man will belong to Sam. Men can shift gears from romantic to practical—and so can the bitch. She speaks to him in his own language.*  
+
+- Page 91 (location ~ 1390-1395)    
+
+*Again, it doesn’t matter if he wants to see you constantly. Even if he’s an incredible guy and you feel great temptation, don’t give him all of your time. In the beginning, try to see him two-thirds of the time that he asks. For the remaining third, you have “something else going on.” Don’t sit at home twiddling your thumbs waiting for his next call. Keep in mind that this isn’t about “playing hard to get.” Keep it real. Force yourself to keep the routine you had before you met him. Once you lose your rhythm, you lose your psychological equilibrium and you become needy.*  
+
+- Page 92 (location ~ 1401-1405)    
+
+*As Gregory Corso said, “Standing on a street corner waiting for no one is power.” When you don’t wait for anyone, it’s because you don’t need anyone. When you approach men this way, any man who steps up to the plate will have to meet you at your level. First, you have to stop needing his approval—only then will your needs be met.*  
+
+- Page 93 (location ~ 1411-1414)    
+
+*When a man treats a woman with disrespect and she takes it, he begins to lose respect for her. Predictably, Lynn was at Kevin’s place the following evening; he wasn’t appreciative, which hurt her feelings. They stopped dating a short while later. A bitch prioritizes herself over “melting” into someone else. Because of this, her no means no, and her yes means yes. The objective isn’t to be obnoxious but to have the ability to be clear. You can be very nice and still be clear. A man will respect a woman who is clear and direct about what she needs, without waffling or secondguessing herself If a man is late for a date, for example, the bitch will become annoyed because she is inconvenienced. Annoyance is different than becoming emotional. She’ll say something more along the lines of, “Don’t waste my time. If you are going to be late, please let me know so I can make other arrangements. I have better things I can be doing with my time than waiting around.”*  
+
+- Page 93 (location ~ 1420-1427)    
+
+*Your true power, therefore, is marked by: Realizing what your rhythm is, and moving to it Knowing who you are, and what you will or will not accept Having the ability to make a decision without second-guessing yourself afterward, and without being talked out of how you feel Having self-control, because true power is the control you have over yourself*  
+
+- Page 94 (location ~ 1431-1435)    
+
+*One man described dating a woman whom he’d known for three weeks. He said, “A man doesn’t need to hear a woman tell him that she loves him every thirty seconds. This woman said it over and over again. It was like dating a cockatoo . . . Love you . . . Love you . . . Love you . . . Love you . . . Love you!”*  
+
+- Page 95 (location ~ 1444-1446)    
+
+*Being sassy means you won’t knock yourself out. The minute a man feels you’re trying too hard, the challenge is over. Once you accidentally step into that arena, you have to win him back by showing him that you won’t wait. You have a life. You have other priorities, some of which come before him. ATTRACTION PRINCIPLE #47 You jump through hoops any time you repeatedly make it very obvious you’re giving your “all.”*  
+
+- Page 95 (location ~ 1451-1454)    
+
+*Don’t talk for hours on the phone before your first date. Joke around. Be sassy. Make your plans or arrangements to meet and then politely end the conversation. Don’t discuss deep issues in the beginning. Don’t use catch phrases from therapy like cathartic, processing, triggered, owning it, or inner child. Don’t make chicken soup and tell him you “wanna midwife each other’s soul.” If you believe in astrology, don’t tell him that you can only get together when Mercury is “tiptoeing” around the moon, making a threeweek “retrograde” around Jupiter (with a quick stop for coffee on Pluto). Don’t tell him who you were in a “past life,” or what you plan to come back as in your next one. He’ll think your cheese is sliding off the cracker. In the beginning, avoid seeing him more than one night in a row. Start out seeing him one to two nights a week. Don’t pout or whimper when he doesn’t call. You have to make him wonder every now and then about what you’re doing when you’re not with him. When you regulate the timing, it keeps him wanting and it charges up his batteries. If he takes you to a nice restaurant, don’t order a celery stick “with oil and vinegar on the side,” and then continue to nibble off his plate like a humming-bird. Don’t be so nervous or concerned with impressing him with your table etiquette. Have an appetite for enjoying life. Don’t disclose over your first dinner what you’re “working through” from childhood. Don’t try to fix his flaws either. I know one woman who bought a man the book Tuesdays with Morrie. She thought the book would help him with his workaholism. Too much psychological analysis comes across as too sappy. Don’t accompany him when he goes out with his friends. You don’t want to be one of the “boys.” Don’t do any slow drivebys with your headlights turned off to see if he’s at home. And no highspeed flybys, either. If he calls you and asks you to come over late at night after he’s been out with his friends, don’t happily go skipping over, kicking your heels together like Julie Andrews in The Sound of Music. Don’t date someone who has addictions of any kind, hoping to “help” him by going to AA meetings with him. Let him work out his own stuff. If he can’t treat himself well, he’ll never treat you well. Never call more than once in a row, even if his machine cuts you short. Don’t leave long mushy messages. Keep the messages friendly, but short and sweet. Don’t email more than once in a row or send long emails about “feelings,” “issues,” and what you “need” that you aren’t getting. If he sends you an email, don’t respond within thirty seconds each and every time. Don’t stop eating, sleeping, or exercising. Keep your routine. If he wants to spend more time with you than you can comfortably give, invite him to join you in one of your activities—like a walk with your dog or going for a weekend bike ride. Avoid last-minute dates because you “miss him.” Don’t walk in the door, check your messages, and call him right back. Settle in, take a bath or shower, eat dinner, and relax. Move to your own rhythm, and then call back. He has to know you have a life . . . every day. If you’re on the phone and you get another call that beeps through, don’t say “Stay right there. Don’t hang up! Whoever it is, I’ll get rid of him!” When you do come back on the line, don’t always be so quick to report the identity of the other caller. “That was the vet. Tigger had an earache.” Don’t regularly travel forty minutes in traffic to see him because you have a roommate and he has his own place. Look at a map and take note: It’s just as far from his house to your house as it is from your house to his house. So don’t feel guilty about having him come your way. Don’t ask for affection. Don’t coax affection out of him. Don’t give affection when he isn’t being affectionate. If he’s ignoring you, don’t try harder. “Honey, can I give you a backrub?” Don’t be a slave to the phone. Don’t play his voice message back to your girlfriend to dissect every detail of your situation. Pay attention to the big picture. Does he add to your life as a whole, and do you feel good after he’s been around? (If not, “fast forward” the message and hit “delete.”) Don’t memorize his phone number in the first week of dating or call him all the time and hang up. He’ll know it’s you. If he’s in a bad mood, make an excuse and then go do your own thing. Above all, make every concerted effort to stay focused on your life. That’s how you stay sassy in his eyes. ATTRACTION PRINCIPLE #48 You have to keep from being sucked down into quicksand. Unless you maintain control over yourself, the relationship is doomed. Basic Bi tch 101*  
+
+- Page 95 (location ~ 1456-1496)    
+
+*A man notices something from the very first phone message that he leaves on a woman’s answering service: whether she is trying too hard. She may be trying too hard to impress him; she may be trying too hard to win him over; or she may be trying too hard to be sexy. Whether she is too needy or trying too hard, it has the same effect. The bitch never tries that hard to make an impression.*  
+
+- Page 98 (location ~ 1498-1501)    
+
+*As men often say, “Men like a woman who is natural.” This has nothing to do with makeup or dyed hair. Natural does not mean he wants a vegetarian who drinks wheatgrass juice or a woman who wears organic lipgloss. Natural implies that the minute something is excessive it becomes a turnoff, because it looks as if a woman is trying too hard to get the attention. Whenever a woman is trying too hard, she is jumping through hoops. ATTRACTION PRINCIPLE #49 Jumping through hoops often has a negative outcome: He sees it as an opportunity to have his cake and eat it, too. But when you stay just outside his reach, he’ll stay on his best behavior.*  
+
+- Page 99 (location ~ 1506-1512)    
+
+*A Kodak moment, isn’t it? No foreplay. No candle. No soft music. No showering together. Instead, one eye is on the game, and he’s listening for the score. “The count is three to two . . . and the bases are loaded. Steeeeerike!” Any man—even one who was raised in a jail—has sense enough to know that watching a game while having sex is rude. Hardly a “romantic getaway” for two. After two days of being romantic, they couldn’t wait to “getaway” from each other. Now let’s do a financial comparison. He got plenty of food, plenty of sex, and he got to watch the game (not bad for $40). Her bill exceeded $400. She did, however, get two extra packets of peanuts on the airplane, each containing 2.5 peanuts, for a total of five peanuts. Even if she divided them up into peanut halves, she still wouldn’t come out ahead.*  
+
+- Page 99 (location ~ 1518-1524)    
+
+*I asked Mary why she doesn’t just say, “Not tonight, honey. I really need some down time.” She answered, “Because then he pouts. I guess deep down I’m afraid he’ll get another girlfriend.” The bitch is not governed by fear of losing a man, because she knows the real price to pay is when she loses herself. Almost immediately, women give themselves up in small ways. The cumulative effect of these subtle concessions, however, is what amounts to feeling depleted. Here’s the cycle: She develops a myopic view that what he gives is absolutely vital. Because of this fantasy, she gives up everyday needs. She feels more and more drained but continues to try harder, believing that he’ll be the one to make her feel fulfilled again. He senses her willingness to exert herself, and relaxes what he gives even more. She senses this and works even harder to jump through hoops. The cycle gets worse, as she becomes more and more depleted. The solution? Lose the fantasy, And if you feel you are going to resent something after you give it, don’t give it. Give only what feels comfortable to give. This will enable you to stay firmly planted with both feet on the ground.*  
+
+- Page 100 (location ~ 1533-1543)    
+
+*LET'S REPLACE. . . WITH. . . “Do unto others as you would have others do unto you.” “Do unto others, after they show you they are worthy”. “Love conquers all.” “Love conquers her, when she gives all.” “To give is better than to receive.” “It is better to give and receive.” “Charity begins at home.” “There is no charity case in this home.” “All’s well that ends well.” “All’s well for those who cover their ‘ends’ well.” “Love thy neighbor.” “Love thyself first, and your neighbor will be happier living next to you.”*  
+
+- Page 101 (location ~ 1545-1553)    
+
+*ATTRACTION PRINCIPLE #50 The nice girl gives away too much of herself. when pleasing him regularly becomes more important than pleasing herself*  
+
+- Page 102 (location ~ 1553-1555)    
+
+*Another woman I know shared a story about a man she dated. After two dates, the man asked her to take him to the airport at 4 A.M. (yes, in the morning). On their second date, he was coordinating while she listened. “You could get up at 4 A.M., pick me up at 5 A.M., get to the airport at 6 A.M., go home by 7 A.M., shower, and get to work by 8 A.M.” (The ringmaster had the poodle hoop-circuit all planned out.) Here’s a novel idea that never crossed his mind: He could pay seven bucks for a shuttle, rather than yank her out of bed at such a ridiculous hour. She politely said, “I’m sorry. I’m going to be busy.” And he said, “What do you mean busy? Busy what? Sleeping?” She smiled and politely said, “Yes.” If he acts as though it’s perfectly normal for you to jump through hoops, don’t let that be your guide. Ignore what he says. When he says, “I’m spiritual,” don’t listen. Just look at how he acts. If he said he was spiritual, but he expects a lot of “unholy compromising,” let your observations be your guide.*  
+
+- Page 103 (location ~ 1568-1576)    
+
+*Another way a woman may jump through hoops is to “tell time” by when a man calls. How many times have you called a girlfriend to say let’s “hook up” and she has to wait for a call from a guy she’s dating to give you an answer? These are always the women who get treated poorly. She becomes depleted because she is willing to wait “at bay,” never making plans until she rules out the possibility “beyond a reasonable doubt” that she is seeing a man. Then you get a call back, “Okay let’s get together,” but now it’s 10 P.M.*  
+
+- Page 103 (location ~ 1577-1580)    
+
+*Now let’s hear Bart’s version: “I’m not in love with her the way she is with me.” He shared with me a story of when she was doing his laundry for him in his apartment. “I was being a total jerk. You know what she said to me? ‘After I finish your laundry, I’m going home.’ There were three more loads, and she did them. I really would have respected her if she had said, ‘Screw you’ and walked out.” A tip: When you are at his place any day of the week, don’t do any housework. The only laundry you do is your own. The only tub you scrub is your own. The only person you clean up after is yourself. If his place is a mess, go to yours. If he asks you to help him clean, be subtle. Just tell him the maidservant has the day off on Sundays. ATTRACTION PRINCIPLE #51 The relationship may not be right for you if you find yourself jumping through hoops. When something is right, it will feel easier and much more effortless.*  
+
+- Page 104 (location ~ 1585-1593)    
+
+*Like the bum on the street with a sign that says Will work for food, your sign now reads Will work for attention. Well, no more “slummin,’” girlfriend. We are under new management. Under the old management, you dealt with his lack of attention by nagging. And if you’ll notice, it hasn’t worked. This is why all of the steps discussed in this chapter involve changes in demeanor. When you nag at a man, he becomes more reclusive. Essentially, you always want to remember that although he is a grown man, inside there is a three-year-old causing him to have Appreciation Deficit Disorder. Whenever you nag, you activate this toddler, and you have a thirty second window before you’ve activated the “little boy gland.” It’s as easy as changing a radio station. In thirty seconds, he’ll tune you out and won’t tune you back in until the nagging is over. It doesn’t matter if his pants are on fire and smoke has filled the room. He won’t hear a word you say. This is why you should communicate with your actions . . . rather than your words. Since a man won’t discuss feelings as a woman does, anything past the second repetition seems like nagging. Never ask a man to do something more than twice or he’ll feel as though he’s being scolded by Mom. And whenever you nag, he’ll behave like a stubborn teenager and rebel. ATTRACTION PRINCIPLE #52 When you nag, he tunes you out. But when you speak with your actions, he pays attention.*  
+
+- Page 105 (location ~ 1605-1616)    
+
+*Women often say, “Little boys are so sweet. What changes?” According to Freud, it gets messed up somewhere around the potty-training years. To better understand the origin of the “little boy gland” and to see how a man takes a woman for granted, let’s now turn our attention to examine the behavior of a toddler. A three-year-old wants to be independent of Mommy, but he also wants to take for granted that she is still right there within his reach. So he tests to see how far he can go. The disobedient little boy wobbles around a corner mischievously and pauses. Then he runs back around the corner to make sure Mommy’s still right there. With a grown man, there’s one extra step in the middle. After he wobbles off but before he runs back, he will turn to look over his shoulder to see, “What will Mommy do next? Does she nag? Does she panic? Will she chase me?” Your reaction determines whether he’ll take one step closer or another step farther away. ATTRACTION PRINCIPLE #53 When a man takes a woman for granted, he still looks for reassurance that she is still “right there.”*  
+
+- Page 106 (location ~ 1617-1626)    
+
+*One would think a woman who’d accept these terms would have to be high on crack. Yet women accept these terms every day.*  
+
+- Page 107 (location ~ 1630-1631)    
+
+*“What went wrong?” she asks. In the beginning he went out of his way to show her he’s a gentleman; he opened car doors, he let her order first, and so on. So he knows how to treat a woman. The slacking off happens gradually without any negotiation and certainly without her consent, so she doesn’t fully realize it is happening until things have gotten so off course. Then she nags to try to get them back on. Once a woman realizes a man is going into “couch potato” mode, she often mistakenly tries to address it. “You never take me out or bring me flowers anymore.” Or, “We never spend time together.” This is a sign to a man that he has her right where he wants her. Now he doesn’t participate because, in his mind, all it takes to satisfy her is his presence. He quips, “I’m with you, aren’t I?” To get the three-year-old to run back to Mommy, she has to stay just outside his reach. The reason nagging keeps her within his reach is that he senses she is “locked down” waiting for him. She may be waiting for him to give more, participate more, or be more attentive in some way. But she’s still waiting. On hold.*  
+
+- Page 107 (location ~ 1631-1640)    
+
+*When he takes you for granted, you’ve triggered the same kind of love he had for his mother, grandmother, or some other woman who raised him. Now you’ve become “old faithful.” No matter how much you scream at him, he knows you aren’t going anywhere. “She may kick my ass, but she’ll still love me and I can do whatever I want.” And it’s this very security blanket you don’t want him to have. Men know it’s wrong, but they’ll still try to see how far they can push the envelope. As one man said to me, “Men will get away with what you let them get away with.” That isn’t to say there aren’t great guys out there. But a man with integrity, or anyone with integrity for that matter, doesn’t want something they haven’t earned. That’s why a high-caliber self-respecting guy will be attracted to a woman who won’t let someone walk all over her.*  
+
+- Page 108 (location ~ 1641-1648)    
+
+*Failure to get enough attention isn’t the only thing women complain about. Often women nag about household chores. Again, you have to condition him without words. Most men don’t particularly care if the place doesn’t look great or if it’s messy. Most guys are happy to come home and plunk down on the couch with the wornout spot and his butt imprint on it. He doesn’t care if the sink is full of dishes from the day before or that his shoes left muddy prints all over the carpet. ATTRACTION PRINCIPLE #54 When the routine becomes predictable, he’s more likely to give you the same type of love he had for his mother—and the odds that he will take you for granted increase.*  
+
+- Page 108 (location ~ 1651-1656)    
+
+*The balance of this chapter gives you insight into how to turn things around and bring him back to pursuit mode when his mind drifts elsewhere. Men are hunters. What he gets from the nice girl is a protective kind of motherly love that lessens his sexual desire. He doesn’t pursue his mom. What the nice girl needs to understand is that it takes the heat out of it for a man when you give him a predictable security blanket. Women often reassure, or try to convince, a man to win him over. But the bitch wins him over by acting as though she could take him or leave him. Therefore, backing off in a subtle way will give your man renewed “pep” in his step. You can also apply the advice in this chapter: When he seems complacent When he waffles about whether to be in the relationship When he isn’t respectful When he repeatedly ignores what you need Let’s get started. Do not pass Go, do not collect $200— because sister, there will be plenty of time for that later.*  
+
+- Page 109 (location ~ 1668-1676)    
+
+*ATTRACTION PRINCIPLE #55 Negative attention is still attention. It lets a man know that he has you— right where he wants you.*  
+
+- Page 110 (location ~ 1682-1684)    
+
+*How to Shift the Blame . . . The Textbook Guide First, tell her that the timing to discuss it isn’t right. Remember, it’s never a good time to “talk.” Before hearing a word, tell her she took everything wrong and is being “too sensitive.” Get a rotation going: Monday and Wednesday she’s “overreacting.” Tuesday and Thursday she’s “blowing it out of proportion.” And on weekends she’s “imagining things.” Change the subject. Say, “You’re starting your period, aren’t you?” If this doesn’t work, pick a fight. Be very combative, but repeatedly point out that she was the one who started the argument. If she has six good points, and you have one semigood little point, place all of the emphasis on your one semigood little point. Don’t veer. Keep asking about your one little point over and over, then demand a quick answer. If she hesitates, use this as evidence that you are right. If she is clearly right, find fault with her that has nothing to do with the incident, and use that. Be sure to create your own imaginary panel of experts (composed of people she’s never met). Say, “Even Joe and Jim agree with me and think you are being completely unreasonable.” When she tries to explain the same thing in a different way, roll your eyes. Appoint yourself her inhouse therapist. Say, “You do this to yourself. Why do you do this to yourself?” Keep count of how many times she repeats herself, and be sure to remind her. It’s like boxing. Jab with the left; uppercut with the right. Then run . . . As Muhammad Ali used to say: “Float like a butterfly; sting like a bee.” Float by dodging the issue, and sting by asking why she “can’t let it go.” Keep dancing, and stay light on those feet. And, remember, it’s always her fault. That’s your story, and you are stickin’ to*  
+
+- Page 111 (location ~ 1688-1708)    
+
+*Evidently, according to the men I interviewed, each woman—as with clothing, perfume, and lovemaking—has her own “personalized style” of nagging. Here are some just to name a few: The Marathon Nagger: This woman will nag for a longer time so she paces herself, for two to three hours. The Sprint Nagger: This woman will nag for a shorter period of time. It’s a more intense burst, so she’ll get tired much more quickly. The Momentum Whiner: This woman will start out with a whine and then will slowly pick up momentum, building up to a nag. Then she’ll cry. The longer she goes, the more momentum she builds and the less likely she is to stop. The Sunrise Whiner: It starts as the sun comes up over the horizon. His eyes begin to open and he hears his first morning whine. Or he’s still asleep, and it wakes him like a rooster. The Nightcap Nagger: Just as he is falling into a deep REM sleep, she nudges him and reminds him of something he has to do the following day The Bushwhacker: This nagger employs the element of surprise. She catches him offguard at any moment in the day. One minute everything is going along fine and then, without any warning, she jumps out of the bushes and whacks him. The Sniper: This is the premeditated nagger who will make one cutting remark. It’s usually a wellplaced shot that delivers a devastating blow.*  
+
+- Page 112 (location ~ 1711-1723)    
+
+*Nagging = A woman who is predictable = A feeling of obligation = Decreased lust Indifference = Less predictable response = Renewed interest ATTRACTION PRINCIPLE #56 When you treat him casually as though he’s a friend, he’ll come your way. Because he wants things to be romantic, but he also wants to be the pursuer.*  
+
+- Page 113 (location ~ 1730-1734)    
+
+*Envisioning him as just a friend enables you to relate to him without the heaviness or the intensity of the nagging. Don’t say, “Hey buddy Hey, pal,” and throw down a cold beer in front of him with a fake, peppermint-refreshing smile. Don’t offer to girl-watch with him or chew tobacco. Don’t overdo it. Again, treat him as you would a friend, which means exude a demeanor that seems unlikely given the circumstances. If you’ve been uptight, needy, or clingy, appearing casual, relaxed, and unconcerned is the unlikely response that he would expect.*  
+
+- Page 114 (location ~ 1735-1739)    
+
+*ATTRACTION PRINCIPLE #57 A little distance combined with the appearance of self-control makes him nervous that he may be losing you.*  
+
+- Page 114 (location ~ 1743-1744)    
+
+*If you don’t cop an attitude or you appear to lose interest in going away, he’ll immediately be concerned. Most men are used to women wanting to be around them all the time. He gets concerned when he’s busy trying to defend something you mysteriously no longer want. If you don’t bring it up and pretend to forget all about it, he second-guesses himself: “Hmm . . . why is this okay with her when I know it’s wrong?” Now his clout or leverage with you will be called into question, and he no longer knows if he has a 100 percent hold on you. When he doesn’t get the nagging but he knows he deserves it, he begins to wonder what’s going on. Let’s say he likes seeing you two nights a week, but he likes to do his own thing on the weekends. Some weekends you get together and other weekends he leaves you hanging when he goes out with the boys. The last thing you want to let Yogi Bear think is that you are Boo Boo the fool. “Gee, Yogi what are we going to do next? Okay!”*  
+
+- Page 114 (location ~ 1748-1755)    
+
+*his way to make more time for you. If you ask any parrot trainer how to train a parrot, he or she will tell you to raise the perch to about shoulder level. The trainer will tell you not to raise the bird up higher than you, because the bird will think he is better than you. No matter how much the bird loves you, if you put your finger up over your head to touch him, he’ll be more inclined to bite you. This dynamic with birds is where the term cocky originated. If, on the other hand, you put the bird on the ground, the bird feels vulnerable. Trainers suggest doing this to keep the bird “in check.” If you put your finger out, instead of biting you, he’ll crawl up on your finger and want to get on your arm. When your man behaves as though he is more worthy than you, recreate the balance and equality in the relationship by gently taking the “little birdie” and putting him on the ground. ATTRACTION PRINCIPLE #58 A man takes a woman for granted when he’s interested, but will no longer go out of his way.*  
+
+- Page 115 (location ~ 1761-1769)    
+
+*Let’s hit the “pause” button. Rewind . . . now, let’s review play-by-play. Notice how simple it was for Rhonda to get him to realize he needs to give more. 1. He wasn’t nice. 2. He knows he wasn’t nice. 3. He expected her to nag. 4. She didn’t nag. 5. He was unsure. 6. She was relaxed and self-assured. 7. She gave no explanation and no attitude. 8. He said to himself, “Uh oh. I better get busy.” ATTRACTION PRINCIPLE #59 When you nag, you become the problem, and he deals with it by tuning you out. But when you don’t nag, he deals with the problem.*  
+
+- Page 117 (location ~ 1780-1788)    
+
+*ATTRACTION PRINCIPLE #60 If you take his chores away from him and praise someone else for doing it, he’ll want his chores back.*  
+
+- Page 118 (location ~ 1807-1808)    
+
+*ATTRACTION PRINCIPLE #61 When you nag, he sees weakness.*  
+
+- Page 119 (location ~ 1817-1818)    
+
+*Barbara told a funny story of how she engaged her husband in helping out one lazy Sunday afternoon. She sneaked down into the garage when her husband wasn’t looking and figured out which circuit breaker turned off the lights to the part of the house he was in. Then she flipped it off and tiptoed back into the house and pretended as though she had no idea what happened. “Honey? I’m scared! What happened to the power?” He’d never think she had the brains to turn off a circuit breaker. Now she gave him a jolt with a jumper cable that got him right up off the couch. Big Papa to the rescue! Then he helped out because he felt needed—as the “man of the house.” He found a flashlight and went downstairs to the circuit-breaker box. He assigned her the very complicated duty of holding the flashlight for him. “Hold it steady.” When he flipped the circuit breaker back on, she appeared proud and impressed. “Wow! I can’t believe it. How did you do that?” Then she called his mom. “Mom, he is so smart . . .” When you make him feel like the man? The stud-muffin? The legend? You can ask him to do anything and he’ll jump to do it. He won’t do it because you nagged him, he’ll do it because he wants to. And he’ll now feel good about it. As John Churton Collins said, “Never claim as a right what you can ask as a favor.” Nagging makes it a right; asking for a favor makes it a positive experience. He’ll come running to help if he’s going to be praised. Just as a woman wants to be perceived as a “dream girl” to a man, a man wants to be perceived as a “hero” in his woman’s eyes.*  
+
+- Page 119 (location ~ 1819-1831)    
+
+*Expressing yourself when he takes you for granted doesn’t work. You have to show him with actions. Expressing your feelings constantly is like pleading. It comes across as needy rather than dignified. But backing away when he crosses the line? Plenty dignified. When he is intrigued because the cards aren’t out on the table, he is forced to see you differently. It isn’t the love he had for his mother. Or his sister. Or his grandma. Now you have his attention because he is no longer in the “safety zone” that enables him to have his cake and eat it, too. This isn’t being mean. Men are turned on by it. Think about the average run-of-the-mill male fantasy he had growing up: It’s always a woman who has power over him. There’s the teacher he had in the eighth grade, the nurse at the doctor’s office, the babysitter who gave him a few extra cookies, the policewoman with the handcuffs. All of these women, in their*  
+
+- Page 121 (location ~ 1841-1848)    
+
+*Expressing yourself when he takes you for granted doesn’t work. You have to show him with actions. Expressing your feelings constantly is like pleading. It comes across as needy rather than dignified. But backing away when he crosses the line? Plenty dignified. When he is intrigued because the cards aren’t out on the table, he is forced to see you differently. It isn’t the love he had for his mother. Or his sister. Or his grandma. Now you have his attention because he is no longer in the “safety zone” that enables him to have his cake and eat it, too. This isn’t being mean. Men are turned on by it. Think about the average run-of-the-mill male fantasy he had growing up: It’s always a woman who has power over him. There’s the teacher he had in the eighth grade, the nurse at the doctor’s office, the babysitter who gave him a few extra cookies, the policewoman with the handcuffs. All of these women, in their own feminine ways, have power over him and leave him at a disadvantage and he likes it.*  
+
+- Page 121 (location ~ 1841-1849)    
+
+*ATTRACTION PRINCIPLE #62 He perceives an emotional woman as more of a pushover.*  
+
+- Page 121 (location ~ 1851-1852)    
+
+*“Do you know what the biggest turnoff is? A martyr.” We don’t know if she overreacted because he may have been flirting up a storm. But what’s interesting about this story is his choice of the word martyr. She was trying to use guilt to control and manipulate him; and men resent being manipulated. On the other hand, if she had backed off subtly, he’d have seen a woman who has pride and dignity—both of which are powerfully attractive qualities. ATTRACTION PRINCIPLE #63 In the same way that familiarity breeds contempt, a slightly aloof demeanor can often renew his respect.*  
+
+- Page 122 (location ~ 1856-1861)    
+
+*There are times when a serious issue arises, and there is a need for a more serious discussion. If and when this situation presents itself, there is still a way of emphasizing your position without nagging or repeating yourself several times. If he asks, “Is something wrong?” take a breath and respond calmly. “Yes, something is wrong, but I’d like to talk about it later. I really don’t want to talk about it now.” Instead of being muted, the volume is now turned up and the surround-sound is on. Chances are you won’t have to say a word because by the time you do get around to discussing it, he’s already made sure he won’t do it again. Meanwhile, he’s thinking of ways to make it up to you. All before you’ve said one word. Better, no? It’s like he’s defragmenting his hard drive. You’re making him clean up his own hard drive without any nagging what-soever. You walk away and do your own thing . . . while he is “self-correcting” himself. ATTRACTION PRINCIPLE #64 He’ll forget what he has in you*  
+
+- Page 123 (location ~ 1872-1880)    
+
+*There are times when a serious issue arises, and there is a need for a more serious discussion. If and when this situation presents itself, there is still a way of emphasizing your position without nagging or repeating yourself several times. If he asks, “Is something wrong?” take a breath and respond calmly. “Yes, something is wrong, but I’d like to talk about it later. I really don’t want to talk about it now.” Instead of being muted, the volume is now turned up and the surround-sound is on. Chances are you won’t have to say a word because by the time you do get around to discussing it, he’s already made sure he won’t do it again. Meanwhile, he’s thinking of ways to make it up to you. All before you’ve said one word. Better, no? It’s like he’s defragmenting his hard drive. You’re making him clean up his own hard drive without any nagging what-soever. You walk away and do your own thing . . . while he is “self-correcting” himself. ATTRACTION PRINCIPLE #64 He’ll forget what he has in you . . . unless you remind him.*  
+
+- Page 123 (location ~ 1872-1880)    
+
+*5. “I dated a woman who loved to talk and talk. We’d fall asleep talking, and I’d wake up and she’d still be talking. I realized that she wasn’t doing it because she wanted to tell me anything, she was doing it because she just couldn’t shut up.” ATTRACTION PRINCIPLE #65 Many women talk a lot out of nervousness— which is something that men will often perceive as insecurity.*  
+
+- Page 126 (location ~ 1926-1929)    
+
+*ATTRACTION PRINCIPLE #66 Talking about feelings to a man will feel like work. When he’s with a woman, he wants it to feel like fun.*  
+
+- Page 127 (location ~ 1943-1944)    
+
+*12. “When a guy talks about something, it’s over in thirty seconds. But for a woman, it goes on and on. What seems like a trivial thing to him seems like it’s life threatening to her. So then you try to help and you say, ‘Honey, it doesn’t matter.’ But that makes it worse because she thinks you don’t care.” 13. “I think a woman who talks less is more attractive because it makes her more mysterious. It is not a good thing to just ramble on. Communication should be about quality not quantity. If a woman is uncomfortable or bothered, he should be able to feel it without her saying a word.” 14. “One woman wanted the two of us to always be together. She tried to change how I spend all my time. And every guy has his own special time or recreation. She wanted me to do stuff I didn’t want to do. If she knows I am not the ‘artsy’ type, she should let me be who I am. She shouldn’t be dragging me to an art gallery or a museum. If a guy treats a woman well, but he doesn’t write poetry or buy stupid cards expressing his feelings, she should just leave well enough alone.” 15. “I don’t mind a woman who changes the decor in the house, but when she is obsessed with changing me, it gets old. I want a woman who has a sense of purpose in her own life, so she doesn’t waste all her energy trying to control mine.”*  
+
+- Page 127 (location ~ 1945-1956)    
+
+*Not only this, but constantly trying to force a man to talk about feelings or pay an inordinate amount of attention to your feelings is counterproductive. Here’s why: ATTRACTION PRINCIPLE #67 Forcing him to talk about feelings all the time will not only make you seem needy, it will eventually make him lose respect. And when he loses respect, he’ll pay even less attention to your feelings.*  
+
+- Page 128 (location ~ 1960-1963)    
+
+*Women chase men by trying to force-feed conversations about feelings. And predictably, they run. In order for the child to run to Mommy, Mommy has to first stop chasing the child. If, however, you’re not demanding it, or chasing it, or trying to inflict “cruel and unusual girlie babble,” you’ll have his respect. Whenever you keep your piece short and sweet and pull back in a slightly mysterious way, you’ll appear more dignified and he’ll pay much more attention to what you feel—without any words at all.*  
+
+- Page 129 (location ~ 1966-1970)    
+
+*Women often wonder why men take so long to make a phone call. For example, a man asks for her phone number and then waits six days before calling. Then he takes her out on a really fun date and waits another five days before calling again. Meanwhile, she’s scratching her head and asking, “What’s up with that?” Men are used to being turned down by women so this delaying tactic is how they keep their guard up. In the beginning, he’ll be calculated. He’ll be rational as opposed to “emotional,” because to him appearing too obvious, or “emotional,” will be perceived as a sign of weakness. On Tuesday, he’ll say to himself, “I think I’ll call her on Thursday”. Most men don’t have a clue that the woman would have preferred a call on Tuesday. So why do they do it? They do it to “save face” and to give the impression they’re “in control” of the situation. An attractive guy by the name of Steven surprised me with his candor. He said, “You have to approach women looking like you do it all the time, and it isn’t a big deal to you. The minute you act like it’s important to you, the woman smells it and she treats you differently”. This is the reason men will wait before calling and then act a little bit cavalier. They believe that women disrespect men who appear weak or vulnerable.*  
+
+- Page 129 (location ~ 1973-1983)    
+
+*What you can take away from this is: Do not take it personally if he doesn’t call for a day or two. Often when it seems as though he’s slightly rejecting you, it can be a compliment in disguise; he wants you so much that he doesn’t want to appear too obvious about it. Other times men pull back deliberately to see what your reaction will be, because they are curious to see how much you care. If you don’t believe me, keep reading. Here’s what these sneaky devils copped to: 1. “Guys want women to think they have other options with women, even when they don’t. So they exaggerate. They do it to make themselves look more attractive to a woman.” 2. “Sure, men play cool. Because they think the woman is going to find them more attractive or appealing. I know some guys that check out a woman who isn’t even that beautiful, just to make his girlfriend a little insecure.” 3. “Guys don’t want to admit it to themselves that one woman can have that kind of control over them. It deflates our egos to think that women can affect us that much. We don’t want to feel like we have no control over ourselves.” ATTRACTION PRINCIPLE #68 In the beginning, the only thing you need to pay attention to is whether he keeps coming around, because he’ll only be able to suspend or hide his emotions for so long.*  
+
+- Page 130 (location ~ 1983-1994)    
+
+*12. “If you appear weak, people take advantage of you. Some men think if you open up too much, a woman will use it against you.” 13. “If you let a woman know that you haven’t been in the company of a woman recently, she could get the impression you’re desperate or just trying to be with any woman.” 14. “Women are in control, because they control the sex. In fact, women have a lot more control than they know. A lot of guys feel like this puts us at a disadvantage.” 15. “When a guy plays cool, he thinks he’s impressing the woman with his power or his strength. He’s just trying to be hip, like he knows what’s up. No guy wants to be perceived as a Mommy’s boy or a wimp.” ATTRACTION PRINCIPLE #69 Men treat women the way they treat other men. They “play it cool” because they don’t want to appear weak or desperate.*  
+
+- Page 131 (location ~ 2008-2016)    
+
+*“Men like a woman to be creative so it doesn’t get stale. If she’s too predictable because you talk about the relationship all the time instead of going out and having one, he’ll get bored quickly”. 6. “Recently, my wife and I started leaving the kids with family once a month and we go away for a Friday night or a Saturday night. It keeps the romance alive. It’s the adult conversation one-on-one.” 7. “It’s easy to say, ‘We can’t afford to eat out.’ Or, ‘We can’t afford to go away for the weekend.’ The bills may be racking up or you feel like you should spend the money on the kids. But you really can’t afford to give up the romantic things or your sex life. It’s also very important.” ATTRACTION PRINCIPLE #70 The element of surprise both inside and outside of the bedroom is important to men, and it adds to the excitement.*  
+
+- Page 133 (location ~ 2031-2038)    
+
+*10. “Just once I would like to have a woman take my hand and lead me to the bedroom. Guys always have to be the aggressors. We always have to do the work to get a woman ‘in the mood.’ Sometimes guys just don’t want to have to work that hard.” 11. “I like a woman who takes the initiative sexually from time to time. Maybe not the first time, but definitely when you are in a relationship. It makes him feel like you want him more.” 12. “I think it keeps the romance if you have time apart even when you’re living together. It is important to be able to do stuff alone and not have her give you a hard time about it. When I go fishing, I find that I really miss my wife. And that’s a good thing, isn’t it?” 13. “Sometimes a woman can make a guy feel important by asking questions or expressing an interest in what he likes. They can try something new together that they wouldn’t normally do. I’d suggest planning a weekend away with him that you can both look forward to.”*  
+
+- Page 134 (location ~ 2042-2051)    
+
+*ATTRACTION PRINCIPLE #71 Don’t always do the same thing over and over in the bedroom. Vary it so that it doesn’t become a predictable routine.*  
+
+- Page 135 (location ~ 2057-2058)    
+
+*1. “A woman should always keep the bathroom door closed when she’s on the toilet. I think it’s really disgusting to watch a woman on the toilet. And don’t leave feminine pads and stuff around for the guy to look at, either. We don’t even like it when we see douche commercials on TV”. 2. “I get a little turned off by a woman who is too materialistic. If she pays attention to what kind of shoes I’m wearing or what kind of watch I have on or what kind of car I drive, I’ll back off”. 3. “When a woman is jealous, it can be a turnoff. One time I was on a date and this person with long blonde hair was in the car next to us. My date accused me of checking her out. It turned out to be a guy!” 4. “Mystery is important. I was on the phone with a woman and the first time we spoke she said that she was going to lose weight so we could have sex. How much does a guy need to be talked into having sex?”*  
+
+- Page 135 (location ~ 2063-2070)    
+
+*10. “The fear every guy has is that after marriage the girl is going to cut her hair off, gain a bunch of weight, and stop putting out.” 11. “No woman who wants to be involved with a halfway decent guy should ever get drunk with him. If you’re home drinking and you get a buzz, that’s one thing. If you’re at a bar and you make an idiot of yourself, it’s a total turnoff. No one likes to be with a drunk”. 12. “Never let a guy know you’re sitting home waiting for his call, or that he’s your whole life. He also likes knowing other men want you, just as long as you aren’t sleeping with any of them.” 13. “When a woman chases you, it will turn you off. I remember when the sorority girls would come over to the fraternities. In a way, I felt like the cows were coming to graze on our turf. It was too easy”. 14. “It’s like punching a clock when you’re with a woman who makes you feel like you have to report back to her. That’s an instant turnoff”. 15. “A woman should never show up unannounced, both at a guy’s house or at his work. He’ll instantly think of her as a ‘fatal attraction’ type.”*  
+
+- Page 136 (location ~ 2078-2088)    
+
+*Pop culture does not encourage women to be feisty, so women get the idea that being nice, and agreeable is the winning ticket.*  
+
+- Page 137 (location ~ 2091-2092)    
+
+*Pop culture does not encourage women to be feisty, so women get the idea that being nice, and agreeable is the winning ticket. It’s good to be nice. It’s when a woman feels she has to be nice independent of how she is treated that there’s a problem. It often means the woman is nice at the expense of being self-abnegating.*  
+
+- Page 137 (location ~ 2091-2093)    
+
+*When you read the following quotes, this message should come full circle, since now you will be hearing it directly from men: They are secretly turned on by a bitch, or a woman who will stand up for herself. At this point we are getting to the meat and potatoes of the “Other Team’s Secret Playbook”. Here’s where men—in their own words—disclose why they are turned on by bitches. This is one of their best-kept secrets of all. 1. “When you banter with a woman and she can give it right back to you, it’s a turn-on.” 2. “I like a woman who can put me in my place. If I’m being a jerk and she brings it to my attention, it makes me respect her.” 3. “The childlike qualities in us [men] propel us to try to take advantage. It’s a good thing to know the woman you love won’t put up with it.” 4. “Yes, I admit it. Sometimes I start a fight with my wife. It isn’t that I deliberately want to give her a hard time; it’s just that sometimes I have a hard day and misery loves company. When she puts me in my place, it makes me respect her.” 5. “I like a woman who won’t play games. Her confidence says that she must know something I don’t. Then I say to myself, ‘Hey, she must be worth keeping.’” 6. “When a woman is always really sweet and nice, it can become monotonous.” 7. “If a guy thinks a woman is stupid, he won’t take her attention that seriously because he doesn’t respect her opinion. If she’s really smart and appears to have her act together, I am more flattered that she wants to be with me. I feel like I have something of value.” ATTRACTION PRINCIPLE #72 Most men tend to disrespect a woman who appears to be too malleable. 8. “When you try to get away with doing something you know isn’t right and a woman says, ‘I don’t have time for that,’ it can be a turnon. It depends on the situation, but I like a woman who has the integrity to stand by what she believes.” 9. “She is so sexy to me when she has that spiciness about her. She isn’t afraid to disagree or tell me what she thinks. She doesn’t always kiss my ass and that keeps me on my toes.” 10. “She didn’t take anything lying down. I complained at the time, but I admit this turned me on.” ATTRACTION PRINCIPLE #73 Don’t be afraid to stand up for yourself or speak your mind. It will not only earn his respect, in some cases it will even turn him on. 11. “I like a woman to put me in my place, if I know I deserve it. What is sexy is when a woman is comfortable enough with her own power. Or when she isn’t so timid or afraid to rock the boat.” 12. “A man respects a woman who won’t tolerate being treated badly”. 13. “I treat women as equals, so I like to compete in a fun way with my wit. I like a woman who mentally challenges me in a fun way by bantering with me, or with her sense of humor. It can be competitive in a playful kind of way”. 14. “I actually like a woman with a little bit of a temper. Because then I know she won’t let me take advantage of her. Pride is sexy”. 15. “A woman who is feisty is sexually stimulating. You assume she’ll be wilder. With a nice girl, you are afraid she’ll run home and tell her mommy what you did to her.” ATTRACTION PRINCIPLE #74 Men often automatically assume that a bitchier woman will be more assertive in bed, and that a nice girl will be more timid.*  
+
+- Page 137 (location ~ 2094-2127)    
+
+*5. “He’ll go out of his way [for her]. He’ll fly to see her. If she has a craving, he’ll get out of bed to get her a doughnut in the middle of the night.” 6. “Men are into variety until they fall madly in love. If he really wants one woman, it doesn’t matter who else he can have because he wants to be with her. Other women aren’t a threat when he’s attached. A lot of temptations go away when you really fall hard.” 7. “When he thinks about her all the time, when he does thoughtful things for her, or when he’s always thinking of ways to please her.” 8. “Suddenly, he feels like he can stop looking around the corner for someone else.” 9. “When he’s willing to do something out of character to please her. He never thought of having children or getting married, but with this woman he is willing to do all of the above.” 10. “She won’t have to ask. She’ll just know it in her gut.” ATTRACTION PRINCIPLE #75 When a man falls in love, suddenly he’ll go out of his way and think nothing of it. He’ll do things for this woman he wouldn’t have done for anyone else.*  
+
+- Page 140 (location ~ 2140-2151)    
+
+*Much of the advice given in this book has been based on the admissions men have made to me. At one point, I asked a doctor named George why he won’t share this secret information with his partner. He answered, “Because with you there is no consequence. But with her there would be a consequence.” The consequence George is speaking of is a loss of power for men. In other words, the attraction a man has for a feisty or bitchy woman is rarely something he’ll want her to know about.*  
+
+- Page 141 (location ~ 2152-2156)    
+
+*Refer to the Top Fifteen Lists in this chapter again and again, but don’t take the information and work even harder to please your man. Instead of working so hard to please him, work harder to please yourself . . . because ultimately, this is what will truly please him.*  
+
+- Page 141 (location ~ 2162-2164)    
+
+*This chapter explores what happens when you give up your “pink slip” and the ability to provide for yourself. ATTRACTION PRINCIPLE #76 He’ll never respect you as being able to hold your own unless you can stand on your own two feet financially. When you have the clear title on a vehicle, you are the legal owner and you have the “pink slip,” or certificate of ownership, to it. The “Pink Slip” in some states means you’ve been fired. However, the meaning here pertains to ownership of a vehicle. When you have the pink slip, there are no lien-holders. There are no monies owed. There are no debts unpaid. This means you own it free and clear, so what you do with that vehicle is entirely up to you. Likewise, when a woman keeps the pink slip over herself, she gains leverage in the relationship.*  
+
+- Page 142 (location ~ 2173-2181)    
+
+*Work = Money = Keeping your pink slip = The ability to choose the way you want to be treated = Dignity What mothers may or may not elaborate on is how a man feels about a woman when he has to carry her financially. Before long he’ll feel as though she’s an added responsibility instead of an asset. At that point, he’ll stop viewing her as a privilege to be with. This doesn’t apply to a woman taking care of children. When a family is involved, no doubt she will be doing her part . . . and then some. He won’t perceive her as dead weight, because he knows her job can sometimes be harder than his. In this case a father recognizes that he prefers his job over hers, so he can’t help but respect her for her work.*  
+
+- Page 143 (location ~ 2184-2190)    
+
+*A bitch will usually maintain her independence and contribute to the relationship in some way because her pride won’t allow her to be perceived as a burden on someone else. And she won’t put herself in a position where she can’t rock the boat, which she will do if and when she feels that she isn’t being regarded highly enough. It’s important to let him know you place your dignity above all else, even if you’re dating a very successful man. He has to feel that, if he mistreats you, you’ll pack up and move out of his mansion into a one-bedroom without any hesitation. He has to feel you’ll drive a Pinto rather than a Mercedes Benz, if it means you’ll be tolerating disrespect. He has to know you’ll give up a comfortable lifestyle before you’ll accept being misused or mistreated.*  
+
+- Page 144 (location ~ 2196-2202)    
+
+*ATTRACTION PRINCIPLE #77 You have to show that you won’t accept mistreatment. Then you will keep his respect. When faced with an independent woman, a guy is too busy trying to keep his “welcome” to get bored. But with a financially dependent woman, he thinks he can slack off and she’ll take it. Even if he isn’t the type to mistreat a woman, he’ll grow bored if he gets the sense that she’ll take whatever he dishes out. You don’t have to be rich; you just have to maintain the ability to take care of yourself. This directly relates to whether he’s respectful at all times. He can’t buy you a dinner because you’re hungry. It has to be a gift that he chooses to give and that you choose to receive. Then the gifts keep coming.*  
+
+- Page 144 (location ~ 2206-2213)    
+
+*If you can take care of yourself, everything he gives you becomes gravy. He isn’t providing the whole meatloaf. The whole four courses. He doesn’t provide you with your livelihood. ATTRACTION PRINCIPLE #78 Your pink slip is maintained when you can stand on your own—with him or without him. He should never feel that you are completely at his mercy. Susan B. Anthony said, “I never felt I could give up my life of freedom to become a man’s housekeeper.” It isn’t about whether a woman is a man’s housekeeper or whether she’s bringing in “dollar for dollar” that’s important. And it also isn’t about whether she stays at home to raise children, because this is even harder work. The variable is this: Whether a woman has the resources or ability to leave if and when she wants to go. When a man financially supports a woman completely, one of two things will happen: 1. He’ll begin to feel “locked in,” or trapped in a deadend situation. 2. He’ll begin to view her as a little girl. ATTRACTION PRINCIPLE #79 When a man views a woman as a “little girl” or a sister he has to take care of, the passion diminishes. He doesn’t want to make love to his sister.*  
+
+- Page 145 (location ~ 2218-2230)    
+
+*The Two Feet Speech “You only have two feet. Why do you need so many shoes? There are 365 days in a year. You have 100 pairs of shoes. That’s one pair of shoes for every 3.65 days. I have flip-flops, sneakers, and a couple of pairs of work shoes. Why do you need so many shoes? Do you see these shoes I have on? I have worn these every day for the past two years. I don’t understand. Why do you need so many shoes?” If she were working, would he give her this speech? Not likely. But if a man pays all the bills, the “money gets funny and the change gets strange.” Better for her to be a waitress at Denny’s one day a week, and he won’t say a word. She would put on her new shoes, strut her stuff, and not have to explain “nothin’ to nobody”. ATTRACTION PRINCIPLE #80 The ability to choose how you want to live, and the ability to choose how you want to be treated are the two things that will give you more power than any material object ever will.*  
+
+- Page 146 (location ~ 2234-2243)    
+
+*The ability to remain an independent thinker is what keeps his interest and the mental challenge. The ability to make your own choices in life is your most important tool. It is the very thing that gives you power. Not only will he tell you what you should have, the man who is paying all the bills will eventually begin to tell you what you like or don’t like as well. He won’t ask for your opinion, he’ll tell you what your opinion should be. It sets you up to be treated like a Barbie doll that he can control. Then the following will occur: He’ll begin to think that he’s entitled to the last word. He’ll behave as if what he says goes. He’ll have control over your happiness and sadness. You’ll be treated as though he’s the boss and you’re the subordinate. He may offer his help on his own terms, and you’ll wait at bay. ATTRACTION PRINCIPLE #81 In a relationship of any kind, if one person feels the other person isn’t bringing anything to the table, he or she will begin to disrespect that person.*  
+
+- Page 147 (location ~ 2247-2257)    
+
+*The ability to take care of yourself ensures that all of the following will remain intact: 1. The mental challenge 2. The respect 3. The longevity of the relationship 4. The sexual desire A case in point. Roxanne, who could be described as a “gold digger,” lived with Kent at his Malibu estate. She drove a Mercedes Benz and made regular shopping sprees on Rodeo Drive. Her survival, her livelihood, and her whole existence were contingent on Kent, a man she didn’t particularly care for. Although on the surface she appeared to have it all, she had completely given up her pink slip. One day, I drove to Roxanne’s place to pick her up for lunch. Before we left, she opened a drawer and took out some cash, and said she had to make a quick deposit into her account. She had bounced a check for $20. She then said, “Kent lets me keep my pride. He puts the money in a drawer, so I don’t have to ask for it.” In this example, there was no pride to be “kept.” Pride is . . . having your own paycheck. There is only one thing better than “With Love” and that is the phrase, “Pay to the order of”. In the above example with Roxanne, there is no question that the problem was financial. Kent even suggested that she get a parttime job. He said, “I’d respect you more if you had a job.” Still, she didn’t make an effort to look for work. And two weeks later, she was tearfully packing her Gucci bags. Being a gold digger never pays, as evident by the headline stories on the news. As a matter of fact, gold diggers recently suffered an even bigger setback: Viagra. Now she’s working twice as hard for equal pay. And no dental benefits.*  
+
+- Page 148 (location ~ 2261-2276)    
+
+*All a woman has to do to balance the relationship is pay an electric bill with her own money or bring home groceries from time to time. Any of these things express her gratitude; then the man is happy to pay for everything else. He doesn’t have to feel it’s always equal, just reciprocal. ATTRACTION PRINCIPLE #82 Financial neediness is no different than emotional neediness; in both instances, he can still get the feeling that he has a 100 percent hold on you. Another woman I know, Michelle, was living with a man for four years. For most of that time, he paid every bill and never complained because Michelle didn’t have any money coming in. Then she inherited some money. She had $120,000 sitting idle in a savings account. At that point, he asked Michelle to help pay some bills; she declined. He didn’t ask her to carry all the weight, or even half the weight. He merely asked her to pitch in. The interest from her capital would have been more than enough to show him that she was pitching in for a few bills. Still, Michelle insisted that the money was for “her retirement.” Shortly thereafter, he “retired” from the relationship—at which point she moved out. She was then forced to pay several times the amount of money for her own living expenses. Contributing within her means would have been the right thing to do. It was also the financially advantageous thing to do. But the point is not purely financial. The relationship would have had a better chance of working if she had balanced things out by pitching*  
+
+- Page 149 (location ~ 2276-2289)    
+
+*All a woman has to do to balance the relationship is pay an electric bill with her own money or bring home groceries from time to time. Any of these things express her gratitude; then the man is happy to pay for everything else. He doesn’t have to feel it’s always equal, just reciprocal. ATTRACTION PRINCIPLE #82 Financial neediness is no different than emotional neediness; in both instances, he can still get the feeling that he has a 100 percent hold on you. Another woman I know, Michelle, was living with a man for four years. For most of that time, he paid every bill and never complained because Michelle didn’t have any money coming in. Then she inherited some money. She had $120,000 sitting idle in a savings account. At that point, he asked Michelle to help pay some bills; she declined. He didn’t ask her to carry all the weight, or even half the weight. He merely asked her to pitch in. The interest from her capital would have been more than enough to show him that she was pitching in for a few bills. Still, Michelle insisted that the money was for “her retirement.” Shortly thereafter, he “retired” from the relationship—at which point she moved out. She was then forced to pay several times the amount of money for her own living expenses. Contributing within her means would have been the right thing to do. It was also the financially advantageous thing to do. But the point is not purely financial. The relationship would have had a better chance of working if she had balanced things out by pitching in.*  
+
+- Page 149 (location ~ 2276-2289)    
+
+*ATTRACTION PRINCIPLE #83 Regardless of how pretty a woman is, looks alone will not sustain his respect. Appearance may pull him in, but it is your independence that will keep him turned on. Dignity and pride aren’t about whether you pull money out of a drawer, a sack, or a wallet. It isn’t about being given a credit card or pulling cash out of a Versateller. If you have an income, however small, it enables you to: 1. Live by your own rules 2. Move to your rhythm, instead of dancing to the beat of someone else’s drum 3. Decide how you want to be treated 4. Choose what you will or will not tolerate 5. Leave if you don’t get what you want Everything in this list is precisely what the bitch values most. She keeps*  
+
+- Page 150 (location ~ 2298-2307)    
+
+*ATTRACTION PRINCIPLE #83 Regardless of how pretty a woman is, looks alone will not sustain his respect. Appearance may pull him in, but it is your independence that will keep him turned on. Dignity and pride aren’t about whether you pull money out of a drawer, a sack, or a wallet. It isn’t about being given a credit card or pulling cash out of a Versateller. If you have an income, however small, it enables you to: 1. Live by your own rules 2. Move to your rhythm, instead of dancing to the beat of someone else’s drum 3. Decide how you want to be treated 4. Choose what you will or will not tolerate 5. Leave if you don’t get what you want Everything in this list is precisely what the bitch values most. She keeps her power in every way. And as Henry Kissinger said, “Power is the great aphrodisiac.”*  
+
+- Page 150 (location ~ 2298-2307)    
+
+*Over and over, men have expressed to me their frustration with women who lack gratitude and those who automatically expect a man to pay. There are some women who, even when it’s a man’s birthday, will take him out and expect him to pay. There were many men who, when interviewed for this book, shared stories about birthdays or holidays in which their partners still expected them to pick up the tab. In one instance, a woman invited other people to a birthday party and expected the “birthday boy” to pay for everybody. The bill came and people reached for their wallets at the dinner table. “Oh, no, you guys. Marc will get that,” the woman said. (Needless to say, Marc was not too happy.) It was the automatic expectation that made him feel unappreciated. The same goes for flowers or a gift. Do you act excited and appreciative, or do you barely mumble a thank-you and then put the flowers in water? If he brings you a wilted, week-old bunch of flowers from the supermarket that cost $2.99, hold back. Just muster up a thank you, smile, and put them in water. If he gives you a gift, don’t fess up that you always go back and exchange it, or he’ll stop bringing you little tokens of his affection. If you can, exchange it for something similar, then tell him it’s the same one he bought you. Say, “It looks different on, huh?” (He’ll never know the difference.) If you want him to give you jewelry, don’t ever utter the words “pawn shop.” If you pawned jewelry given to you by an ex-boyfriend or husband, never disclose that information to a man you’re seeing. Acknowledgment is very important to men. A man I know, John, once ended a relationship with Kate, a woman he was dating, because he felt she was not grateful for a gift that he gave her.*  
+
+- Page 151 (location ~ 2312-2325)    
+
+*Because men aren’t conditioned to express their emotions, women sometimes assume that when men spend their money, it doesn’t mean anything to them or they didn’t have to do anything to earn it. If a man gives you something, show him the respect he deserves by thanking him for the kindness. If you want to be treated well, you have to encourage it by making him feel important and special whenever he does something generous and gracious. Otherwise, he won’t have an incentive to do it again. Vinnie, who is very generous by nature, talked about a woman named Shawna who ordered lobster when they went to an expensive restaurant. He said, “I don’t mind that she ordered the lobster, but after that she just picked at it. Then she said, ‘I wasn’t really hungry, anyway’. That bothered me.” Again, the issue is whether you act as though you expect or are owed what he gives you, or whether you appreciate his generosity and kindness. Many men enjoy feeling like the provider, as long as they feel appreciated for what they give.*  
+
+- Page 152 (location ~ 2330-2338)    
+
+*Money can also be a telling barometer of where a man is coming from, or what a man’s intentions are. One woman I know named Carla dated a man named Guy, who made it very clear that he couldn’t afford to pay for dates. Guy always had an elaborate explanation as to why he couldn’t pay. Each time they went out, it was a Dutch treat. Nevertheless, he insisted on terms that would be “even Steven.” Fair and square. Without exception. One time Carla accompanied Guy to a bar with several of his friends. To her surprise, he had no problem buying his buddies one drink after another. He paid for two rounds in twenty minutes, dropping $80 on drinks without thinking twice. “Waitress? My buddy Steve wants another Long Island iced tea.” It was only that morning he had asked his date to pay $7 for her scrambled eggs and bacon at breakfast. Needless to say, this showed Carla that Guy didn’t have sufficient value for the relationship so she stopped seeing him. Usually when a man insists on splitting a check on the first few dates, he’s showing you right up front he doesn’t value you or the relationship. Granted, some women refuse to have a man open doors or pick up a tab. They refuse to be “paid for.” A bitch has no problem and no “issues” surrounding being treated well, so she lets a man give—and she allows herself to receive. The nice girl who won’t allow herself to be treated to a dinner, deep down usually doesn’t want to feel obligated to a man and she knows she will be if he pays for dinner. The bitch has no such complex. She says thank-you politely and graciously. And at no time does she feel guilty or obligated. Nor does she feel compromised in any way. If he’s a student or is truly struggling financially but he still wants to impress you, he’ll suggest doing something that costs less. Or he’ll suggest doing something that doesn’t cost anything at all. He can grab some inexpensive wine and a blanket and take you to a beautiful park. Or, he can get movie screening tickets. Or, he can invite you to a party. If he’s absolutely crazy about you, he won’t let you pay for the tab or go Dutch.*  
+
+- Page 153 (location ~ 2340-2356)    
+
+*ATTRACTION PRINCIPLE #84 When a man is very consumed with not being taken advantage of, this is a sign that he’s “on the take.”*  
+
+- Page 154 (location ~ 2361-2362)    
+
+*When a man asks you to go on a trip with him, be considerate. If he offers to pay and asks you to make the reservations, consult with him about the price of various hotels and let him decide. Men love to feel that they are “in charge” and that their opinion really counts. (At the very least, pretend.) If he pays for the trip, surprise him and pay to have breakfast delivered to the room. Or take him out to dinner to thank him. Buy him a bright colored shirt if you go somewhere tropical or a warm sweater if you’re hitting the slopes. Again, it’s all in showing that you respect what he gives. Men, like women, don’t want to feel taken for granted. The same goes for a gift that he gives you. If he gives you something, act excited—even if it’s ugly. “I love it!” One girl-friend of mine got a T-shirt from her husband. It looked like a cross between a tie-dye and a paisley print and was so hideous it could scare small children. Even though she hated the shirt, she wore it for him when they were at home, just to make him feel good. More often than not, women who are too nice err on the side of giving too much. They give to a fault. The woman who is too nice senses that he “needs her” and she runs to his aid like a Red Cross rescue missionary. And she gives— blindly.*  
+
+- Page 156 (location ~ 2378-2387)    
+
+*ATTRACTION PRINCIPLE #85 People will show you they have self-respect simply by virtue of the fact that they want to carry their own weight.*  
+
+- Page 157 (location ~ 2407-2408)    
+
+*ATTRACTION PRINCIPLE #85 People will show you they have self-respect simply by virtue of the fact that they want to carry their own weight. A bitch is not mean; she just doesn’t volunteer for any “joyrides.” If the man wants to go on a joyride and extends an open invitation, she can choose not to go. Yes, treat others the way you want to be treated. But, at the same time, expect that the man in your life treats you the same way. The bitchier woman would never let a man think that she’s there because she has “nowhere else to go.” Her financial independence is a constant reminder to him, however subtle, that if he makes her “stay” unpleasant, she won’t be staying for very long. This ensures that the relationship remains respectful, reciprocal, and kind . . . to all.*  
+
+- Page 157 (location ~ 2407-2414)    
+
+*Men often find a woman who has passionate interests and activities of her own to be more exciting. They don’t have to be things he’s interested in necessarily just as long she has interests of her own. ATTRACTION PRINCIPLE #86 The more independent you are of him, the more interested he will be. The story that follows proves my point. Rob, an attractive, successful man who could have his pick of any woman he wanted, was mystified by a most unlikely woman. He describes Laura as a “conservative computer nerd” who wears long pleated skirts. After a few dates, he invited her to go on a cruise. Rob wasn’t lacking in the confidence department, and he thought he’d teach Laura how to have fun. He thought he’d “rock her world.” Laura said she couldn’t go. The reason? She had a preplanned Tupperware party. Rob told what happened next: “I kept hoping she’d change her mind. I ended up going on the cruise by myself and ended up flying home after one day to see what she was up to. A Tupperware party? It couldn’t be. I simply could not believe that she’d pass on an exotic vacation with me for a Tupperware party. I figured she had to be seeing some other man. I had to see for myself”. He flew home and dropped by that Saturday evening when Laura’s party was supposed to be going on. Sure enough, lo and behold, he was dumbfounded and astonished to find that she was actually having a Tupperware party. When he showed up, Laura was happy to see him. She invited him in and offered him a finger sandwich. Rob could have just as easily been eating spiny lobster or exotic seafood en route to the Bahamas at that very moment with any woman he wanted. Instead, he was nibbling on a soggy little tuna sandwich with a toothpick in it. He could have been watching a world-class Vegas-style show, instead the highlighted entertainment on the agenda was Tupperware containers: Gingerbread-shaped ones, star-shaped ones, and even heart-shaped ones.*  
+
+- Page 159 (location ~ 2425-2441)    
+
+*Rob had put on his best “mack-daddy” show-stopping routine, and Laura wasn’t that impressed. Unlike the bitchier woman, the nice girl will often appear easily impressed. She’ll make her desire to have a relationship much too obvious, which often invites mistreatment. ATTRACTION PRINCIPLE #87 If you make it too obvious that you’re excited to get something, some people will be tempted to dangle a carrot in front of your face. “Getting a life” will make it seem like you are no longer impetuous, or impatient.*  
+
+- Page 160 (location ~ 2446-2452)    
+
+*Rob had put on his best “mack-daddy” show-stopping routine, and Laura wasn’t that impressed. Unlike the bitchier woman, the nice girl will often appear easily impressed. She’ll make her desire to have a relationship much too obvious, which often invites mistreatment. ATTRACTION PRINCIPLE #87 If you make it too obvious that you’re excited to get something, some people will be tempted to dangle a carrot in front of your face. “Getting a life” will make it seem like you are no longer impetuous, or impatient. When you are relaxed, you’ve taken the “need” out of the equation. You no longer appear needy, which immediately changes the dynamic of a stale relationship.*  
+
+- Page 160 (location ~ 2446-2453)    
+
+*It really throws men off if the activity appears to be something mundane. In the previous example, it was a Tupperware party; but anything along the lines of knitting, gardening, or pottery will do the trick. Rest assured, his ego won’t let him lose out to a sweater, a potted plant, or a mound of clay No matter what you choose, as long as you are passionate about something other than him, it will draw him back in. Guaranteed. He’ll be asking himself the same question he asked himself in the first weeks of dating you. “How could she want to do that, when she could be with me?” When you will not drop everything to be with him, you’ll appear as though you have more going for you. This will remind him of your worth, and invariably, he will begin to come your way.*  
+
+- Page 161 (location ~ 2455-2461)    
+
+*Give no attitude and no complaints. Instead of seeing him regularly, make the schedule random. Random means he shouldn’t be able to predict like clockwork when he’ll see you next or when he’ll hear from you next. ATTRACTION PRINCIPLE #88 When you alter the routine, your not being there at times is what will make him come around. Men don’t respond to words. What they respond to is no contact.*  
+
+- Page 161 (location ~ 2466-2469)    
+
+*The first evening that Tracy didn’t wait for his call, Allen flipped. His whole orientation changed immediately. He called at 7:30 P.M. and virtually every half-hour after that until 10:30 P.M. He went out, had half a drink, and then went right back to his room to call his wife again. Tracy walked in at 10:59; the phone rang at 11:01. Whereas before it was a chore, now Allen was happy to reach her. She was happy, too, especially when she looked down at the answering machine and saw that it was flashing a big red 9. (Six messages from him, and three mysterious hang-ups.) And everyone went to bed happy Suddenly Allen missed Tracy. Why? Because she had a life of her own outside of their relationship. Never stop living your life. Take a class. Develop a hobby. Meet people. You are only as interesting as the depths of your own interests. The mere fact that you are content with your life keeps you*  
+
+- Page 162 (location ~ 2480-2488)    
+
+*The first evening that Tracy didn’t wait for his call, Allen flipped. His whole orientation changed immediately. He called at 7:30 P.M. and virtually every half-hour after that until 10:30 P.M. He went out, had half a drink, and then went right back to his room to call his wife again. Tracy walked in at 10:59; the phone rang at 11:01. Whereas before it was a chore, now Allen was happy to reach her. She was happy, too, especially when she looked down at the answering machine and saw that it was flashing a big red 9. (Six messages from him, and three mysterious hang-ups.) And everyone went to bed happy Suddenly Allen missed Tracy. Why? Because she had a life of her own outside of their relationship. Never stop living your life. Take a class. Develop a hobby. Meet people. You are only as interesting as the depths of your own interests. The mere fact that you are content with your life keeps you interesting. You are happy with him or without him and this keeps you . . . just outside his reach.*  
+
+- Page 162 (location ~ 2480-2489)    
+
+*Another woman named Sandy told me about how she felt taken for granted when she was on her hands and knees cleaning the kitchen floor, after she had cooked for her husband, Wade. He had just started eating and then he came over to her and said, “It is really inconsiderate of you to clean the floor right now. That stuff stinks. Could you please wait until I’m finished eating?” She resisted the urge to strangle him. For the rest of the week, Sandy backed off. She spoke to him very superficially and became a loof. He had to ask her, “What’s wrong?” a dozen times before she addressed what was on her mind. She went from “worker bee” to “queen bee” in just a few short days. First stop on Sandy’s agenda? A maid. She absolutely insisted on it. Then she addressed some table etiquette. Wade often started eating without her and got up before she ever sat down. She said she didn’t cook for two, so that she could eat alone. She also suggested going out to eat sometimes, even if it was to a less expensive place. Then she stuck to her guns. Not only do they now have a maid, they also have “date night” once a week. In both of these instances, by altering the “dinner agenda,” the women let their husbands know without words that they, too, had something to lose. Their actions said: “Either we meet in the middle or we don’t meet.” (And you won’t eat.) ATTRACTION PRINCIPLE #89 Don’t give a reward for bad behavior.*  
+
+- Page 164 (location ~ 2501-2512)    
+
+*Trivia question: Do you think a guy’s going to care if the cake is shaped like a heart? He’d probably have preferred a cake in the shape of a wrench or a remote control. In fact, right around Valentine’s Day, and shortly after Super Bowl Sunday, you can get a foot-ball-shaped cake at the bakery. All you have to do is take the little football people off, throw an asymmetrical “Happy Valentine’s Day” on there. Time expenditure? Reduced from two whole days to twelve minutes. Any woman who feels taken for granted should definitely ease up on the Betty Crocker efforts. It’s true that men say, “A man’s love comes from his stomach.” But there’s nothing in this statement that requires you to cook the food before it ends up in his stomach. The question must then be asked: Who should cook it? So many choices, so little time. The fortune cookie says, it can be delivered. Or, you can pick it up. He can take you out. He can cook on the six-foot beast of a barbecue that he just “had to have.” Think of how much fun it is for him. He can spread out both burgers one on each side of the grill, two feet apart from each*  
+
+- Page 165 (location ~ 2516-2525)    
+
+*Trivia question: Do you think a guy’s going to care if the cake is shaped like a heart? He’d probably have preferred a cake in the shape of a wrench or a remote control. In fact, right around Valentine’s Day, and shortly after Super Bowl Sunday, you can get a foot-ball-shaped cake at the bakery. All you have to do is take the little football people off, throw an asymmetrical “Happy Valentine’s Day” on there. Time expenditure? Reduced from two whole days to twelve minutes. Any woman who feels taken for granted should definitely ease up on the Betty Crocker efforts. It’s true that men say, “A man’s love comes from his stomach.” But there’s nothing in this statement that requires you to cook the food before it ends up in his stomach. The question must then be asked: Who should cook it? So many choices, so little time. The fortune cookie says, it can be delivered. Or, you can pick it up. He can take you out. He can cook on the six-foot beast of a barbecue that he just “had to have.” Think of how much fun it is for him. He can spread out both burgers one on each side of the grill, two feet apart from each other. And the bigger the grill, the more virile he’ll feel when using it. If he suggests using the grill, definitely encourage it. Then offer to do the dishes. When he starts cooking, set the table like the classy lady you are. Put out two paper plates and two Dixie cups, and plastic silverware. No table linens needed—just fold a couple of Bounty paper towels.*  
+
+- Page 165 (location ~ 2516-2528)    
+
+*Don’t try to be the “happy helper.” He won’t value your efforts when you automatically assume the role of a servant. If, however, you are reciprocating for kindness that he has been consistently extending to you, he’ll think of everything you give as a special treat. ATTRACTION PRINCIPLE #90 He simply won’t respect a woman who automatically goes into overdrive to please him. Sometimes changing the routine is a matter of changing the dinner agenda; at other times, it’s a matter of changing the times or dates of your little rendezvous. A college student named Anita provided a classic example of what happens when a woman doesn’t pay close attention to the way the pattern is set up in the first place. The first symptom will almost always be that you sense you are being put “on hold.”*  
+
+- Page 166 (location ~ 2536-2543)    
+
+*Women like Anita end up “at bay” for the simple reason that they are willing to wait. Once he knows you’re waiting he’ll make you wait forever. This is when it’s time to alter the routine. In Anita’s situation, the solution is straightforward. She should make herself less available, and schedule the time he is picking her up at least a day earlier. (Notice that she does not offer to travel to see him.) All she needs to do is ask, “What time were you thinking of getting together?” Dave could respond, “I’ll call you tomorrow when I get off work”. The trick is not to leave it at that. Simply say, “Gee, I may not be here and I’d sure hate to miss you. Just to be safe, let’s pick a time now”. Whether it’s early or late, agree to a time the day before the scheduled date. If he insists on “letting you know later,” just tell him that your cell phone isn’t working, your pager won’t be on, or you can’t take personal calls at work. ATTRACTION PRINCIPLE #91 If he doesn’t give you a time, you don’t have a date.*  
+
+- Page 167 (location ~ 2547-2555)    
+
+*Here are a few more suggestions on how to alter the routine: If you always call the office to find out when he’s coming home, from time to time, don’t be home when he gets in. Don’t tell him your whereabouts for every moment of the day If he calls you on your cell phone, don’t always rush to pick up. If he pages you, don’t call back within thirty seconds. Or, don’t call back. Let him get hold of you at home—not when you’re out and about. If he calls on the phone, don’t go out of your way to answer it. Let him leave a message. Or, you if want to be considerate, tell him you won’t be around beforehand. If you sit by the phone and check your “caller ID” or dial “*69” as if your next breath depended on it, turn the ringer off. Read a book. Rent a movie. If you live together, leave and go have some fun. And stay out a couple of hours longer than he expected. If he always expects you home at a certain time, come home a little later. The second he doesn’t know where his woman is he’ll come looking for you. He’s a hunter. He’ll pursue you. He has an inborn drive that’s very territorial . . . over you. But if you try too hard, you won’t tap that hunger.*  
+
+- Page 168 (location ~ 2568-2579)    
+
+*ATTRACTION PRINCIPLE #92 Often the best way to adjust or fix the problem is by not letting him know it’s being fixed. When you alter your availability or change a predictable routine, it will mentally pull him back in.*  
+
+- Page 169 (location ~ 2580-2582)    
+
+*Step 3: Regain Your Sense of Humor When you lose your sense of humor in a relationship, it’s usually around the time that you become “sprung.” This means, you’ve become consumed with your partner’s “every move.” And chances are, you’re often easily upset by what you aren’t getting in the relationship. A sense of humor is a sexy quality. Men may not come out and say it, but they notice when you lose that “edge.” In the beginning, you probably bantered with him more and had a quick wit. When the mental challenge goes, so does the sense of humor. A very effective way to put a man in his place or to keep him in check is with humor. You can let him know in a fun, playful way that your security as a woman doesn’t depend on him.*  
+
+- Page 169 (location ~ 2583-2589)    
+
+*ATTRACTION PRINCIPLE #93 Once you start laughing, you start healing.*  
+
+- Page 170 (location ~ 2592-2593)    
+
+*When he teases you, it’s as if he is asking you, “Still got that edge?” Your sense of humor answers him and lets him know that he isn’t always going to call the shots. Here’s a case in point. A girlfriend of mine went on a couple of dates with a guy who criticized the color of her nail polish. She said, “The suggestion department is closed for the evening. But fax your idea tomorrow and we’ll file it right over there in the suggestion box.” (Then she pointed to the kitchen trash.) These two are still together and he is absolutely crazy about her. To this day, she wears the same nail polish color. Humor not only defuses a situation, it also makes you come out smelling like a rose. Tom Hanks exemplified this in an interview with Barbara Walters. Paraphrasing what she said, “I don’t mean to hurt your feelings, Tom, but you aren’t considered a sex symbol.” He said, “Yeah, but I embrace that. And I think that makes me kinda sexy.” He could have chosen to become defensive. Instead he was disarming. If you don’t become defensive and you laugh things off from time to time, he’ll respect you more. This is when you show whether you believe in yourself. For example, he may make fun of the way you parked your car. This kind of joking makes him feel manly. A relaxed aura from a woman who can laugh at herself turns him on because he thinks she’ll be entertaining and fun. It doesn’t matter if you’re wearing a potato sack. A feisty quality will do it for him more than a black nightie on a woman who behaves as though she is desperate for approval. (Yes, even if you’re wearing the thigh highs that cut off your circulation and practically cause you to lose a limb.)*  
+
+- Page 170 (location ~ 2596-2609)    
+
+*One woman I know named Darla dated a man who made a complete mess every time he came over. They also had a good sex life. He made a pass at Darla and she play-fully snubbed him. Then she walked over to the sink and started doing all his dishes. She said jokingly, “The more time I spend doing dishes, the less time we spend doing ‘the deed’.” Suddenly, the happy helper started pitching in. ATTRACTION PRINCIPLE #94 You can get away with saying much more with humor than you can with a straight face. The man in your life watches you. He watches to see how you stand your ground. He watches to see how you respond when he teases you and when you receive criticism from him or someone else. He’ll test the waters, because he wants to see how you fight back. He wants to see if you can hold your own.*  
+
+- Page 171 (location ~ 2614-2621)    
+
+*The Bitch Stands Her Ground The “new and improved” bitch is not a bad thing. She is a refined version of the proverbial, “old” bitch. She’s not abrasive or mean, nor does she nag to get what she wants. She speaks with her actions, and she’s only a bitch when she has to be. One of the most telling signs that a woman “has arrived” is that she’s not obsessed with pleasing a man, or anyone other than herself. Who is this “new and improved bitch?” See the following definition: Bitch (noun): A woman who won’t bang her head against the wall obsessing over someone else’s opinion— be it a man or anyone else in her life. She understands that if someone does not approve of her, it’s just one person’s opinion; therefore, it’s of no real importance. She doesn’t try to live up to anyone else’s standards— only her own. Because of this, she relates to a man very differently. The bitch also perceives herself differently. She’ll get into the “boxing ring,” so to speak, with the mindset that she’s an “equal opponent” to a man. With a nice girl, a man automatically thinks of himself as the “heavyweight” and of her as the “featherweight” (a.k.a., the underdog). A confident woman who enters the ring and doesn’t go down without a fight earns the respect of a man, even if she loses. Why? Because then he knows she’s a woman with heart. If she goes down, she goes down swinging. And when they step out of the ring, he can’t help but have more respect for her.*  
+
+- Page 172 (location ~ 2629-2641)    
+
+*She is able to communicate without a lot of “gray area,” and she’s forthright. Don’t think this*  
+
+- Page 173 (location ~ 2643-2643)    
+
+*She is able to communicate without a lot of “gray area,” and she’s forthright. Don’t think this matters? Take a peek at a side-by-side comparison: THE NICE GIRL THE BITCH She’ll try to sweet-talk a man into giving her what she wants on a regular basis. If she doesn’t get it, she’ll cry, get upset, or pout. She won’t sugarcoat anything or use euphemisms. She is direct about what her preferences are and lets him know what the dos and don’ts are, with respect to how he treats her. She’ll play the guilt card or talk about her “inner child”; she seems to possess a childlike quality. She is a grown woman, so there’s nothing “childlike” about her. She has a no-nonsense philosophy. If he hurts her in some way she’ll cry Then she’ll make him apologize and promise not to do it again. She’ll back off and let her silence do the talking. Then she’ll communicate when she’s ready, on her own terms; at this point, she makes it clear it won’t happen again, because if it does she won’t be around. She tells herself, “He didn’t mean that.” Or, she makes excuses if he behaves badly. She notices his disrespect instantly and, without hesitation, calls him on the carpet over it. She forces herself to do something she is uncomfortable with in order to please a man. She also puts on a happy face and pretends that she likes it. She won’t do anything she’s not comfortable with and won’t hesitate to let him know She meets him on a level playing field. ONE = A DOCILE WOMAN = LOSS OF RESPECT THE OTHER = A DESIRABLE WOMAN = INCREASED RESPECT Rarely, if ever, will two grown men have a drawn-out conversation that ends with: “You hurt my feelings!” The closest thing a man will say to another man about feelings is, “You really pissed me off”.*  
+
+- Page 173 (location ~ 2643-2662)    
+
+*When you say the word B-I-T-C-H out loud, don’t say it like it’s a bad thing. According to some, the word derives from the first letters in the following phrase: Babe In Total Control of Herself. The only higher crown, the only higher honor, is to be called a “High-Maintenance Bitch.” It’s a sign of success, indicating that this is the woman the guy ends up keeping. If nothing else, he keeps her for the very practical reason that he’s invested so much that he can’t let her go. And he’s still trying to win her over. ATTRACTION PRINCIPLE #95 A man feels he’s won, or conquered a woman, when she eats out of the palm of his hand. At which point, he begins to get bored.*  
+
+- Page 175 (location ~ 2669-2675)    
+
+*Charlotte thought she’d win Tom back by throwing a party for him on the beach. She planned an elaborate party and invited all his friends. She also decided to pay over $3,000 to hire a sky-writing service for the event. There were two planes and they made a big beautiful heart in the sky followed by the words, “I love you always.” Once the planes arrived overhead, it took almost a half-hour for them to do an exquisite job. When they were finished, everyone was in awe. It was breathtaking, and everyone thought so— except Tom (who had unfortunately called an hour previously to say he couldn’t make it). By then, it was too late for Charlotte to get a refund on the fortune she had spent. She tried to cancel, but it was too late. The planes had already taken off and were en route to the party. The example with Charlotte is not uncommon. This is what happens when a woman is too nice and will jump through hoops: It invites bad behavior. While the nice girl loses her mind, the bitch, on the other hand, makes the man lose his. When a woman keeps a level head, a man will often become much more intrigued with her. He’ll think about her constantly, he won’t be able to get enough of her, and he’ll eventually decide he can’t live without her. It’s a basic difference between men and women: Women want safety and predictability and men long for excitement, danger, and unpredictability. As a child, the nice girl played with Barbie and her Ken doll; she grew up with the mental image that she, too, would live “happily ever after.” Little boys want nothing to do with the Ken doll—they identify with exciting figures who live dangerously, like Batman, Superman, and Spiderman. Ask any mother which child she finds more trouble-some—a son or a daughter. Most mothers confess that boys are more difficult, especially if there are more tha n one. Why? For most men, safe = boring. So they look for ways to add excitement and danger, and go out of their way to pursue things that are difficult. It’s this very element of danger that draws him to a bitch. ATTRACTION PRINCIPLE #96 The tension that arises with a slightly bitchy woman gives a subtle feeling of danger to a man. He feels slightly unsure because she is never in the palm of his hand.*  
+
+- Page 175 (location ~ 2680-2697)    
+
+*Think about what things men collect, or the things that fascinate them. Guns, ammunition, sports cards, sci-fi magazines, pocket knives, little metal cars, power tools, and a “rechargeable” flashlight. (Your job is to act riveted. “Wow, rechargeable?”) Oh, and let’s not forget the “priceless” collection of little army men (just to die for) and the high-speed stuff: cars, Jet Skis, motorcycles, and airplanes. The nice girl makes the mistake of nurturing a man and making him feel too “safe.” Men get bored very easily, which is why too much predictability and safety makes the relationship seem monotonous to him. With the bitch, it isn’t monotonous. The nice girl buries her head in the sand when she ignores a man’s need for stimulation, danger, or “a challenge.” This is to her detriment. She’s like an ostrich. When an ostrich sees a hunting animal, instead of facing the tiger head-on, it’ll bury its head in the sand. Hence, it becomes “din din.”*  
+
+- Page 176 (location ~ 2698-2706)    
+
+*Many women believe that men want a woman who will do . . . whatever they tell her to do. In theory, men want this. But in practice, when they actually get it, they’ll tire of it almost instantaneously. The minute a man thinks he can “do no wrong” in your eyes and you’ll accept anything he dishes out, you’ve already “waved a white flag” with regard to his having the hots for you. His desire will come to a screeching halt. Don’t buy the one about him wanting a “damsel in distress,” either. As one man said, “When you rescue a damsel in distress, all you get stuck with is a distressed damsel.” The notion that a woman has to “spill her guts out” in order to truly be in love isn’t a sign of love, it’s about becoming “din din.” He sees a docile woman and he says to himself, “Oh, no. A cling-on. Am I going to have to carry around this bag of Jell-O forever?” Once he realizes this, he calls less often or stops calling altogether— after he has sex with her. ATTRACTION PRINCIPLE #97 A “yes” woman who gives too much sends the impression that she believes in the man more than she believes in herself. Men view this as weakness not kindness.*  
+
+- Page 177 (location ~ 2710-2721)    
+
+*The Bitch Is Defined from Within Eddie Murphy once said in an interview: “The best advice I ever heard is, don’t take anyone else’s advice.” There’s power in this because it puts you in the conductor’s seat, right at “the controls” in your life. It doesn’t mean you should stop seeking information or outside input, it just means that you’re the one driving. You choose your own destination. This attitude directly impacts whether a man will view you as independent. The minute you stop being an independent thinker and he starts having to think for you, you catapult right out of the “driver’s” seat and land right in the “doormat” seat. The minute someone else can dictate what you think or how you feel about yourself, you are at their mercy. This attitude also influences success in many other areas. As long as you let someone else make decisions regarding your career, dreams, or aspirations, you’ve limited yourself drastically. You’ll only be as good as that person allows you to become. ATTRACTION PRINCIPLE #98 Be an independent thinker at all times, and ignore anyone who attempts to define you in a limiting way.*  
+
+- Page 179 (location ~ 2732-2742)    
+
+*The minute you become an independent thinker, two things will happen. First, positive people and things will be drawn to you like a magnet. Second, it will serve as a deterrent for negative people who will try to distract you from achieving your goals. There will always be people who will be there to plant negative seeds in your garden, if you make yourself available for that. Standing up for yourself doesn’t always involve verbal confrontation. Sometimes it’s about not wasting energy on people who are negative. ATTRACTION PRINCIPLE #99 Truly powerful people don’t explain why they want respect. They simply don’t engage someone who doesn’t give it to them.*  
+
+- Page 179 (location ~ 2744-2750)    
+
+*Masae was seeing an American man named Steven for some time. It was his birthday, so she decided to cook him a Japanese feast. She made miso soup, several types of sushi, and two authentic hot main courses. She was also an exemplary hostess. The only feedback Steven gave was that the soy sauce was too salty. “Next time get the one with the green lid, because it’s lower in sodium.” Masae was astonished, but she kept her composure. She said to him, with her limited language skills, “I cook for you. But if you complain? I no do for you.” She’s had nothing but praise ever since. As Eleanor Roosevelt said, “No one can make you feel inferior without your consent.” A positive person will say positive things, especially when you aren’t feeling up. When you leave his company, you’ll feel as though your batteries have been recharged. When you meet someone who is truly great, he makes you believe you can be great, too. This is the kind of relationship you want, and it’s the only kind of relationship worth having. The longer you practice being an independent thinker, the more attractive you’ll be. You’ll put a “magic spell” on a man. A deadly “mojo.” You’ll wake up and feel happier than you’ve ever been. Your aura and your life force will slowly come back.*  
+
+- Page 181 (location ~ 2761-2770)    
+
+*The bitch isn’t afraid to be different, which is why she won’t be a “booty call” or a pearl on a long string of pearls. She won’t be a man’s latenight convenience. She won’t be doing lap dances. She won’t be afraid to turn thirty or forty years old. At any age, this woman will feel like a “prize.” She won’t be defined by the media’s perception of aging; she won’t be made to feel like defective livestock because she is no longer a teenager. Married, single, or divorced, this woman feels good about herself. A woman with an exterior that is too tough is not the “new and improved” bitch I’m speaking of. Abrasiveness is not the objective. In Italy, there is a very common expression: È tutto fumo e niente arrosto. Literally, it means, “There is plenty of smoke, but nothing is getting roasted.” When a woman is too abrasive or too bitchy, or she pretends to be too much of anything, she rarely has anything to back it up. The “new and improved bitch” is truly strong, because she is nice. But she also demands the same kindness in return.*  
+
+- Page 182 (location ~ 2779-2787)    
+
+*Putting yourself first is not something men resent. On the contrary, a man actually respects it. He feels as though there is far less weight on his shoulders when you are independent, and he doesn’t have to make you happy all the time. He’ll regard you as a secure woman, instead of as a ditsy or flighty woman who doesn’t know what she wants. Putting yourself first means going back and relearning how to count. In math, the number one comes before the number two (1 . . . 2 . . . again . . . 1 . . . 2 . . .). You are number one and— are you sitting down?— he is number two! Until now, you’ve made the mistake of starting to count at “number two.” Number one wasn’t even counted. You skipped over numero uno because you didn’t seem to feel you mattered.*  
+
+- Page 183 (location ~ 2792-2797)    
+
+*Throughout life, people will try to shake your faith in yourself. When this happens, remind yourself that the only way they can succeed is if you allow it. When you walk down the street of life, always hold your head high and keep walking. Don’t ever let anyone shake your faith in yourself, because that’s really all that you have. ATTRACTION PRINCIPLE #100 The most attractive quality of all is dignity.*  
+
+- Page 183 (location ~ 2805-2809)  

@@ -1,5 +1,10 @@
 {{ define "main" }}
 <h1>{{ .Title }}</h1><p> {{ .PublishDate.Format "Jan. 2, 2006" }}</p>
+
+<!-- layouts/blog/single.html -->
+<!-- ... -->
+{{ partial "tags.html" .}}
+
 {{ with .Params.linkedin }}
     // <a href="{{ . }}">Linkedin</a>
 {{ end }}

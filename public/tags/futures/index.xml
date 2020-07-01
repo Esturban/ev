@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>futures on estebanvalencia.com</title>
+    <link>/tags/futures/</link>
+    <description>Recent content in futures on estebanvalencia.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/futures/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>VIX - CBOE Volatility Index</title>
+      <link>/collection/vix/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/collection/vix/</guid>
+      <description>Whether you are long or short, you will probably lose</description>
+    </item>
+    
+  </channel>
+</rss>

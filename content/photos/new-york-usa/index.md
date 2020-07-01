@@ -1,9 +1,23 @@
 ---
 date: "2020-01-23"
-image: hel-poland-2.jpg
-title: Hel, Poland
+image: time_square.jpg
+title: Times Square - New York City, NY
 type: gallery
 ---
 
-[Hel Peninsula](https://en.wikipedia.org/w/index.php?title=Hel_Peninsula&oldid=939640541) (Polish: Mierzeja Helska) is a 35-km-long sand bar peninsula in northern Poland separating the Bay of Puck from the open Baltic Sea. 
-The width of the peninsula varies from approximately 300 m near Jurata, through 100 m in the most narrow part to over 3 km at the tip. Since the peninsula was formed entirely of sand, it is frequently turned into an island by winter storms. Until the 17th century the peninsula was a chain of islands that formed a strip of land only during the summer.
+### Last Update: 2020-06-14
+
+Times Square alone holds 1/6th of the hotel rooms available in NYC with 56% of businesses in the professional services space.   
+  
+The few times I stayed in Times Square made me wonder just how much it required to keep the businesses afloat enough to pay rent and employees. Single room accommodations range from $1500 - $3000 USD / month.  Commercial real estate rent is easily a factor of 20x generally and 100x in retail locations.  
+
+
+{{<figure src = "http://www.retailprophet.com/wp-content/uploads/2015/02/Future-Store-1024x576.jpg" >}}
+
+  
+Retail will quickly evolve to adopt event-based appointment spaces where fewer clients will have more options while shopping a custom retail experience.  
+
+> *Most young brands starting out will still be online-based as it is far cheaper to build a national brand online than to open several storefronts across major cities. However, to grow the business, online retailers will need a few stores in good locations.*   
+  
+ - [Store Front](https://www.thestorefront.com/mag/whats-in-store-for-the-future-of-retail-physical-storefronts-with-digital-touchpoints/)
+ 
