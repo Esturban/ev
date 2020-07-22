@@ -137,13 +137,6 @@
     
         
         <url>
-            <loc>/photos/toronto-on-i/</loc>
-            <lastmod>2020-01-21T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
             <loc>/photos/sr-71/</loc>
             <lastmod>2020-01-21T00:00:00+00:00</lastmod>
         </url>
@@ -166,6 +159,13 @@
         
         <url>
             <loc>/photos/miami-usa/</loc>
+            <lastmod>2020-01-21T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>/photos/toronto-on-i/</loc>
             <lastmod>2020-01-21T00:00:00+00:00</lastmod>
         </url>
         

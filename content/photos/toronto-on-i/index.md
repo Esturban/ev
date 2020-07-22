@@ -1,8 +1,9 @@
 ---
 date: "2020-01-21"
 image: IMG_7666.jpg
-title: Arizona, US
+title: Scarborough Bluffs - Toronto, ON
 type: gallery
+draft: yes
 ---
 
 The [Grand Canyon](https://en.wikipedia.org/w/index.php?title=Grand_Canyon&oldid=952699432) 
