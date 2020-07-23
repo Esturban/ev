@@ -1,24 +1,38 @@
 ---
-title: 'Jimi Hendrix'
+title: 'TSLA - Tesla, Inc.'
 author: E
-date: '1970-09-18'
+date: '2020-07-22'
 categories: []
 summaryOn: true
-summary: 'Pioneering electric guitarist, 27 Club'
+summary: 'Largest market capitalization, second smallest production capacity'
 tags:
-  - quotes
-  - music
-showDate: no
+  - finance
+  - equities  
+showDate: false
 draft: yes
 ---
 
 
 
-{{< figure src="https://cdn.aarp.net/content/dam/aarp/entertainment/music/2018/03/1140-jimi-hendrix.imgcache.revfb505572a906cf97cf7babf077bd2961.jpg" title="Jimi live on stage in 1969 at Royal Albert Hall in London" class="img" width="1200px">}}
-###### *DAVID REDFERN/GETTY IMAGES*
+{{< figure src="https://media.giphy.com/media/l46Cmju4v7jLWSJFe/giphy.gif" title="Tesla factory" class="img" width="1200px">}}
 
 
-*“The traffic lights they turn blue tomorrow\
-And shine their emptiness down on my bed”*\
-**-The Wind Cries Mary**
 
+
+## Elon's Commentary  
+
+Elon Musk, the active CEO of Tesla, Inc. bringing a lot of vibrancy to the automaker world.  Elon manages to keep *his following informed, ...*
+{{< tweet 1277386215382110211 >}}  
+
+<!--# *is thought-provoking, ...*
+# {{< tweet 1262783922708058113 >}}   -->
+
+*is honest, ...*  
+{{< tweet 1256239815256797184 >}}    
+*and has pursuits beyond material wealth.*  
+{{< tweet 1256239554148724737 >}}
+  
+  
+It's also worth mentioning that Elon is a patriot entrepreneur proud of the foundations that permit companies like his to exist.  
+  
+{{< tweet 1256244431755173890 >}}

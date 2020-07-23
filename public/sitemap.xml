@@ -4,21 +4,42 @@
     
         
         <url>
-            <loc>/collection/morning-routine-i/</loc>
-            <lastmod>2020-06-28T00:00:00+00:00</lastmod>
+            <loc>/collection/</loc>
+            <lastmod>2020-07-22T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
-            <loc>/collection/</loc>
-            <lastmod>2020-06-28T00:00:00+00:00</lastmod>
+            <loc>/tags/equities/</loc>
+            <lastmod>2020-07-22T00:00:00+00:00</lastmod>
         </url>
         
     
         
         <url>
             <loc>/tags/finance/</loc>
+            <lastmod>2020-07-22T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>/tags/</loc>
+            <lastmod>2020-07-22T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>/collection/tsla/</loc>
+            <lastmod>2020-07-22T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>/collection/morning-routine-i/</loc>
             <lastmod>2020-06-28T00:00:00+00:00</lastmod>
         </url>
         
@@ -47,20 +68,6 @@
         
         <url>
             <loc>/tags/morning/</loc>
-            <lastmod>2020-06-28T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>/tags/quant/</loc>
-            <lastmod>2020-06-28T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>/tags/</loc>
             <lastmod>2020-06-28T00:00:00+00:00</lastmod>
         </url>
         
@@ -726,13 +733,6 @@
         
         <url>
             <loc>/collection/spy/</loc>
-            <lastmod>1970-09-18T00:00:00+00:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>/collection/tsla/</loc>
             <lastmod>1970-09-18T00:00:00+00:00</lastmod>
         </url>
         
