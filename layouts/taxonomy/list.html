@@ -1,0 +1,15 @@
+{{ define "main" }}
+<section>
+  <h1>Tag: {{ .Title }}</h1>
+  <ul>
+    {{ range (sort .Data.Pages "Date" "desc") }}
+      <li>
+        <h3>
+          <a href="{{ .Permalink }}">{{ .Title }}</a> -  <time>{{ .Date.Format (.Site.Params.dateform | default "January 2006") }}</time>
+        </h3>
+       
+      </li>
+    {{ end }}
+  </ul>
+</section>
+{{end}}

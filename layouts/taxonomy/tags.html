@@ -1,8 +1,12 @@
+{{ define "main" }}
 <!-- layouts/taxonomy/tag.html -->
+{{ partial "head.html" . }}
   <ul>
   {{ range .Data.Pages }}
 <li>
-  <a href="{{.RelPermalink}}">{{ .Title }}</a>
+  <a href="{{.RelPermalink}}">{{- .Title -}}</a>
     </li>
     {{ end }}
   </ul>
+{{ partial "footer.html" . }}
+{{end}}

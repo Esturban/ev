@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://estebanvalencia.com"
 title = "estebanvalencia.com"
 
 theme = "hugo-theme-console"
@@ -15,6 +15,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   description = "Bite-sized ideas sourced from the internet"
   favicon = "sam.ico"
   amp = true
+  enableEmoji = true
+  enableRobotsTXT = true
   ampElements = ["amp-accordion","amp-ad","amp-analytics","amp-app-banner","amp-carousel","amp-iframe","amp-dynamic-css-classes","amp-form","amp-fx-flying-carpet","amp-image-lightbox","amp-lightbox","amp-sidebar","amp-social-share","amp-sticky-ad","amp-user-notification"]
   themeColor = "#ff1d55"
   adsensePublisher = "ca-pub-123456789"

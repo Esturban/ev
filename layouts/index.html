@@ -8,16 +8,17 @@
 {{end}} 
 </p>
 <br/>
-
 <h1><a  href = "collection/">recently-added</a></h1>
-
 <div class="posts-list">
 {{ with .Site.GetPage "/collection" }}
-    {{ range first 3 ((where .Pages ".Params.private" "!=" true) sort .Data.Pages "Date" "desc")}}
+    {{ range first 3 (sort .Data.Pages "Date" "desc")}}
         <div class="post">
             <div class="date">{{ .PublishDate.Format "Jan. 2, 2006" }}</div>    
             <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h1>
-            {{ .Summary }}
+            {{ .Summary | emojify }} {{ $readTime := mul (div (countwords .Content) 220.0) 60 }}
+
+<p>Reading time: {{ math.Floor (div $readTime 60) }} minutes and
+    {{ mod $readTime 60 }} seconds.</p>
         </div>    
     {{ end }}
 {{ end }}
@@ -31,7 +32,7 @@
         <a href="{{ .Permalink }}" title="{{ .Title }}">
         {{ $image := .Page.Resources.GetMatch .Params.image }}
         {{ with $image }}
-            {{ $thumb := .Resize "400x" }}
+            {{ $thumb := .Resize "350x" }}
             <img src="{{ $thumb.RelPermalink }}" alt="{{ .Title }}" class="img-responsive">
         {{end}}
         </a>
