@@ -1,12 +1,14 @@
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>{{ .Site.Params.pre }} - {{ $url := urls.Parse .Page.Permalink }}{{ $url.Path }}</title>
-    {{ with .Site.Params.description }}<meta name="description" content="{{ . }}">{{ end }}
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="robots" content="all,follow">
-    <meta name="googlebot" content="index,follow,snippet,archive">
-  {{ "<!-- plugins -->" | safeHTML }}
-  {{ range .Site.Params.plugins.css }}
-  <link rel="stylesheet" href="{{ .URL | absURL }}">
-  {{ end }}
-  <script src="https://kit.fontawesome.com/0e201c44f1.js" crossorigin="anonymous"></script>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>{{ .Site.Params.pre }} - {{ $url := urls.Parse .Page.Permalink }}{{ $url.Path }}</title>
+{{ with .Site.Params.description }}
+<meta name="description" content="{{ . }}">
+{{ end }}
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="all,follow">
+<meta name="googlebot" content="index,follow,snippet,archive">
+{{ "<!-- plugins -->" | safeHTML }}
+{{ range .Site.Params.plugins.css }}
+<link rel="stylesheet" href="{{ .URL | absURL }}">
+{{ end }}
+<script src="https://kit.fontawesome.com/0e201c44f1.js" crossorigin="anonymous"></script>

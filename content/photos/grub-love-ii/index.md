@@ -20,5 +20,5 @@ For some inspiration in building one of my favourite sandwiches, check out the r
 
 Here's a couple sandwiches to get your stomach growling  
 
-{{< figure src="http://hips.hearstapps.com/del.h-cdn.co/assets/16/13/1459734890-delish-pesto-panini.jpg" width="300px" >}} 
-{{< figure src="https://hips.hearstapps.com/del.h-cdn.co/assets/16/05/strawberry-brie-new.jpg" width="300px" >}}  
+{{< figure src="http://hips.hearstapps.com/del.h-cdn.co/assets/16/13/1459734890-delish-pesto-panini.jpg" class ="img" width="300px" >}} 
+{{< figure src="https://hips.hearstapps.com/del.h-cdn.co/assets/16/05/strawberry-brie-new.jpg" class ="img" width="300px" >}}  

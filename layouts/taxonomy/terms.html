@@ -1,21 +1,19 @@
 {{ define "main" }}
 <section>
-  <h1>Tags</h1>
- <div class = 'container'> 
-  <div class = 'row row-pad'>
-  {{ range .Data.Terms.Alphabetical }}
-  <div class = 'col-sm'>
-      <li>
-        <h2>
-          <a href="{{ .Page.Permalink }}">({{ .Count }}) {{ .Page.Title }}</a>
-        </h2>
-      </li>
-  </div>
-  {{ end }}
-
-  </div>
-</div>
-
+   <h1>Index</h1>
+   <div class = 'container'>
+     <p>This index allows you to find the tags associated with my content. Click on a topic to see related archives. </p>
+      <div class = 'row row-pad'>
+         {{ range .Data.Terms.Alphabetical }}
+         <div class = 'col-sm'>
+            <li>
+               <h2>
+                  <a href="{{ .Page.Permalink }}">({{ .Count }}) {{ .Page.Title }}</a>
+               </h2>
+            </li>
+         </div>
+         {{ end }}
+      </div>
+   </div>
 </section>
-
 {{end}}
