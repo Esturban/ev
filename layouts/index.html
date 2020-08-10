@@ -14,8 +14,8 @@
       <div class="date"> {{ .PublishDate.Format "Jan. 2, 2006" }} </div>
       <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h1>
       {{ .Summary | emojify }} {{ $readTime := mul (div (countwords .Content) 220.0) 60 }}
-      <p>Reading time: {{ math.Floor (div $readTime 60) }} minutes and
-         {{ mod $readTime 60 }} seconds.
+      <p>Duration: {{ math.Floor (div $readTime 60) }} m and
+         {{ mod $readTime 60 }} secs.
       </p>
    </div>
    {{ end }}

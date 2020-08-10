@@ -10,8 +10,21 @@
 }
 
 body {
-    
+    margin-bottom:0px;
 }
+
+*, ::after, ::before {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+/*This corrects the broken date CSS selectors which caused a number of issues in the theme.  IDK why*/
+div.post > div:nth-child(1){
+max-height: 100px;
+}
+
 div.box > figure > figcaption > h4
 figure > h4
 {
@@ -41,9 +54,6 @@ pill{padding-right:.6em;padding-left:.6em;border-radius:10rem}
     flex-grow: 1;
 }
 
-ul {
-    columns: 3;
-}
 
 [class*='col-'] {
   float: left;

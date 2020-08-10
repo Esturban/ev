@@ -31,6 +31,15 @@
    
    
    <url>
+      <loc>/</loc>
+      
+      <lastmod>2020-07-22T00:00:00+00:00</lastmod>
+      
+   </url>
+   
+   
+   
+   <url>
       <loc>/tags/finance/</loc>
       
       <lastmod>2020-07-22T00:00:00+00:00</lastmod>
@@ -41,6 +50,15 @@
    
    <url>
       <loc>/collection/precious-metals/</loc>
+      
+      <lastmod>2020-07-22T00:00:00+00:00</lastmod>
+      
+   </url>
+   
+   
+   
+   <url>
+      <loc>/collection/shiny-app-i/</loc>
       
       <lastmod>2020-07-22T00:00:00+00:00</lastmod>
       
@@ -617,15 +635,6 @@
    
    <url>
       <loc>/me/</loc>
-      
-      <lastmod>2016-11-05T21:05:33+05:30</lastmod>
-      
-   </url>
-   
-   
-   
-   <url>
-      <loc>/</loc>
       
       <lastmod>2016-11-05T21:05:33+05:30</lastmod>
       
