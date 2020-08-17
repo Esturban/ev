@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://estebanvalencia.com"
 title = "estebanvalencia.com"
 
 theme = "hugo-theme-console"
@@ -11,12 +11,11 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   pre = "Esteban | ˈe-stə-vən"
   #footerText = "*“The soul that is within me no man can degrade.”* – Frederick Douglass"
   footerText = "*“The difference between a flower and a weed is judgement.”* – Unknown"
-  summary = "This is a heart warming summary about the joys of reading my content"
+  summary = "Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about the joys of reading my content"
   description = "Bite-sized ideas sourced from the internet"
+  images = "favicon/apple-touch-icon-57x57.png"
   favicon = "sam.ico"
   amp = true
-  enableEmoji = true
-  enableRobotsTXT = true
   ampElements = ["amp-accordion","amp-ad","amp-analytics","amp-app-banner","amp-carousel","amp-iframe","amp-dynamic-css-classes","amp-form","amp-fx-flying-carpet","amp-image-lightbox","amp-lightbox","amp-sidebar","amp-social-share","amp-sticky-ad","amp-user-notification"]
   themeColor = "#ff1d55"
   adsensePublisher = "ca-pub-123456789"

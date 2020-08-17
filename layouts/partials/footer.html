@@ -1,6 +1,7 @@
 <div class="footer">
    <div class = 'row' style='text-align:center;'><a href = "/privacy">Terms and Privacy</a>&nbsp;-&nbsp;<a href = "/tags">Index</a></div>
    <div class = 'row' style='text-align:center;'>{{- .Site.Params.footerText | markdownify -}}</div>
+   
    </br>
    <!-- Load PhotoSwipe js if the load-photoswipe shortcode has been used -->
    {{ if ($.Scratch.Get "photoswipeloaded") }}

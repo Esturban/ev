@@ -4,14 +4,13 @@
 <p>Read time: {{ math.Floor (div $readTime 60) }} minutes and
     {{ mod $readTime 60 }} seconds.</p>
 {{"<!-- layouts/blog/single.html --><!-- ... -->" | safeHTML }}
-{{ partial "tags.html" .}}
+tags: {{ partial "tags.html" .}}
 {{ with .Params.linkedin }}
     // <a href="{{ . }}">Linkedin</a>
 {{ end }}
 {{ with .Params.twitter }}
     // <a href="{{ . }}">Twitter</a>
 {{ end }}
-<br/><br/>
 {{ .Content }}
 {{ template "_internal/disqus.html" . }}
 {{ end }}
