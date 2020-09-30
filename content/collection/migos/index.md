@@ -11,7 +11,7 @@ tags:
   - artist
   - music-choice
 showDate: no
-draft: no
+draft: yes
 ---
 
 
