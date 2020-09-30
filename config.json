@@ -1,0 +1,10 @@
+{
+"DB_ENV":"POSTGRES",
+"PROJ_NM":"Meme Factory - 20190108",
+"TZ_CONFIG":"America/New_York",
+"API_INC":"T",
+"LYRIC_LOC":"C:/Users/valta/OneDrive/01_dataprojects/text_analysis_proj/01_music/data/lyric.csv",
+"TRACK_LOC":"C:/Users/valta/OneDrive/01_dataprojects/text_analysis_proj/01_music/data/track.csv",
+"GITHUB_PAT":"25c2ce7018f9b4cdbb38793addf3f91bf1ce10a2"
+  
+}

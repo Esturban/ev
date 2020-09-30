@@ -3,6 +3,7 @@ date: "2020-02-09"
 image: rice-fields_sq.jpg
 title: China's Great Leap Forward
 type: gallery
+draft: yes
 ---
 
 **TL;DR:**   The Chinese population is declining and there are several compounding issues such as limited farmland and an overweight retiring demographic forcing China to be creative to sustain their aggressive growth distributed among fewer working heads.

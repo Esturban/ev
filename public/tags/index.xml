@@ -39,6 +39,15 @@
     </item>
     
     <item>
+      <title>markets</title>
+      <link>/tags/markets/</link>
+      <pubDate>Sun, 28 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/markets/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>books</title>
       <link>/tags/books/</link>
       <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
@@ -98,6 +107,15 @@
       <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
       
       <guid>/tags/music/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>music-choice</title>
+      <link>/tags/music-choice/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/music-choice/</guid>
       <description></description>
     </item>
     

@@ -3,6 +3,7 @@ date: "2020-01-21"
 image: miami-beach.jpg
 title: Miami Beach - Miami-Dade, FL
 type: gallery
+draft: yes
 ---
 
 The [Grand Canyon](https://en.wikipedia.org/w/index.php?title=Grand_Canyon&oldid=952699432) 

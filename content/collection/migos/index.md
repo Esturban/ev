@@ -9,6 +9,7 @@ tags:
   - quotes
   - music
   - artist
+  - music-choice
 showDate: no
 draft: no
 ---
