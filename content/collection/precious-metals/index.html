@@ -8,13 +8,15 @@ summary: 'From metals to fiat to crypto, where will value go?  :rabbit: :hole:'
 tags:
   - finance
   - equities  
-showDate: false
-draft: no
+showDate: no
+draft: yes
 output: 
- blogdown::html_page:
+ html_document:
+  keep_md: yes
   toc: true
   fig_width: 6 
   dev: "svg"
+always_allow_html: true
 params:
   symbols: 
     - 'SLV'
@@ -59,15 +61,6 @@ params:
 <script src="/rmarkdown-libs/pymjs/pym.v1.js"></script>
 <script src="/rmarkdown-libs/widgetframe-binding/widgetframe.js"></script>
 
-<div id="TOC">
-<ul>
-<li><a href="#valuing-precious-metals">Valuing Precious Metals</a></li>
-<li><a href="#precious-metal-in-use">Precious Metal in Use</a></li>
-<li><a href="#case-for-inflation">Case for inflation</a></li>
-<li><a href="#case-against-inflation">Case against inflation</a></li>
-<li><a href="#the-2020-precious-metals-bull-run">The 2020 Precious Metals Bull Run</a></li>
-</ul>
-</div>
 
 {{< figure src="https://media.giphy.com/media/l0MYuefWhA7fmGhMI/giphy.gif" title="A couple of bucks for your troubles" class="img" width="1200px">}}
 <div id="valuing-precious-metals" class="section level3">
