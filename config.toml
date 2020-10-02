@@ -3,7 +3,7 @@ title = "estebanvalencia.com"
 
 theme = "hugo-theme-console"
 languageCode = "en-us"
-ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "index\\.html", "about\\.html", "static/blog/\\*_files/", "README"] 
 
 [params]
   # Cutting off the page title to two chars for mobile (console-demo -> co)
