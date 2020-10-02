@@ -3,6 +3,7 @@ date: "2020-02-09"
 image: IMG_1492.jpg
 title: Paninis
 type: gallery
+draft: yes
 ---
 
 The first U.S. reference to panini dates to 1956 and a precursor appeared in a 16th-century Italian cookbook. Panini sandwiches became trendy in Milanese bars, called paninoteche as a quick lunch choice for office workers in the 1970s. New York has adapted the panini by selling the sandwiches with distinctive variations.  

@@ -3,6 +3,7 @@ date: "2020-01-21"
 image: "sr71-sq.jpg"
 title: Birds of a Feather
 type: gallery
+draft: yes
 ---
 
 *"The world's fastest airplane was also a pioneer in stealthiness. Note angled tails that greatly decreased radar profile. (Lockheed) SR-71 Blackbird streaking across continental U.S. (Lockheed) SR-71 Blackbird rolling down a highway en route to permanent display at the air museum at Robins Air Force Base in Georgia. (Jay Miller) ..."*  

@@ -3,6 +3,7 @@ date: "2020-01-23"
 image: time_square.jpg
 title: Times Square - New York City, NY
 type: gallery
+draft: yes
 ---
 
 ### Last Update: 2020-06-14
