@@ -7,10 +7,10 @@
 </p>
 <br/>
 <h1><a  href = "collection/">recently-added</a></h1>
-When I have post an archive, it'll appear here in the collection.  
+When I have post or an archive, it'll appear here in the collection.  
 <div class="posts-list">
    {{ with .Site.GetPage "/collection" }}
-   {{ range first 3 ((where .Data.Pages "draft" "eq" false ) sort .Data.Pages "Date" "desc" ) }}
+   {{ range first 3 (sort  .Data.Pages "Date" "desc" ) }}
    <div class="post">
       <div class="date"> {{ .PublishDate.Format "Jan. 2, 2006" }} </div>
       <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{ .Title }}</a></h1>
