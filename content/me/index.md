@@ -18,9 +18,8 @@ I've had the privilege of working at great companies throughout my career since 
 <!--
 This page serves as my [collection](/collection) of works where I share my experience in articles and tutorials. I write about [music](/tags/music),[geography](/tags/geography), or[nutrition](/tags/nutrition) for fun and share my expertise in developing software. I also geek out over computer science topics, command line tools, and good programming practices.  -->  
   
->  
 >  *Where can I reach you?*  
   
-Send me a message on [Linkedin](//www.linkedin.com/in/valest/), share a picture with me on [instagram](//www.instagram.com/esty.jpeg), or drop me a line in my [e-mail inbox](mailto:ev@evadvisory.ca?subject=estebanvalencia.com%20Contact).  
+Send me a message on [Linkedin](//www.linkedin.com/in/valest/), share a picture with me on [instagram](//www.instagram.com/esty.jpeg), or drop me a line in my [e-mail inbox](mailto:me@estebanvalencia.com?subject=estebanvalencia.com%20Contact).  
  
  
