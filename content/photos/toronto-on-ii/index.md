@@ -1,9 +1,9 @@
 ---
 date: "2018-08-21"
 image: IMG_7666.jpg
-title: Scarborough Bluffs - Toronto, ON
+title: Cherry Beach - Toronto, ON
 type: gallery
-draft: no
+draft: yes
 ---
 
 The [Scarborough Bluffs](https://en.wikipedia.org/wiki/Scarborough_Bluffs) 
