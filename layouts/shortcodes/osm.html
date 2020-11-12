@@ -1,10 +1,10 @@
 {{ $mapName := .Get "mapName" }}
 
 {{ $mapWidth := .Get "mapWidth" | default "100%" }}
-{{ $mapHeight := .Get "mapHeight" | default "600px" }}
+{{ $mapHeight := .Get "mapHeight" | default "450px" }}
 
 {{ $scaleControl := .Get "scaleControl" | default "true"  }}
-{{ $miniMap := .Get "miniMap" | default "false" }}
+{{ $miniMap := .Get "miniMap" | default "true" }}
 {{ $scrollWheelZoom := .Get "scrollWheelZoom" | default "true" }}
 {{ $zoomControl := .Get "zoomControl" | default "true" }}
 {{ $allowEdit := .Get "allowEdit" | default "false" }}
@@ -16,7 +16,7 @@
 {{ $onLoadPanel := .Get "onLoadPanel" | default "none" }}
 {{ $captionBar := .Get "captionBar" | default "true" }}
 
-{{ $scale := .Get "scale" }}
+{{ $scale := .Get "scale" | default "7" }}
 {{ $coordX := .Get "coordX" }}
 {{ $coordY := .Get "coordY" }}
 
