@@ -12,7 +12,7 @@
     {{end}}
 {{ end }}
 
-{{ .Content }}
+{{ .Content | emojify }}
 {{ template "_internal/disqus.html" . }}
 
 {{ end }}
