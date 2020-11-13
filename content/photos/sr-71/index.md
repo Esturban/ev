@@ -45,7 +45,7 @@ In case you're still not convinced, [here's a timeline of all the things it shot
 
 So it's not my first time writing about this jet...  
 
-{{< instagram CCGpIYeod2X >}}     
+{{< instagram CCGpIYeod2X hidecaption >}}     
   
 Although I have never seen one in person, since they were decommissioned in the early 1990s, I know the impact it has had in a safe and peaceful future like the one we live in now.  
 

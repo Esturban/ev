@@ -25,7 +25,7 @@
 </p>
 <br/>
 <h1><a  href = "collection/">recently-added</a></h1>
-When I have post or an archive, it'll appear here in the collection.  
+When I have a post or an archive, it'll appear here in the collection.  
 <div class="posts-list">
    {{ with .Site.GetPage "/collection" }}
    {{ range first 3 (sort  .Data.Pages "Date" "desc" ) }}
