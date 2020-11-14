@@ -11,6 +11,6 @@ tags: {{ partial "tags.html" .}}
 {{ with .Params.twitter }}
     // <a href="{{ . }}">Twitter</a>
 {{ end }}
-{{ .Content }}
+{{ .Content | emojify }}
 {{ template "_internal/disqus.html" . }}
 {{ end }}
