@@ -1,7 +1,7 @@
 ---
 title: 'Travis Scott'
 author: E
-date: "2020-10-13"
+date: "2020-11-13"
 summaryOn: true
 summary: "sicko mode :circus_tent:"
 categories: []
