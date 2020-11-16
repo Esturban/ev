@@ -1,5 +1,5 @@
 ---
-date: "2017-09-09"
+date: "2018-10-07"
 image: charlotte-walk.jpg
 title: Charlotte, North Carolina
 type: gallery

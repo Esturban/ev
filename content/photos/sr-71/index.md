@@ -1,5 +1,5 @@
 ---
-date: "2020-11-13"
+date: "2018-08-08"
 image: "sr71-sq.jpg"
 title: Birds of a Feather
 summary: "A supersonic unarmed reconnaissance vehicle :rocket:"
