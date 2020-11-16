@@ -4,6 +4,10 @@ image: charlotte-walk.jpg
 title: Charlotte, North Carolina
 type: gallery
 draft: no
+tags:
+  - places
+  - city
+  - USA
 ---
 
 [Charlotte's got a lot](https://www.charlottesgotalot.com/things-to-do/arts-culture) of great things to do.  

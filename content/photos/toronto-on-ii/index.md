@@ -5,6 +5,10 @@ title: Cheery Beach/Tommy Thompson/Leslie Street Split - Toronto, ON
 type: gallery
 draft: no
 map: http://umap.openstreetmap.fr/en/map/anonymous-edit/523492:fJRXmhd93efRccmA6lMfzzMVy9o
+tags:
+  - places
+  - nature
+  - canada  
 ---
 
 # Brief Overview  
