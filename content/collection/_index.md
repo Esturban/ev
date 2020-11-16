@@ -1,6 +1,6 @@
 ---
 title: Collection
-images: ["/favicon/apple-touch-icon-57x57.png"]
+images: ["favicon/apple-touch-icon-57x57.png"]
 description: "Esteban's archives of writing"
 ---
 
