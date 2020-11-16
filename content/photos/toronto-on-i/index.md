@@ -4,6 +4,10 @@ image: IMG_7666.jpg
 title: Scarborough Bluffs - Toronto, ON
 type: gallery
 draft: no
+tags:
+  - places
+  - nature
+  - canada
 ---
 
 The [Scarborough Bluffs](https://en.wikipedia.org/wiki/Scarborough_Bluffs) 
