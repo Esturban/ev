@@ -64,8 +64,9 @@ pill{padding-right:.6em;padding-left:.6em;border-radius:10rem}
   padding-right: 0;
 }
 .col-sm {
-width:33%;
+width:50%;
 }
+
 
 .row:after {
   content: "";
