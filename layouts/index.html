@@ -52,7 +52,7 @@ Photos of the places I've been, the things I like, and the foods I eat tend to m
    {{ $image := .Page.Resources.GetMatch .Params.image }}
    {{ with $image }}
    {{ $thumb := .Resize "350x" }}
-   <img src="{{ $thumb.RelPermalink }}" height="350" width = "350" alt="{{ .Title }}" class="img-responsive">
+   <img src="{{ $thumb.RelPermalink }}" alt="{{ .Title }}" class="img-responsive">
    {{end}}
    </a>
    {{ end }}
