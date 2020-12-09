@@ -9,7 +9,7 @@
 <meta name="googlebot" content="index,follow,snippet,archive">
 {{ "<!-- plugins -->" | safeHTML }}
 {{ range .Site.Params.plugins.css }}
-<link rel="stylesheet"  href="{{ .URL | absURL }}">
-<!--<link rel="stylesheet" media="print" onload="this.onload=null;this.removeAttribute('media');"  href="{{ .URL | absURL }}">-->
+<!--<link rel="stylesheet"  href="{{ .URL | absURL }}">-->
+<link rel="stylesheet" media="print" onload="this.onload=null;this.removeAttribute('media');"  href="{{ .URL | absURL }}">
 {{ end }}
 <script src="https://kit.fontawesome.com/0e201c44f1.js" crossorigin="anonymous" async></script>
