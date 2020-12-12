@@ -1,5 +1,6 @@
 baseurl = "/"
 title = "estebanvalencia.com"
+googleAnalytics = "UA-81176691-3"
 
 theme = "hugo-theme-console"
 languageCode = "en-us"
@@ -19,7 +20,6 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "index\\.html", "about\\.h
   ampElements = ["amp-accordion","amp-ad","amp-analytics","amp-app-banner","amp-carousel","amp-iframe","amp-dynamic-css-classes","amp-form","amp-fx-flying-carpet","amp-image-lightbox","amp-lightbox","amp-sidebar","amp-social-share","amp-sticky-ad","amp-user-notification"]
   themeColor = "#ff1d55"
   adsensePublisher = "ca-pub-123456789"
-  googleAnalytics = "UA-81176691-3"
   appleItunesApp = "app-id=123456789, app-argument=app-name://link/to/app-content"
   ampManifest = "/amp-manifest.json"
   alternatePageName = "HUGO AMP"
