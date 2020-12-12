@@ -15,9 +15,8 @@
     {{ end }}
     {{- partial "opengraph.html" . -}}
     {{ template "_internal/twitter_cards.html" . }}
-    {{ template "_internal/google_analytics.html" . }}
 </head>
-<h1>{{ .Page.Title }}</h1>
+<h1>{{ .Page.Title | emojify }}</h1>
 {{ partial "tags.html" .}}
 {{ $readTime := mul (div (countwords .Content) 220.0) 60 }}
 <p>Reading time: {{ math.Floor (div $readTime 60) }} minutes and

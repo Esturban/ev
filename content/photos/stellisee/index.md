@@ -5,6 +5,10 @@ title: Stellisee - Zermatt, Valais
 type: gallery
 draft: no
 map: https://umap.openstreetmap.fr/en/map/findeln-trail-with-lakes_523782#15/46.0166/7.7746
+tags:
+  - places
+  - nature
+  - switzerland
 ---
 
 # Brief Overview  
