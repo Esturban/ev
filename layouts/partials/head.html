@@ -12,4 +12,6 @@
 <!--<link rel="stylesheet"  href="{{ .URL | absURL }}">-->
 <link rel="stylesheet" media="print" onload="this.onload=null;this.removeAttribute('media');"  href="{{ .URL | absURL }}">
 {{ end }}
+
+{{ template "_internal/google_analytics.html" . }}
 <script src="https://kit.fontawesome.com/0e201c44f1.js" crossorigin="anonymous" async></script>
