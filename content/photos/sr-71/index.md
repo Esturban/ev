@@ -1,7 +1,7 @@
 ---
 date: "2018-08-08"
 image: "sr71-sq.jpg"
-title: Birds of a Feather
+title: "Birds of a Feather :eagle:"
 summary: "A supersonic unarmed reconnaissance vehicle :rocket:"
 type: gallery
 draft: no
@@ -15,7 +15,7 @@ tags:
 
 # "Ugh, war"    
 
-Look, this isn't everyone's favourite topic as some might immediately think of the *casualties* of war when seeing an plane such as this beauty, [the SR-71](https://en.wikipedia.org/wiki/Lockheed_SR-71_Blackbird).  
+Look, this isn't everyone's favourite topic as some might immediately think of the *casualties* of war when seeing an airplane such as this beauty, [the SR-71](https://en.wikipedia.org/wiki/Lockheed_SR-71_Blackbird).  
 
 However, this magnificent plane will forever remain a beautiful achievement of aerospace technology in the free world. A rocket-designed jet with capabilities so advanced with the sole purpose of collecting information, a thankless job often done by machines.   
 
