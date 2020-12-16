@@ -109,6 +109,8 @@ Come take this pic and get out my face (C'mon)*
 
 # Legends Never Die  
 
+{{< figure src = "https://i.redd.it/yx2d5c7kwf951.png" width = "800px" >}}
+
 *Sometimes it feels like I can't die, 'cause I never was alive  
 Every day it feels like someone new dies, hope the news is a lie*  
 [**Can't Die**](https://genius.com/Juice-wrld-cant-die-lyrics)  
