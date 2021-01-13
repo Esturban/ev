@@ -1,33 +1,37 @@
 @font-face {
     font-family: 'Roboto Mono';
-    src: url('/hugo-theme-console/font/RobotoMono-Regular.ttf') format('truetype');
+    src: local('Pacifico Regular'), local('Pacifico-Regular'), url('/hugo-theme-console/font/RobotoMono-Regular.ttf') format('truetype');
     font-style: normal;
     font-weight: 400;
     text-rendering: optimizeLegibility;
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Roboto Mono';
-    src: url('/hugo-theme-console/font/RobotoMono-Italic.ttf') format('truetype');
+    src: local('Pacifico Regular'), local('Pacifico-Regular'),  url('/hugo-theme-console/font/RobotoMono-Italic.ttf') format('truetype');
     font-style: italic;
     font-weight: 400;
     text-rendering: optimizeLegibility;
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Roboto Mono';
-    src: url('/hugo-theme-console/font/RobotoMono-Bold.ttf') format('truetype');
+    src:local('Pacifico Regular'), local('Pacifico-Regular'),  url('/hugo-theme-console/font/RobotoMono-Bold.ttf') format('truetype');
     font-style: normal;
     font-weight: 700;
     text-rendering: optimizeLegibility;
+    font-display: swap;
 }
 
 @font-face {
     font-family: 'Roboto Mono';
-    src: url('/hugo-theme-console/font/RobotoMono-BoldItalic.ttf') format('truetype');
+    src: local('Pacifico Regular'), local('Pacifico-Regular'), url('/hugo-theme-console/font/RobotoMono-BoldItalic.ttf') format('truetype');
     font-style: italic;
     font-weight: 700;
     text-rendering: optimizeLegibility;
+    font-display: swap;
 }
 
 :root {
