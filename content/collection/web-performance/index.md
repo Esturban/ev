@@ -8,7 +8,7 @@ categories: []
 tags:
   - development
   - best-practices
-  - html
+  - web
 showDate: no
 draft: no  
 ---

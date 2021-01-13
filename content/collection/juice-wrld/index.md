@@ -6,9 +6,9 @@ categories: []
 summaryOn: true
 summary: 'Legends never die :skull:' 
 tags:
-  - quotes
-  - music
-  - artist
+  - quotes  
+  - music  
+  - artist  
 showDate: no
 draft: no
 ---
