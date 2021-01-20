@@ -2,6 +2,8 @@ const CACHE_VERSION = 1;
 
 const BASE_CACHE_FILES = [
     '/css/style.css',
+    '/css/fontawesome.min.css',
+    '/css/hugo-easy-gallery.css',
     '/js/load-swipe.js',
     '/manifest.json',
     '/favicon/favicon-96x96.png',
@@ -9,11 +11,17 @@ const BASE_CACHE_FILES = [
 
 const OFFLINE_CACHE_FILES = [
     '/css/style.css',
+    '/css/fontawesome.min.css',
+    '/css/hugo-easy-gallery.css',
+    '/css/style.css',
     '/js/load-swipe.js',
     '/offline/index.html',
 ];
 
 const NOT_FOUND_CACHE_FILES = [
+    '/css/style.css',
+    '/css/fontawesome.min.css',
+    '/css/hugo-easy-gallery.css',
     '/css/style.css',
     '/js/load-swipe.js',
     '/404.html',
