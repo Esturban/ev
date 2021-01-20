@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mastery on estebanvalencia.com</title>
+    <link>/tags/mastery/</link>
+    <description>Recent content in mastery on estebanvalencia.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 Aug 2018 00:00:00 +0000</lastBuildDate><atom:link href="/tags/mastery/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Birds of a Feather :eagle:</title>
+      <link>/photos/sr-71/</link>
+      <pubDate>Wed, 08 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/photos/sr-71/</guid>
+      <description>A supersonic unarmed reconnaissance vehicle :rocket:</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>best-practices on estebanvalencia.com</title>
+    <link>/tags/best-practices/</link>
+    <description>Recent content in best-practices on estebanvalencia.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 24 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/best-practices/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>No More Free</title>
+      <link>/collection/no-more-free/</link>
+      <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/collection/no-more-free/</guid>
+      <description>How to &lt;a href=&#34;https://www.grammarly.com/blog/the-basics-of-verbing-nouns/&#34;&gt;porn&lt;/a&gt; free food results</description>
+    </item>
+    
+    <item>
+      <title>High Performance Websites</title>
+      <link>/collection/web-performance/</link>
+      <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/collection/web-performance/</guid>
+      <description>&lt;a href=&#34;https://developers.google.com/web/updates/2018/07/search-ads-speed&#34;&gt;Google&lt;/a&gt;, the mandatory friend you want to get along with online :smiling_imp:</description>
+    </item>
+    
+  </channel>
+</rss>

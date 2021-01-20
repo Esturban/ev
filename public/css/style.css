@@ -64,8 +64,9 @@ pill{padding-right:.6em;padding-left:.6em;border-radius:10rem}
   padding-right: 0;
 }
 .col-sm {
-width:33%;
+width:50%;
 }
+
 
 .row:after {
   content: "";
@@ -84,3 +85,19 @@ width:33%;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
 }
+
+yt-big{
+position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;
+}
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  [class*="col-"] {
+    width: 100%;
+  }
+}
+
+.antiCls { 
+    visibility: hidden;
+}
+
