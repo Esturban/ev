@@ -8,8 +8,9 @@ const BASE_CACHE_FILES = [
     '/css/style.css',
     '/js/load-swipe.js',
     '/collection',
+    '/photos',
     '/privacy',
-    '/favicon/favicon-96x96.png'
+    '/favicon',
 ];
 
 const OFFLINE_CACHE_FILES = [
@@ -20,6 +21,8 @@ const OFFLINE_CACHE_FILES = [
     '/css/style.css',
     '/js/load-swipe.js',
     '/collection',
+    '/photos',
+    '/favicon',
     '/privacy'
 ];
 
@@ -29,6 +32,9 @@ const NOT_FOUND_CACHE_FILES = [
     '/css/hugo-easy-gallery.css',
     '/css/style.css',
     '/js/load-swipe.js',
+    '/collection',
+    '/photos',
+    '/favicon',
     '/404.html'
 ];
 
