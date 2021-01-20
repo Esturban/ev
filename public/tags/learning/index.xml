@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>learning on estebanvalencia.com</title>
+    <link>/tags/learning/</link>
+    <description>Recent content in learning on estebanvalencia.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 18 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/learning/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A Case for Alternative Search</title>
+      <link>/collection/alt-search/</link>
+      <pubDate>Wed, 18 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/collection/alt-search/</guid>
+      <description>How &lt;a href=&#34;https://www.merriam-webster.com/dictionary/google&#34;&gt;&amp;lsquo;googling&amp;rsquo;&lt;/a&gt; impacts the way we learn :woman_teacher:</description>
+    </item>
+    
+  </channel>
+</rss>

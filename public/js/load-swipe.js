@@ -75,6 +75,10 @@ $( document ).ready(function() {
 				showHideOpacity: true
 			}
 			new PhotoSwipe($pswp, PhotoSwipeUI_Default, items, options).init();
-		});	
+		});
+		
+		    $(window).on("load", function() 
+                                                
+        $('.antiCls').css("visibility", "visible"); 
 	});
 });
