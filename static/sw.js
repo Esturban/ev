@@ -2,7 +2,7 @@ const CACHE_VERSION = 1;
 
 const BASE_CACHE_FILES = [
     '/css/style.css',
-    '/css/script.js',
+    '/js/load-swipe.js',
     '/search.json',
     '/manifest.json',
     '/favicon/favicon-96x96.png',
@@ -10,13 +10,13 @@ const BASE_CACHE_FILES = [
 
 const OFFLINE_CACHE_FILES = [
     '/css/style.css',
-    '/script.js',
+    '/js/load-swipe.js',
     '/offline/index.html',
 ];
 
 const NOT_FOUND_CACHE_FILES = [
     '/css/style.css',
-    '/js/script.js',
+    '/js/load-swipe.js',
     '/404.html',
 ];
 
