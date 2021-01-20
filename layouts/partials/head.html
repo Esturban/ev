@@ -13,5 +13,9 @@
 <link rel="stylesheet" media="print" onload="this.onload=null;this.removeAttribute('media');"  href="{{ .URL | absURL }}">
 {{ end }}
 
+<!--Including the manifest file for the PWA-->
+<link rel="manifest" href="/manifest.json">
+
+
 {{ template "_internal/google_analytics.html" . }}
 <script src="https://kit.fontawesome.com/0e201c44f1.js" crossorigin="anonymous" async></script> 
