@@ -3,7 +3,6 @@ const CACHE_VERSION = 1;
 const BASE_CACHE_FILES = [
     '/css/style.css',
     '/js/load-swipe.js',
-    '/search.json',
     '/manifest.json',
     '/favicon/favicon-96x96.png',
 ];
