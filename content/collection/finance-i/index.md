@@ -1,14 +1,16 @@
 ---
 title: 'Inflation: Our Modern Economy'
 author: E
-date: '2020-11-20'
+date: '2020-12-04'
 categories: []
 summaryOn: true
-summary: '[Inflation](https://www.investopedia.com/terms/i/inflation.asp) or [stagflation](https://www.investopedia.com/terms/s/stagflation.asp): which will you choose? :pill: '
+summary: '[Inflation](https://www.investopedia.com/terms/i/inflation.asp) or [stagflation](https://www.investopedia.com/terms/s/stagflation.asp): which will you choose? :pill:'
 tags:
   - finance  
+  - inflation  
+  - cryptocurrency  
 showDate: no
-draft: yes  
+draft: no  
 ---
   
 {{< figure src="https://media1.tenor.com/images/0acc1f9d73fbcc0041c2e4a47f47e1a6/tenor.gif" title="Inflation or Stagflation?" class="img" width="1200px">}}  
@@ -30,7 +32,9 @@ Here's a tweet from a twitter bird showing the early warning signs of the canary
 {{< tweet 1244657465859457024 >}}
   
 Meanwhile, since the pandemic hit, the market cratered and recovered to all time highs by the time it was August    
-![](spx-2020.PNG)  
+<!--![](spx-2020.PNG)   -->
+{{< tradingview symbol = "SPY" >}}
+
 
 > *Well, the market could probably tell the early signs of the lockdowns!*  
 
@@ -53,4 +57,13 @@ People panicked as they lost their jobs and quickly confined themselves into the
 
 # What can you do about the imminent inflation    
 
-Buy physical or cryptocurrency assets as soon as you can and [HODL](https://www.cyberdefinitions.com/definitions/HODL.html).  Do so before your money is worth so little that a 4% high interest savings still won't make you enough returns to give your bank account some relief.  
+Buy physical or cryptocurrency assets as soon as you can and [HODL](https://www.cyberdefinitions.com/definitions/HODL.html).  Do so before your money is worth so little that a 4% high interest savings still won't make you enough returns to give your bank account some relief.  Cryptocurrency is a bloodbath apparent by the volatility at any moment.  You can just as likely see a 70% upswing or a 20% drop on any given day.  The choice to gamble on it is yours, but it just so happens to mostly go up over time.  **Remember: This is far from financial advice and should not be considered financial advice by any means;  Just something i'm doing with my time on the planet -- Writing and buying fake money**  
+
+{{< tradingview symbol = "BTCUSD" >}}  
+
+# Which fake money will you choose?  
+
+The money printed by the government or the digital global currency transparent to all users who transact or hold it?  
+
+
+
