@@ -29,6 +29,10 @@
 
 
 
+<link rel="manifest" href="/manifest.json">
+
+
+
 <script type="application/javascript">
 var doNotTrack = false;
 if (!doNotTrack) {
@@ -149,6 +153,10 @@ if (!doNotTrack) {
 
 
 
+<link rel="manifest" href="/manifest.json">
+
+
+
 <script type="application/javascript">
 var doNotTrack = false;
 if (!doNotTrack) {
@@ -214,6 +222,24 @@ When I have a post or an archive, it'll appear here in the collection.
    
    
    <div class="post">
+      <div class="date"> Dec. 5, 2020 </div>
+      <h1><a href="/collection/write-everyday/" title="Write. Everyday.">Write. Everyday.</a></h1>
+      ✍️ 
+      <p>Duration: 1 m and
+         24 secs.
+      </p>
+   </div>
+   
+   <div class="post">
+      <div class="date"> Dec. 4, 2020 </div>
+      <h1><a href="/collection/finance-i/" title="Inflation: Our Modern Economy">Inflation: Our Modern Economy</a></h1>
+      <a href="https://www.investopedia.com/terms/i/inflation.asp">Inflation</a> or <a href="https://www.investopedia.com/terms/s/stagflation.asp">stagflation</a>: which will you choose? 💊 
+      <p>Duration: 3 m and
+         28 secs.
+      </p>
+   </div>
+   
+   <div class="post">
       <div class="date"> Dec. 1, 2020 </div>
       <h1><a href="/collection/breaking-up-tv/" title="How to Break Up With: TV">How to Break Up With: TV</a></h1>
       My complicated relationship with 📺 
@@ -222,31 +248,24 @@ When I have a post or an archive, it'll appear here in the collection.
       </p>
    </div>
    
-   <div class="post">
-      <div class="date"> Nov. 30, 2020 </div>
-      <h1><a href="/collection/frank-ocean/" title="Frank Ocean">Frank Ocean</a></h1>
-      ☂️, ✨ 
-      <p>Duration: 2 m and
-         40 secs.
-      </p>
-   </div>
-   
-   <div class="post">
-      <div class="date"> Nov. 24, 2020 </div>
-      <h1><a href="/collection/no-more-free/" title="No More Free">No More Free</a></h1>
-      How to <a href="https://www.grammarly.com/blog/the-basics-of-verbing-nouns/">porn</a> free food results 
-      <p>Duration: 0 m and
-         15 secs.
-      </p>
-   </div>
-   
    
 </div>
 <h1><a  href = "photos/">last-update</a></h1>
 Photos of the places I've been, the things I like, and the foods I eat tend to make a debut here  
-
+</br>
+</br>
 <div class="image-grid">
    
+   
+   
+   
+   <a href="/photos/who-blind/" title="WHO Blinded by China">
+   
+   
+   
+   <img src="/photos/who-blind/who_hu6bea63a4e3ebc80addbff72682178855_71791_350x0_resize_q75_box.jpg" alt="who.jpg" class="img-responsive">
+   
+   </a>
    
    
    
@@ -270,16 +289,6 @@ Photos of the places I've been, the things I like, and the foods I eat tend to m
    
    
    
-   <a href="/photos/charlotte-nc/" title="Charlotte, North Carolina">
-   
-   
-   
-   <img src="/photos/charlotte-nc/charlotte-walk_hu1284161a39037a74254647c65d0a0720_1988992_350x0_resize_q75_box.jpg" alt="charlotte-walk.jpg" class="img-responsive">
-   
-   </a>
-   
-   
-   
 </div>
 </html>
 
@@ -290,6 +299,24 @@ Photos of the places I've been, the things I like, and the foods I eat tend to m
    </br>
    
    
+
+
+<script>
+  if('serviceWorker' in navigator) {
+      navigator.serviceWorker
+          .register('/sw.js', { scope: '/' })
+          .then(function(registration) {
+              
+          });
+
+      navigator.serviceWorker
+          .ready
+          .then(function(registration) {
+              
+          });
+  }
+</script>
+
 </div>
     </div>
   </body>
