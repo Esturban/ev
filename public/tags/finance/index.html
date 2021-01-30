@@ -28,6 +28,10 @@
 
 
 
+<link rel="manifest" href="/manifest.json">
+
+
+
 <script type="application/javascript">
 var doNotTrack = false;
 if (!doNotTrack) {
@@ -127,7 +131,7 @@ if (!doNotTrack) {
   <div class = 'col-sm'>
       <li>
         <h3>
-          <a href="/collection/finance-i/">Inflation: Our Modern Economy</a> -  <time>November 2020</time>
+          <a href="/collection/finance-i/">Inflation: Our Modern Economy</a> -  <time>December 2020</time>
         </h3>
       </li>
   </div>
@@ -143,6 +147,24 @@ if (!doNotTrack) {
    </br>
    
    
+
+
+<script>
+  if('serviceWorker' in navigator) {
+      navigator.serviceWorker
+          .register('/sw.js', { scope: '/' })
+          .then(function(registration) {
+              
+          });
+
+      navigator.serviceWorker
+          .ready
+          .then(function(registration) {
+              
+          });
+  }
+</script>
+
 </div>
     </div>
   </body>

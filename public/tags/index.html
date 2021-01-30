@@ -28,6 +28,10 @@
 
 
 
+<link rel="manifest" href="/manifest.json">
+
+
+
 <script type="application/javascript">
 var doNotTrack = false;
 if (!doNotTrack) {
@@ -128,7 +132,7 @@ if (!doNotTrack) {
          <div class = 'col-sm'>
             <li>
                <h2>
-                  <a href="/tags/artist/">(3) artist</a>
+                  <a href="/tags/artist/">(4) artist</a>
                </h2>
             </li>
          </div>
@@ -160,6 +164,14 @@ if (!doNotTrack) {
          <div class = 'col-sm'>
             <li>
                <h2>
+                  <a href="/tags/cryptocurrency/">(1) cryptocurrency</a>
+               </h2>
+            </li>
+         </div>
+         
+         <div class = 'col-sm'>
+            <li>
+               <h2>
                   <a href="/tags/development/">(2) development</a>
                </h2>
             </li>
@@ -177,6 +189,22 @@ if (!doNotTrack) {
             <li>
                <h2>
                   <a href="/tags/finance/">(1) finance</a>
+               </h2>
+            </li>
+         </div>
+         
+         <div class = 'col-sm'>
+            <li>
+               <h2>
+                  <a href="/tags/health/">(1) health</a>
+               </h2>
+            </li>
+         </div>
+         
+         <div class = 'col-sm'>
+            <li>
+               <h2>
+                  <a href="/tags/inflation/">(1) inflation</a>
                </h2>
             </li>
          </div>
@@ -224,7 +252,7 @@ if (!doNotTrack) {
          <div class = 'col-sm'>
             <li>
                <h2>
-                  <a href="/tags/music/">(3) music</a>
+                  <a href="/tags/music/">(4) music</a>
                </h2>
             </li>
          </div>
@@ -240,7 +268,15 @@ if (!doNotTrack) {
          <div class = 'col-sm'>
             <li>
                <h2>
-                  <a href="/tags/news/">(4) news</a>
+                  <a href="/tags/news/">(3) news</a>
+               </h2>
+            </li>
+         </div>
+         
+         <div class = 'col-sm'>
+            <li>
+               <h2>
+                  <a href="/tags/pandemic/">(1) pandemic</a>
                </h2>
             </li>
          </div>
@@ -265,6 +301,14 @@ if (!doNotTrack) {
             <li>
                <h2>
                   <a href="/tags/privacy/">(1) privacy</a>
+               </h2>
+            </li>
+         </div>
+         
+         <div class = 'col-sm'>
+            <li>
+               <h2>
+                  <a href="/tags/quote/">(1) quote</a>
                </h2>
             </li>
          </div>
@@ -309,6 +353,22 @@ if (!doNotTrack) {
             </li>
          </div>
          
+         <div class = 'col-sm'>
+            <li>
+               <h2>
+                  <a href="/tags/who/">(1) who</a>
+               </h2>
+            </li>
+         </div>
+         
+         <div class = 'col-sm'>
+            <li>
+               <h2>
+                  <a href="/tags/writing/">(1) writing</a>
+               </h2>
+            </li>
+         </div>
+         
       </div>
    </div>
 </section>
@@ -320,6 +380,24 @@ if (!doNotTrack) {
    </br>
    
    
+
+
+<script>
+  if('serviceWorker' in navigator) {
+      navigator.serviceWorker
+          .register('/sw.js', { scope: '/' })
+          .then(function(registration) {
+              
+          });
+
+      navigator.serviceWorker
+          .ready
+          .then(function(registration) {
+              
+          });
+  }
+</script>
+
 </div>
     </div>
   </body>

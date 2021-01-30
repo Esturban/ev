@@ -6,13 +6,76 @@
     <description>Recent content in Tags on estebanvalencia.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 05 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>media</title>
       <link>/tags/media/</link>
-      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      <pubDate>Sat, 05 Dec 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/media/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>research</title>
+      <link>/tags/research/</link>
+      <pubDate>Sat, 05 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/research/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>writing</title>
+      <link>/tags/writing/</link>
+      <pubDate>Sat, 05 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/writing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cryptocurrency</title>
+      <link>/tags/cryptocurrency/</link>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/cryptocurrency/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>finance</title>
+      <link>/tags/finance/</link>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/finance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>inflation</title>
+      <link>/tags/inflation/</link>
+      <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/inflation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>health</title>
+      <link>/tags/health/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/health/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pandemic</title>
+      <link>/tags/pandemic/</link>
+      <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/pandemic/</guid>
       <description></description>
     </item>
     
@@ -26,11 +89,11 @@
     </item>
     
     <item>
-      <title>research</title>
-      <link>/tags/research/</link>
+      <title>who</title>
+      <link>/tags/who/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/research/</guid>
+      <guid>/tags/who/</guid>
       <description></description>
     </item>
     
@@ -89,15 +152,6 @@
     </item>
     
     <item>
-      <title>finance</title>
-      <link>/tags/finance/</link>
-      <pubDate>Fri, 20 Nov 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/finance/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>internet</title>
       <link>/tags/internet/</link>
       <pubDate>Wed, 18 Nov 2020 00:00:00 +0000</pubDate>
@@ -148,6 +202,15 @@
       <pubDate>Mon, 16 Nov 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/switzerland/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>quote</title>
+      <link>/tags/quote/</link>
+      <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/quote/</guid>
       <description></description>
     </item>
     

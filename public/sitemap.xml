@@ -6,7 +6,7 @@
    <url>
       <loc>/collection/</loc>
       
-      <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+      <lastmod>2020-12-05T00:00:00+00:00</lastmod>
       
    </url>
    
@@ -14,6 +14,96 @@
    
    <url>
       <loc>/</loc>
+      
+      <lastmod>2020-12-05T00:00:00+00:00</lastmod>
+      
+   </url>
+   
+   
+   
+   <url>
+      <loc>/tags/media/</loc>
+      
+      <lastmod>2020-12-05T00:00:00+00:00</lastmod>
+      
+   </url>
+   
+   
+   
+   <url>
+      <loc>/tags/research/</loc>
+      
+      <lastmod>2020-12-05T00:00:00+00:00</lastmod>
+      
+   </url>
+   
+   
+   
+   <url>
+      <loc>/tags/</loc>
+      
+      <lastmod>2020-12-05T00:00:00+00:00</lastmod>
+      
+   </url>
+   
+   
+   
+   <url>
+      <loc>/collection/write-everyday/</loc>
+      
+      <lastmod>2020-12-05T00:00:00+00:00</lastmod>
+      
+   </url>
+   
+   
+   
+   <url>
+      <loc>/tags/writing/</loc>
+      
+      <lastmod>2020-12-05T00:00:00+00:00</lastmod>
+      
+   </url>
+   
+   
+   
+   <url>
+      <loc>/tags/cryptocurrency/</loc>
+      
+      <lastmod>2020-12-04T00:00:00+00:00</lastmod>
+      
+   </url>
+   
+   
+   
+   <url>
+      <loc>/tags/finance/</loc>
+      
+      <lastmod>2020-12-04T00:00:00+00:00</lastmod>
+      
+   </url>
+   
+   
+   
+   <url>
+      <loc>/tags/inflation/</loc>
+      
+      <lastmod>2020-12-04T00:00:00+00:00</lastmod>
+      
+   </url>
+   
+   
+   
+   <url>
+      <loc>/collection/finance-i/</loc>
+      
+      <lastmod>2020-12-04T00:00:00+00:00</lastmod>
+      
+   </url>
+   
+   
+   
+   <url>
+      <loc>/tags/health/</loc>
       
       <lastmod>2020-12-01T00:00:00+00:00</lastmod>
       
@@ -31,7 +121,16 @@
    
    
    <url>
-      <loc>/tags/media/</loc>
+      <loc>/photos/</loc>
+      
+      <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+      
+   </url>
+   
+   
+   
+   <url>
+      <loc>/tags/pandemic/</loc>
       
       <lastmod>2020-12-01T00:00:00+00:00</lastmod>
       
@@ -49,7 +148,7 @@
    
    
    <url>
-      <loc>/tags/research/</loc>
+      <loc>/tags/who/</loc>
       
       <lastmod>2020-12-01T00:00:00+00:00</lastmod>
       
@@ -58,7 +157,7 @@
    
    
    <url>
-      <loc>/tags/</loc>
+      <loc>/photos/who-blind/</loc>
       
       <lastmod>2020-12-01T00:00:00+00:00</lastmod>
       
@@ -148,24 +247,6 @@
    
    
    <url>
-      <loc>/tags/finance/</loc>
-      
-      <lastmod>2020-11-20T00:00:00+00:00</lastmod>
-      
-   </url>
-   
-   
-   
-   <url>
-      <loc>/collection/finance-i/</loc>
-      
-      <lastmod>2020-11-20T00:00:00+00:00</lastmod>
-      
-   </url>
-   
-   
-   
-   <url>
       <loc>/collection/alt-search/</loc>
       
       <lastmod>2020-11-18T00:00:00+00:00</lastmod>
@@ -196,15 +277,6 @@
       <loc>/tags/privacy/</loc>
       
       <lastmod>2020-11-18T00:00:00+00:00</lastmod>
-      
-   </url>
-   
-   
-   
-   <url>
-      <loc>/photos/</loc>
-      
-      <lastmod>2020-11-16T00:00:00+00:00</lastmod>
       
    </url>
    
@@ -250,6 +322,15 @@
       <loc>/collection/web-performance/</loc>
       
       <lastmod>2020-11-14T00:00:00+00:00</lastmod>
+      
+   </url>
+   
+   
+   
+   <url>
+      <loc>/tags/quote/</loc>
+      
+      <lastmod>2020-11-13T00:00:00+00:00</lastmod>
       
    </url>
    
@@ -302,15 +383,6 @@
    
    <url>
       <loc>/collection/the-news/</loc>
-      
-      <lastmod>2020-11-10T00:00:00+00:00</lastmod>
-      
-   </url>
-   
-   
-   
-   <url>
-      <loc>/collection/write-everyday/</loc>
       
       <lastmod>2020-11-10T00:00:00+00:00</lastmod>
       

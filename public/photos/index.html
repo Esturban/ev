@@ -28,6 +28,10 @@
 
 
 
+<link rel="manifest" href="/manifest.json">
+
+
+
 <script type="application/javascript">
 var doNotTrack = false;
 if (!doNotTrack) {
@@ -148,6 +152,10 @@ if (!doNotTrack) {
 
 
 
+<link rel="manifest" href="/manifest.json">
+
+
+
 <script type="application/javascript">
 var doNotTrack = false;
 if (!doNotTrack) {
@@ -205,6 +213,16 @@ if (!doNotTrack) {
 <p><em>click</em>, Sna-, Sna-, Snap!</p>
 
 <div class="image-grid">
+    
+        
+            <a href="/photos/who-blind/" title="WHO Blinded by China">
+            
+            
+                
+                <img src="/photos/who-blind/who_hu6bea63a4e3ebc80addbff72682178855_71791_400x0_resize_q75_box.jpg" alt="who.jpg" class="img-responsive">
+            
+            </a>
+        
     
         
             <a href="/photos/stellisee/" title="Stellisee - Zermatt, Valais">
@@ -276,6 +294,24 @@ if (!doNotTrack) {
    </br>
    
    
+
+
+<script>
+  if('serviceWorker' in navigator) {
+      navigator.serviceWorker
+          .register('/sw.js', { scope: '/' })
+          .then(function(registration) {
+              
+          });
+
+      navigator.serviceWorker
+          .ready
+          .then(function(registration) {
+              
+          });
+  }
+</script>
+
 </div>
     </div>
   </body>

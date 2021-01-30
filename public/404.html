@@ -28,6 +28,10 @@
 
 
 
+<link rel="manifest" href="/manifest.json">
+
+
+
 <script type="application/javascript">
 var doNotTrack = false;
 if (!doNotTrack) {
@@ -127,6 +131,24 @@ if (!doNotTrack) {
    </br>
    
    
+
+
+<script>
+  if('serviceWorker' in navigator) {
+      navigator.serviceWorker
+          .register('/sw.js', { scope: '/' })
+          .then(function(registration) {
+              
+          });
+
+      navigator.serviceWorker
+          .ready
+          .then(function(registration) {
+              
+          });
+  }
+</script>
+
 </div>
     </div>
   </body>
