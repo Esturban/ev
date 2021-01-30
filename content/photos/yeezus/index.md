@@ -18,7 +18,6 @@ The ye movement has gone intergalactic where it transcends the man. It's no long
 
 
 So what does this tell you about the man? Well, imagine having unconventional ideas that are always criticized and reported. It becomes exhausting and your reaction becomes the core of someone's 15 minutes of fame. It becomes a matter of envious leeches who think first posts of subject matter relating to their lives earns the OP (Original Poster) the street cred to opine. My post on the matter is no different.      
-<!--{{< twitter 991459400018624512 >}}-->  
 
 ## Life on Blast  
   
@@ -57,7 +56,9 @@ A subtle reminder of the importance to have real friends is to be a real friend.
 - [The college dropout](https://en.wikipedia.org/wiki/The_College_Dropout) that [registered late](https://en.wikipedia.org/wiki/Late_Registration) for [graduation](https://en.wikipedia.org/wiki/Graduation_(album))  
 - know that [yeezus](https://en.wikipedia.org/wiki/Yeezus) lived [the life of pablo](https://en.wikipedia.org/wiki/The_Life_of_Pablo) and was crucified for [ye](https://en.wikipedia.org/wiki/Ye_(album))      
 - remember that [Jesus is king](https://en.wikipedia.org/wiki/Jesus_Is_King)    
-
+  
+It's about being a real person, man.  
+{{< youtube id="euwaKi4f98I" >}}  
    
 Ye, like anyone else, is a person figuring out life along the way. Don't be too envious of his achievements because they remain on your list of wants. Instead, dedicate your time to getting after your own goals.  
 
