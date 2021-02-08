@@ -5,7 +5,7 @@ googleAnalytics = "UA-81176691-3"
 theme = "hugo-theme-console"
 languageCode = "en-us"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "index\\.html", "about\\.html", "static/blog/\\*_files/", "README","\\.knit\\.md$", "\\.utf8\\.md$"] 
-
+#ignoreErrors = ["error-remote-getjson"]
 [params]
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
