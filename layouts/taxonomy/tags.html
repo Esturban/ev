@@ -4,7 +4,7 @@
 <ul>
    {{ range .Data.Pages }}
    <li>
-      <a href="{{.RelPermalink}}">{{- .Title -}}</a>
+      <a href="{{.RelPermalink}}">{{- .Title | emojify -}}</a>
    </li>
    {{ end }}
 </ul>
