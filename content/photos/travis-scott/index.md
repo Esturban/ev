@@ -5,7 +5,7 @@ title: "Travis Scott :metal:"
 type: gallery
 draft: no
 tags:
-  - quote
+  - quotes
   - music
   - artist
 ---
