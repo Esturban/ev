@@ -1,3 +1,4 @@
+<head>
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <title>{{ .Site.Params.pre }} - {{ $url := urls.Parse .Page.Permalink }}{{ $url.Path }}</title>
@@ -19,3 +20,5 @@
 
 {{ template "_internal/google_analytics.html" . }}
 <script src="https://kit.fontawesome.com/0e201c44f1.js" crossorigin="anonymous" async></script> 
+
+</head>
