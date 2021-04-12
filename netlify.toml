@@ -1,24 +1,4 @@
-[[build]]
-command= "hugo --gc --minify"
-commandOrigin= "config"
-environment=
-  - "HUGO_VERSION"
-  - "HUGO_ENV"
-  - "HUGO_ENABLEGITINFO"
-processing=
-    css=
-      bundle= true
-      minify= false
-    html=
-      pretty_urls= true
-    images=
-      compress= true
-    js=
-      bundle= true
-      minify= false
-    skip_processing= true
-headers=
-  - for= /*.jpg 
+[build]
 publish = "public"
 command = "hugo --gc --minify"
 
