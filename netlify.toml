@@ -1,10 +1,10 @@
 [[build]]
-command= hugo --gc --minify
-commandOrigin= config
+command= "hugo --gc --minify"
+commandOrigin= "config"
 environment=
-  - HUGO_VERSION
-  - HUGO_ENV
-  - HUGO_ENABLEGITINFO
+  - "HUGO_VERSION"
+  - "HUGO_ENV"
+  - "HUGO_ENABLEGITINFO"
 processing=
     css=
       bundle= true
