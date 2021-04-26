@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>python on estebanvalencia.com</title>
+    <link>/tags/python/</link>
+    <description>Recent content in python on estebanvalencia.com</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to: Keep up with Economics</title>
+      <link>/collection/data-i/</link>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/collection/data-i/</guid>
+      <description>There is always information moving markets :chart_with_upwards_trend:</description>
+    </item>
+    
+  </channel>
+</rss>
