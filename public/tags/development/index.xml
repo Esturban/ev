@@ -6,7 +6,25 @@
     <description>Recent content in development on estebanvalencia.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 24 Nov 2020 00:00:00 +0000</lastBuildDate><atom:link href="/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/development/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Getting Started with APIs</title>
+      <link>/collection/apis-i/</link>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/collection/apis-i/</guid>
+      <description>The engine powering most applications you use</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning: How to get started</title>
+      <link>/collection/machine-learning-i/</link>
+      <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/collection/machine-learning-i/</guid>
+      <description>Making AI that can take over the world using Python :snake:</description>
+    </item>
+    
     <item>
       <title>No More Free</title>
       <link>/collection/no-more-free/</link>

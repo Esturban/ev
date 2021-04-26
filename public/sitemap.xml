@@ -4,9 +4,18 @@
    
    
    <url>
-      <loc>/collection/</loc>
+      <loc>/tags/artist/</loc>
       
-      <lastmod>2020-12-05T00:00:00+00:00</lastmod>
+      <lastmod>2021-02-18T00:00:00+00:00</lastmod>
+      
+   </url>
+   
+   
+   
+   <url>
+      <loc>/photos/donald-glover/</loc>
+      
+      <lastmod>2021-02-18T00:00:00+00:00</lastmod>
       
    </url>
    
@@ -15,7 +24,223 @@
    <url>
       <loc>/</loc>
       
-      <lastmod>2020-12-05T00:00:00+00:00</lastmod>
+      <lastmod>2021-02-18T00:00:00+00:00</lastmod>
+      
+   </url>
+   
+   
+   
+   <url>
+      <loc>/photos/</loc>
+      
+      <lastmod>2021-02-18T00:00:00+00:00</lastmod>
+      
+   </url>
+   
+   
+   
+   <url>
+      <loc>/tags/music/</loc>
+      
+      <lastmod>2021-02-18T00:00:00+00:00</lastmod>
+      
+   </url>
+   
+   
+   
+   <url>
+      <loc>/tags/quotes/</loc>
+      
+      <lastmod>2021-02-18T00:00:00+00:00</lastmod>
+      
+   </url>
+   
+   
+   
+   <url>
+      <loc>/tags/</loc>
+      
+      <lastmod>2021-02-18T00:00:00+00:00</lastmod>
+      
+   </url>
+   
+   
+   
+   <url>
+      <loc>/collection/</loc>
+      
+      <lastmod>2021-02-16T00:00:00+00:00</lastmod>
+      
+   </url>
+   
+   
+   
+   <url>
+      <loc>/tags/exercise/</loc>
+      
+      <lastmod>2021-02-16T00:00:00+00:00</lastmod>
+      
+   </url>
+   
+   
+   
+   <url>
+      <loc>/tags/fitness/</loc>
+      
+      <lastmod>2021-02-16T00:00:00+00:00</lastmod>
+      
+   </url>
+   
+   
+   
+   <url>
+      <loc>/tags/health/</loc>
+      
+      <lastmod>2021-02-16T00:00:00+00:00</lastmod>
+      
+   </url>
+   
+   
+   
+   <url>
+      <loc>/collection/fit-i/</loc>
+      
+      <lastmod>2021-02-16T00:00:00+00:00</lastmod>
+      
+   </url>
+   
+   
+   
+   <url>
+      <loc>/tags/apis/</loc>
+      
+      <lastmod>2021-02-15T00:00:00+00:00</lastmod>
+      
+   </url>
+   
+   
+   
+   <url>
+      <loc>/tags/development/</loc>
+      
+      <lastmod>2021-02-15T00:00:00+00:00</lastmod>
+      
+   </url>
+   
+   
+   
+   <url>
+      <loc>/collection/apis-i/</loc>
+      
+      <lastmod>2021-02-15T00:00:00+00:00</lastmod>
+      
+   </url>
+   
+   
+   
+   <url>
+      <loc>/tags/how-to/</loc>
+      
+      <lastmod>2021-02-15T00:00:00+00:00</lastmod>
+      
+   </url>
+   
+   
+   
+   <url>
+      <loc>/tags/r/</loc>
+      
+      <lastmod>2021-02-15T00:00:00+00:00</lastmod>
+      
+   </url>
+   
+   
+   
+   <url>
+      <loc>/collection/machine-learning-i/</loc>
+      
+      <lastmod>2021-02-11T00:00:00+00:00</lastmod>
+      
+   </url>
+   
+   
+   
+   <url>
+      <loc>/tags/machine-learning/</loc>
+      
+      <lastmod>2021-02-11T00:00:00+00:00</lastmod>
+      
+   </url>
+   
+   
+   
+   <url>
+      <loc>/tags/data/</loc>
+      
+      <lastmod>2021-02-02T00:00:00+00:00</lastmod>
+      
+   </url>
+   
+   
+   
+   <url>
+      <loc>/collection/data-i/</loc>
+      
+      <lastmod>2021-02-02T00:00:00+00:00</lastmod>
+      
+   </url>
+   
+   
+   
+   <url>
+      <loc>/tags/python/</loc>
+      
+      <lastmod>2021-02-02T00:00:00+00:00</lastmod>
+      
+   </url>
+   
+   
+   
+   <url>
+      <loc>/tags/equities/</loc>
+      
+      <lastmod>2021-01-26T00:00:00+00:00</lastmod>
+      
+   </url>
+   
+   
+   
+   <url>
+      <loc>/tags/finance/</loc>
+      
+      <lastmod>2021-01-26T00:00:00+00:00</lastmod>
+      
+   </url>
+   
+   
+   
+   <url>
+      <loc>/collection/gme/</loc>
+      
+      <lastmod>2021-01-26T00:00:00+00:00</lastmod>
+      
+   </url>
+   
+   
+   
+   <url>
+      <loc>/photos/crypto/</loc>
+      
+      <lastmod>2021-01-21T00:00:00+00:00</lastmod>
+      
+   </url>
+   
+   
+   
+   <url>
+      <loc>/tags/cryptocurrency/</loc>
+      
+      <lastmod>2021-01-21T00:00:00+00:00</lastmod>
       
    </url>
    
@@ -32,15 +257,6 @@
    
    <url>
       <loc>/tags/research/</loc>
-      
-      <lastmod>2020-12-05T00:00:00+00:00</lastmod>
-      
-   </url>
-   
-   
-   
-   <url>
-      <loc>/tags/</loc>
       
       <lastmod>2020-12-05T00:00:00+00:00</lastmod>
       
@@ -67,24 +283,6 @@
    
    
    <url>
-      <loc>/tags/cryptocurrency/</loc>
-      
-      <lastmod>2020-12-04T00:00:00+00:00</lastmod>
-      
-   </url>
-   
-   
-   
-   <url>
-      <loc>/tags/finance/</loc>
-      
-      <lastmod>2020-12-04T00:00:00+00:00</lastmod>
-      
-   </url>
-   
-   
-   
-   <url>
       <loc>/tags/inflation/</loc>
       
       <lastmod>2020-12-04T00:00:00+00:00</lastmod>
@@ -103,9 +301,9 @@
    
    
    <url>
-      <loc>/tags/health/</loc>
+      <loc>/photos/yeezus/</loc>
       
-      <lastmod>2020-12-01T00:00:00+00:00</lastmod>
+      <lastmod>2020-12-02T00:00:00+00:00</lastmod>
       
    </url>
    
@@ -113,15 +311,6 @@
    
    <url>
       <loc>/collection/breaking-up-tv/</loc>
-      
-      <lastmod>2020-12-01T00:00:00+00:00</lastmod>
-      
-   </url>
-   
-   
-   
-   <url>
-      <loc>/photos/</loc>
       
       <lastmod>2020-12-01T00:00:00+00:00</lastmod>
       
@@ -166,15 +355,6 @@
    
    
    <url>
-      <loc>/tags/artist/</loc>
-      
-      <lastmod>2020-11-30T00:00:00+00:00</lastmod>
-      
-   </url>
-   
-   
-   
-   <url>
       <loc>/collection/frank-ocean/</loc>
       
       <lastmod>2020-11-30T00:00:00+00:00</lastmod>
@@ -184,34 +364,7 @@
    
    
    <url>
-      <loc>/tags/music/</loc>
-      
-      <lastmod>2020-11-30T00:00:00+00:00</lastmod>
-      
-   </url>
-   
-   
-   
-   <url>
-      <loc>/tags/quotes/</loc>
-      
-      <lastmod>2020-11-30T00:00:00+00:00</lastmod>
-      
-   </url>
-   
-   
-   
-   <url>
       <loc>/tags/best-practices/</loc>
-      
-      <lastmod>2020-11-24T00:00:00+00:00</lastmod>
-      
-   </url>
-   
-   
-   
-   <url>
-      <loc>/tags/development/</loc>
       
       <lastmod>2020-11-24T00:00:00+00:00</lastmod>
       
@@ -322,15 +475,6 @@
       <loc>/collection/web-performance/</loc>
       
       <lastmod>2020-11-14T00:00:00+00:00</lastmod>
-      
-   </url>
-   
-   
-   
-   <url>
-      <loc>/tags/quote/</loc>
-      
-      <lastmod>2020-11-13T00:00:00+00:00</lastmod>
       
    </url>
    

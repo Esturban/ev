@@ -6,7 +6,52 @@
     <description>Recent content in Collection on estebanvalencia.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Dec 2020 00:00:00 +0000</lastBuildDate><atom:link href="/collection/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 16 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="/collection/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stay Active</title>
+      <link>/collection/fit-i/</link>
+      <pubDate>Tue, 16 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/collection/fit-i/</guid>
+      <description>A simple solution to longevity :man_running:</description>
+    </item>
+    
+    <item>
+      <title>Getting Started with APIs</title>
+      <link>/collection/apis-i/</link>
+      <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/collection/apis-i/</guid>
+      <description>The engine powering most applications you use</description>
+    </item>
+    
+    <item>
+      <title>Machine Learning: How to get started</title>
+      <link>/collection/machine-learning-i/</link>
+      <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/collection/machine-learning-i/</guid>
+      <description>Making AI that can take over the world using Python :snake:</description>
+    </item>
+    
+    <item>
+      <title>How to: Keep up with Economics</title>
+      <link>/collection/data-i/</link>
+      <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/collection/data-i/</guid>
+      <description>There is always information moving markets :chart_with_upwards_trend:</description>
+    </item>
+    
+    <item>
+      <title>GME - How to Stop the Game</title>
+      <link>/collection/gme/</link>
+      <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/collection/gme/</guid>
+      <description>&lt;a href=&#34;https://finance.yahoo.com/quote/GME&#34;&gt;GME&lt;/a&gt; :gem: :open_hands: :chart_with_upwards_trend:</description>
+    </item>
+    
     <item>
       <title>Write. Everyday.</title>
       <link>/collection/write-everyday/</link>
