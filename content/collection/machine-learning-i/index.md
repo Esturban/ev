@@ -3,7 +3,7 @@ title: 'Machine Learning: How to get started'
 author: E
 date: "2021-02-11"
 summaryOn: true
-summary: "One step closer to making AI that can take over the world using Python :snake:"
+summary: "Making AI that can take over the world using Python :snake:"
 categories: []
 tags:
   - development
