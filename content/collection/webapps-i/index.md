@@ -19,16 +19,13 @@ The world is quickly turning a lot of what is said into quantifiable and recorde
 
 # Ye's Wisdom   
 
-As others have collected the information and made the API service available, I thought it might be fun to connect a mobile front-end to this service using Shiny.  Here's what it looks like:  
-
-{{< gallery >}}
-{{< figure src = "collection/webapps-i/ye-i.jpeg" width = "450px" >}}
-{{< figure src = "collection/webapps-i/ye-ii.jpeg" width = "450px" >}}
-{{< figure src = "collection/webapps-i/ye-iii.jpeg" width = "450px" >}}
-{{< figure src = "collection/webapps-i/ye-iv.jpeg" width = "450px" >}}
-
- {{< /gallery >}}  {{< load-photoswipe >}}
-
+As others have collected the information and made the API service available, I thought it might be fun to connect a mobile front-end to this service using Shiny.  Here's what it looks like:    
+  
+ 
+|{{< figure src = "/collection/webapps-i/ye-i.jpeg" width = "250px" >}}|{{< figure src = "/collection/webapps-i/ye-ii.jpeg" width = "250px" >}}|{{< figure src = "/collection/webapps-i/ye-iii.jpeg" width = "250px" >}}| {{< figure src = "/collection/webapps-i/ye-iv.jpeg" width = "250px" >}}|   
+|:-----:|:-----:|:-----:|:-----:|  
+    
+  
 Coding should be fun and developing this one was a lot of fun in a short amount of time.  With a quick few hours using a framework7 package, I turned this application into a Progressive Web Application you can down to your phone and computer. If you want to download it yourself, go to [this link](https://eval.shinyapps.io/__ye/) and [save to iOS as a bookmark](https://www.youtube.com/watch?v=ZqlLCn7_fWk) or [to your Android homescreen](https://www.youtube.com/watch?v=SGgu0LTVyY0).  
 
 # Curious about the code?  
