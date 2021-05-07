@@ -1,9 +1,9 @@
 ---
-title: 'Web Apps: A Fun Sample'
+title: 'A little more fun with web apps'
 date: "2021-02-18"
 draft: no
 summaryOn: true
-summary: 'Web apps just want to have fun :iphone: :information_desk_person:'
+summary: "Taylor Swift, Kanye's better half  :heart:"
 tags: 
 - apps
 - development
@@ -12,24 +12,40 @@ tags:
 - artist
 ---
   
-# Web apps for fun  
+# Web app fun  
 
-The world is quickly turning a lot of what is said into quantifiable and recorded information.  To the [last post about APIs](/collection/apis-i), this data becomes available in services like the APIs mentioned before.  This quickly makes the information accessible to anyone who can connect with the service via HTTP, GraphQL or other connection services.  These API services can be used for useful and mostly useless data sets that one can find on resources such as this [repository on Github](https://github.com/public-apis/public-apis) with resources for animals, events, chuck norris and photography.  As I am a bit of a fun of [Kanye West](photos/yeezus), I decided it was only appropriate to channel his wisdom into a fun application which was found on the list at [Kanye.rest](https://kanye.rest).   
+Similar to the [last post about web apps](/collection/webapps-i), i've found another similar source of data from [taylor.rest](https://taylor.rest/) which includes a source for the images. Although I couldn't get the images to render in the web app because of imgur's limitations in render within a web app without an API key, I decided to take a different bootstrapping approach.  
 
+# Web Scraping  
 
-# Ye's Wisdom   
+So the images didn't work out but no need to fret because I can rip off a similar approach used in the Kanye West I didn't bring much attention to and that was how the images in the app were sourced from Getty Images. [Here is the original script](https://github.com/Esturban/ye/blob/master/src/4_imgs.R) which works as follows:     
+  
+You first go to the url (`read_html`), you then select the specific item class using a css selector (`html_nodes`) and you then grab the source of the item (`html('src')`), which in this case is the image link.   
 
-As others have collected the information and made the API service available, I thought it might be fun to connect a mobile front-end to this service using Shiny.  Here's what it looks like:    
+In the context of Taylor Swift, the code might look something like:  
+```r  
+#Loading the Taylor images from getty images
+'https://www.gettyimages.com/photos/taylor-swift?family=editorial&phrase=taylor%20swift&sort=mostpopular' %>%
+  read_html %>%
+  html_nodes(
+    'body > div.content_wrapper > section > div > main > section > div.search-content__gallery-pager-wrapper > div > div.search-content__gallery > div > div > div.search-content__gallery-assets > div > article > a > figure > img'
+  ) %>%
+  html_attr('src') -> ts_imgs
+```  
+
+On github, you can [final committed changes here of Taylor's images.](https://github.com/Esturban/tswift/blob/master/src/4_imgs.R)   
+
+# Tay's Wisdom   
+
+The best part, because of using github for hosting code is to leverage information as a way to save time in development. Here is the Taylor Swift github repo if you'd like to check it out.  If you're new to development, I recommend checking out bot the [Taylor Swift repository](https://github.com/Esturban/tswift) and the [Kanye West repository](https://github.com/Esturban/ye).   
   
  
-|{{< figure src = "/collection/webapps-i/ye-i.jpeg" width = "250px" >}}|{{< figure src = "/collection/webapps-i/ye-ii.jpeg" width = "250px" >}}|{{< figure src = "/collection/webapps-i/ye-iii.jpeg" width = "250px" >}}| {{< figure src = "/collection/webapps-i/ye-iv.jpeg" width = "250px" >}}|   
+|{{< figure src = "/collection/webapps-ii/tay-i.jpeg" width = "250px" >}}|{{< figure src = "/collection/webapps-ii/tay-ii.jpeg" width = "250px" >}}|{{< figure src = "/collection/webapps-ii/tay-iii.jpeg" width = "250px" >}}| {{< figure src = "/collection/webapps-ii/tay-iv.jpeg" width = "250px" >}}|   
 |:-----:|:-----:|:-----:|:-----:|  
     
   
-Coding should be fun and developing this one was a lot of fun in a short amount of time.  With a quick few hours using a framework7 package, I turned this application into a Progressive Web Application you can down to your phone and computer. If you want to download it yourself, go to [this link](https://eval.shinyapps.io/__ye/) and [save to iOS as a bookmark](https://www.youtube.com/watch?v=ZqlLCn7_fWk) or [to your Android homescreen](https://www.youtube.com/watch?v=SGgu0LTVyY0).  
+The function and simplicity of the application is designed for fun and nothing more.  It takes a real world application of accessing website services and giving them front-end utility.   
 
 # Curious about the code?  
 
-Check out my github where I have the [code posted for deploying and developing the application locally](https://github.com/Esturban/ye). Create issues, forks or pull requests letting me know what you think or how you might want to improve it!  
-
-Have fuuuun
+Check out my github where I have the [code posted for deploying and developing the application locally](https://github.com/Esturban/tswift). Create issues, forks or pull requests letting me know what you think or how you might want to improve the end result again !  
