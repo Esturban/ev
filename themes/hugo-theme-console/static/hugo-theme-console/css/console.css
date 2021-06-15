@@ -175,13 +175,21 @@ figure {
 
 .image-grid {
     display: grid;
+    grid-gap: 1em;
     grid-template-rows: auto;
+    grid-template-columns: repeat(auto-fit,
+            minmax(calc(var(--page-width) / 4), 1fr));
+}
+
+
+.image-grid-2 {
     display: grid;
     grid-gap: 1em;
     grid-template-rows: auto;
     grid-template-columns: repeat(auto-fit,
             minmax(calc(var(--page-width) / 4), 1fr));
 }
+
 
 .terminal-prompt::after {
     -webkit-animation: cursor 1s infinite;
