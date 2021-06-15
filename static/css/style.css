@@ -46,25 +46,39 @@ pill{padding-right:.6em;padding-left:.6em;border-radius:10rem}
     margin-left: -15px;
 }
 
-.col-sm {
+
+.col-sm-l {
     -ms-flex-preferred-size: 0;
     flex-basis: 0;
+    -ms-box-flex: 1;
+    -moz-box-flex: 1;
     -webkit-box-flex: 1;
     -ms-flex-positive: 1;
     flex-grow: 1;
+  float:left;
+  width:30%;
+}
+.col-sm-r {
+    -ms-flex-preferred-size: 0;
+    flex-basis: 0;
+    -ms-box-flex: 1;
+    -moz-box-flex: 1;
+    -webkit-box-flex: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    width:69%;
+  padding: 20px 0 20px 20px;
+  float:right;
 }
 
 
 [class*='col-'] {
   float: left;
-  padding-right: 20px;
+  padding: 20px 0 20px 20px;
 }
 
 [class*='col-']:last-of-type {
-  padding-right: 0;
-}
-.col-sm {
-width:50%;
+  padding-right: 10px;
 }
 
 
@@ -90,6 +104,7 @@ yt-big{
 position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;
 }
 
+
 @media only screen and (max-width: 768px) {
   /* For mobile phones: */
   [class*="col-"] {
@@ -109,3 +124,23 @@ position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;
   max-width: 100%;
   
 }
+
+.image-grid-2 > a > img
+{  object-fit: cover;
+  height:20%;
+  width: 20%;
+  max-width: 30%;
+  max-height: 50%;
+}
+
+@media only screen and (min-width: 970px){
+  body > div.container.animated.zoomIn.fast > div.readme-intro > img{
+    width: 250px;
+    float: left;
+  }
+  div.readme-intro > p {
+    display: inline;
+  }
+}
+  
+
