@@ -54,6 +54,8 @@ That's all she ever thinks about
 Riding with the wind"*  
 [**Little Wing**](https://genius.com/Jimi-hendrix-little-wing-lyrics)  
   
+
+{< figure src = "https://cdn.mos.cms.futurecdn.net/ZQzFc25wUGEMg2Yc55Msha-1024-80.jpg" width = "1200px" >}
 # Focus on your strengths  
 
 Jimi never liked his singing voice and was often quoted saying "I can't sing a song". But, he had so much more to offer the world besides his ability to sing. He had a childhood stutter and would ocassionally come out when he was nervous, but that wouldn't impede his ability to rip guitar as he so fearlessly could. People rarely start out as an all-star, but those who want something bad enough will deliberately practice to the point they need to become legendary. If Jimi was so worried about his singing that he instead never became an artist then we may never have been graced by such a timeless artist.  
