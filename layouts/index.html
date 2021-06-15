@@ -17,11 +17,12 @@
     {{- partial "twitter_cards.html" . -}}
 </head>
 <h1><a href="me/">README</a></h1>
-<p>
+<div class = "row">
+   <a href="me/" class = "col-sm-l"><img src = "/me/tux.gif"></a><p class = "col-sm-r">
    {{ with .Site.Params.summary }} 
    {{ . | markdownify }} <a href="me/">(more)</a>
    {{end}} 
-</p>
+</p></div>
 <br/>
 <h1><a  href = "collection/">recently-added</a></h1>
 When I have a post or an archive, it'll appear here in the collection.  
