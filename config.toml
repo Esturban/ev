@@ -1,11 +1,27 @@
-baseurl = "/"
+baseurl = "https://estebanvalencia.com/"
 title = "estebanvalencia.com"
 googleAnalytics = "UA-81176691-3"
 
 theme = "hugo-theme-console"
-languageCode = "en-us"
+enableEmoji = true
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "index\\.html", "about\\.html", "static/blog/\\*_files/", "README","\\.knit\\.md$", "\\.utf8\\.md$"] 
 ignoreErrors = ["error-remote-getjson"]
+copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
+languageCode = "en-us"
+
+[author]
+  name= "Esteban Valencia"
+  image= "me/tux.webm"
+  about= "Esteban Valencia, Product Creator, is building better suites of products to deliver on company's business goals."
+  email= "me@estebanvalencia.com"
+  domain= "https://estebanvalencia.com"
+
+
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
 [params]
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
