@@ -1,26 +1,29 @@
+{{ $end := .Get "enddate" }}
+{{ $start := .Get "startdate" }}
+{{ $dr := (print $start " " $end) }}
 </script><script type = "text/javascript"src = "https://ssl.gstatic.com/trends_nrtr/2431_RC04/embed_loader.js" ></script> 
 <script type = "text/javascript" >
     trends.embed.renderExploreWidget("TIMESERIES", {
         "comparisonItem": [{
             "keyword": "how to",
             "geo": "",
-            "time": "2004-01-01 2021-06-12"
+            "time": {{ $dr }}
         }, {
             "keyword": "porn",
             "geo": "",
-            "time": "2004-01-01 2021-06-12"
+            "time": {{ $dr }}
         }, {
             "keyword": "free",
             "geo": "",
-            "time": "2004-01-01 2021-06-12"
+            "time": {{ $dr }}
         }, {
             "keyword": "food",
             "geo": "",
-            "time": "2004-01-01 2021-06-12"
+            "time": {{ $dr }}
         }, {
             "keyword": "results",
             "geo": "",
-            "time": "2004-01-01 2021-06-12"
+            "time": {{ $dr }}
         }],
         "category": 0,
         "property": ""

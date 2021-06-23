@@ -1,0 +1,8 @@
+{{ $end := .Get "enddate" }}
+{{ $start := .Get "startdate" }}
+{{ $dr := (print $start " " $end) }}
+<script type = "text/javascript" src = "https://ssl.gstatic.com/trends_nrtr/2578_RC01/embed_loader.js"> </script>
+<script type="text/javascript">
+trends.embed.renderExploreWidget("RELATED_QUERIES_0", {"comparisonItem":[
+{"keyword":"how to", "geo":"", "time":{{ $dr }}}],
+"category":0, "property":""}, {"exploreQuery":"date=all&q=how%20to","guestPath":"https://trends.google.com:443/trends/embed/"});</script>

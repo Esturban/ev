@@ -17,7 +17,7 @@
     {{ template "_internal/twitter_cards.html" . }}
     {{ template "_internal/google_analytics.html" . }}
 </head>
-<h1>{{ .Title | markdownify }}</h1><p> {{ .PublishDate.Format "Jan. 2, 2006" }}</p>
+<h1>{{ .Title | markdownify | emojify }}</h1><p> {{ .PublishDate.Format "Jan. 2, 2006" }}</p>
 {{ $readTime := mul (div (countwords .Content) 220.0) 60 }}
 <p>Read time: {{ math.Floor (div $readTime 60) }} minutes and
     {{ mod $readTime 60 }} seconds.</p>
