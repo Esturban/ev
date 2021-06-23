@@ -1,0 +1,3 @@
+[submodule "themes/ev-console"]
+	path = themes/ev-console
+	url = ../ev-console
