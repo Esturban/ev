@@ -72,7 +72,7 @@ URL = "ev-console/css/terminal-0.7.1.min.css"
 [[params.plugins.css]]
 URL = "ev-console/css/animate-3.7.2.min.css"
 [[params.plugins.css]]
-URL = "hugo-theme-console/css/console.css"
+URL = "ev-console/css/console.css"
 [[params.plugins.css]]
 URL = "css/hugo-easy-gallery.css"
 [[params.plugins.css]]

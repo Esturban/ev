@@ -1,6 +1,3 @@
 [submodule "themes/ev-console"]
 	path = themes/ev-console
-	url = git@github.com/Esturban/ev-console.git
-[submodule "themes/ev-console"]
-	path = themes/ev-console
-	url = ../ev-console
+	url = git@github.com:Esturban/ev-console.git
