@@ -15,11 +15,12 @@
     {{ end }}
     {{- partial "opengraph.html" . -}}
     {{- partial "twitter_cards.html" . -}}
+    
 </head>
 <h1><a href="me/">README</a></h1>
 <div class = "row">
    <a href="me/" class = "col-sm-l"><!--<img src = "/me/tux_min.gif">-->
-   <video autoplay width = "100%"><source src="/me/tux.webm"
+   <video autoplay width = "100%"><source src="{{.Site.Params.summaryImg}}"
             type="video/webm"></video>
    </a><p class = "col-sm-r">
    {{ with .Site.Params.summary }} 
