@@ -1,0 +1,28 @@
+{{ $src := .Get "src" }}
+{{ $href := .Get "href" }}
+{{ $classImg := .Get "classImg" | default "col-sm-l" }}
+{{ $classText := .Get "classText" | default "col-sm-l" }}
+{{ $description := .Get "description" | default "" }}
+{{ $width := .Get "width" | default "100%" }}
+<!-- use either src or link-thumb for thumbnail image -->
+{{- $thumb := .Get "src" | default (printf "%s." (.Get "thumb") | replace (.Get "link") ".") }}
+<div class = "row">
+<a target="_blank"  href="{{$href}}" {{ with .Get "classImg" }}class="{{.}}"{{ end }} >
+<div {{ if .Parent }} style="background-image: url('{{ $thumb | relURL }}');"{{ end }}{{ with .Get "size" }} data-size="{{.}}"{{ end }}>
+      <img itemprop="thumbnail" src="{{ $thumb | relURL }}" {{ with .Get "alt" | default (.Get "caption") }}alt="{{.}}"{{ end }} border = "0"/><!-- <img> hidden if in .gallery -->
+    </div>
+          <figcaption>
+        {{- with .Get "title" | emojify }}<h4>{{. | emojify }}</h4>{{ end }}
+        {{- if or (.Get "caption") (.Get "attr") | emojify }}
+          <p>
+            {{- .Get "caption" | emojify -}}
+            {{- with .Get "attrlink"}}<a href="{{.}}">{{ .Get "attr" }}</a>{{ else }}{{ .Get "attr" | emojify}}{{ end -}}
+          </p>
+        {{- end }}
+      </figcaption>
+</a><p class = "{{$classText}}">
+   {{ with $description }} 
+   {{ . | markdownify }}
+   {{end}} 
+</p>
+</div>  
