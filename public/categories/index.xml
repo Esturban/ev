@@ -1,7 +1,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title></title>
-    <link>//localhost:1313/categories/</link>
+    <link>/categories/</link>
     <description></description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -9,15 +9,15 @@
     <webMaster>me@estebanvalencia.com (Esteban Valencia)</webMaster>
     <copyright>This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.</copyright>
     
-        <atom:link href="//localhost:1313/categories/index.xml" rel="me" type="application/rss+xml" />
+        <atom:link href="/categories/index.xml" rel="me" type="application/rss+xml" />
     
     
     <item>
       <title>Collection</title>
-      <link>//localhost:1313/collection/</link>
+      <link>/collection/</link>
       <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
       <author>me@estebanvalencia.com (Esteban Valencia)</author>
-      <guid>//localhost:1313/collection/</guid>
+      <guid>/collection/</guid>
       <description>Esteban&#39;s archives of writing</description>
       <content:encoded>
         
@@ -37,10 +37,10 @@
     
     <item>
       <title>No More Free</title>
-      <link>//localhost:1313/collection/no-more-free/</link>
+      <link>/collection/no-more-free/</link>
       <pubDate>Tue, 23 Feb 2021 00:00:00 +0000</pubDate>
       <author>me@estebanvalencia.com (Esteban Valencia)</author>
-      <guid>//localhost:1313/collection/no-more-free/</guid>
+      <guid>/collection/no-more-free/</guid>
       <description>&lt;no value&gt;</description>
       <content:encoded>
         
@@ -115,10 +115,10 @@
     
     <item>
       <title>Jimi Hendrix</title>
-      <link>//localhost:1313/collection/jimi-hendrix/</link>
+      <link>/collection/jimi-hendrix/</link>
       <pubDate>Mon, 22 Feb 2021 00:00:00 +0000</pubDate>
       <author>me@estebanvalencia.com (Esteban Valencia)</author>
-      <guid>//localhost:1313/collection/jimi-hendrix/</guid>
+      <guid>/collection/jimi-hendrix/</guid>
       <description>&lt;no value&gt;</description>
       <content:encoded>
         
@@ -127,7 +127,7 @@
         
         
         
-&lt;link rel=&#34;stylesheet&#34; href=&#34;//localhost:1313/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;/css/hugo-easy-gallery.css&#34; /&gt;
 &lt;div class=&#34;box&#34; style=&#34;max-width:1200px&#34;&gt;
   &lt;figure class=&#34;img&#34; itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
     &lt;div class=&#34;img&#34;&gt;
@@ -190,10 +190,10 @@ Riding with the wind&amp;rdquo;&lt;/em&gt;&lt;br&gt;
     
     <item>
       <title>A little more fun with web apps</title>
-      <link>//localhost:1313/collection/webapps-ii/</link>
+      <link>/collection/webapps-ii/</link>
       <pubDate>Sat, 20 Feb 2021 00:00:00 +0000</pubDate>
       <author>me@estebanvalencia.com (Esteban Valencia)</author>
-      <guid>//localhost:1313/collection/webapps-ii/</guid>
+      <guid>/collection/webapps-ii/</guid>
       <description>&lt;no value&gt;</description>
       <content:encoded>
         
@@ -201,11 +201,11 @@ Riding with the wind&amp;rdquo;&lt;/em&gt;&lt;br&gt;
         
         
         
-        <![CDATA[<img src="//localhost:1313/collection/webapps-ii/tay-i_hu0861cd75ccd9b9ea7d448fec8286dc32_134870_640x0_resize_q75_box.jpeg" width="640" height="1386"/>]]>
+        <![CDATA[<img src="/collection/webapps-ii/tay-i_hu0861cd75ccd9b9ea7d448fec8286dc32_134870_640x0_resize_q75_box.jpeg" width="640" height="1386"/>]]>
         
         
         &lt;h1 id=&#34;web-app-fun&#34;&gt;Web app fun&lt;/h1&gt;
-&lt;p&gt;Similar to the &lt;a href=&#34;//localhost:1313/collection/webapps-i&#34;&gt;last post about web apps&lt;/a&gt;, i&amp;rsquo;ve found another similar source of data from &lt;a href=&#34;https://taylor.rest/&#34;&gt;taylor.rest&lt;/a&gt; which includes a source for the images. Although I couldn&amp;rsquo;t get the images to render in the web app because of imgur&amp;rsquo;s limitations in render within a web app without an API key, I decided to take a different bootstrapping approach.&lt;/p&gt;
+&lt;p&gt;Similar to the &lt;a href=&#34;/collection/webapps-i&#34;&gt;last post about web apps&lt;/a&gt;, i&amp;rsquo;ve found another similar source of data from &lt;a href=&#34;https://taylor.rest/&#34;&gt;taylor.rest&lt;/a&gt; which includes a source for the images. Although I couldn&amp;rsquo;t get the images to render in the web app because of imgur&amp;rsquo;s limitations in render within a web app without an API key, I decided to take a different bootstrapping approach.&lt;/p&gt;
 &lt;h1 id=&#34;web-scraping&#34;&gt;Web Scraping&lt;/h1&gt;
 &lt;p&gt;So the images didn&amp;rsquo;t work out but no need to fret because I can rip off a similar approach used in the Kanye West I didn&amp;rsquo;t bring much attention to and that was how the images in the app were sourced from Getty Images. &lt;a href=&#34;https://github.com/Esturban/ye/blob/master/src/4_imgs.R&#34;&gt;Here is the original script&lt;/a&gt; which works as follows:&lt;/p&gt;
 &lt;p&gt;You first go to the url (&lt;code&gt;read_html&lt;/code&gt;), you then select the specific item class using a css selector (&lt;code&gt;html_nodes&lt;/code&gt;) and you then grab the source of the item (&lt;code&gt;html(&#39;src&#39;)&lt;/code&gt;), which in this case is the image link.&lt;/p&gt;
@@ -224,13 +224,13 @@ Riding with the wind&amp;rdquo;&lt;/em&gt;&lt;br&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th style=&#34;text-align:center&#34;&gt;
-&lt;link rel=&#34;stylesheet&#34; href=&#34;//localhost:1313/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;/css/hugo-easy-gallery.css&#34; /&gt;
 &lt;div class=&#34;box&#34; style=&#34;max-width:250px&#34;&gt;
   &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
     &lt;div class=&#34;img&#34;&gt;
-      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;//localhost:1313/collection/webapps-ii/tay-i.jpeg&#34; /&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;/collection/webapps-ii/tay-i.jpeg&#34; /&gt;
     &lt;/div&gt;
-    &lt;a href=&#34;//localhost:1313/collection/webapps-ii/tay-i.jpeg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+    &lt;a href=&#34;/collection/webapps-ii/tay-i.jpeg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
   &lt;/figure&gt;
 &lt;/div&gt;&lt;/th&gt;
 &lt;th style=&#34;text-align:center&#34;&gt;
@@ -238,9 +238,9 @@ Riding with the wind&amp;rdquo;&lt;/em&gt;&lt;br&gt;
 &lt;div class=&#34;box&#34; style=&#34;max-width:250px&#34;&gt;
   &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
     &lt;div class=&#34;img&#34;&gt;
-      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;//localhost:1313/collection/webapps-ii/tay-ii.jpeg&#34; /&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;/collection/webapps-ii/tay-ii.jpeg&#34; /&gt;
     &lt;/div&gt;
-    &lt;a href=&#34;//localhost:1313/collection/webapps-ii/tay-ii.jpeg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+    &lt;a href=&#34;/collection/webapps-ii/tay-ii.jpeg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
   &lt;/figure&gt;
 &lt;/div&gt;&lt;/th&gt;
 &lt;th style=&#34;text-align:center&#34;&gt;
@@ -248,9 +248,9 @@ Riding with the wind&amp;rdquo;&lt;/em&gt;&lt;br&gt;
 &lt;div class=&#34;box&#34; style=&#34;max-width:250px&#34;&gt;
   &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
     &lt;div class=&#34;img&#34;&gt;
-      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;//localhost:1313/collection/webapps-ii/tay-iii.jpeg&#34; /&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;/collection/webapps-ii/tay-iii.jpeg&#34; /&gt;
     &lt;/div&gt;
-    &lt;a href=&#34;//localhost:1313/collection/webapps-ii/tay-iii.jpeg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+    &lt;a href=&#34;/collection/webapps-ii/tay-iii.jpeg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
   &lt;/figure&gt;
 &lt;/div&gt;&lt;/th&gt;
 &lt;th style=&#34;text-align:center&#34;&gt;
@@ -258,9 +258,9 @@ Riding with the wind&amp;rdquo;&lt;/em&gt;&lt;br&gt;
 &lt;div class=&#34;box&#34; style=&#34;max-width:250px&#34;&gt;
   &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
     &lt;div class=&#34;img&#34;&gt;
-      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;//localhost:1313/collection/webapps-ii/tay-iv.jpeg&#34; /&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;/collection/webapps-ii/tay-iv.jpeg&#34; /&gt;
     &lt;/div&gt;
-    &lt;a href=&#34;//localhost:1313/collection/webapps-ii/tay-iv.jpeg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+    &lt;a href=&#34;/collection/webapps-ii/tay-iv.jpeg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
   &lt;/figure&gt;
 &lt;/div&gt;&lt;/th&gt;
 &lt;/tr&gt;
@@ -276,17 +276,17 @@ Riding with the wind&amp;rdquo;&lt;/em&gt;&lt;br&gt;
         
         
         
-        <enclosure url="//localhost:1313/collection/webapps-ii/tay-i_hu0861cd75ccd9b9ea7d448fec8286dc32_134870_640x0_resize_q75_box.jpeg" type="image/jpg" />
+        <enclosure url="/collection/webapps-ii/tay-i_hu0861cd75ccd9b9ea7d448fec8286dc32_134870_640x0_resize_q75_box.jpeg" type="image/jpg" />
       
       
     </item>
     
     <item>
       <title>Web Apps: A Fun Sample</title>
-      <link>//localhost:1313/collection/webapps-i/</link>
+      <link>/collection/webapps-i/</link>
       <pubDate>Thu, 18 Feb 2021 00:00:00 +0000</pubDate>
       <author>me@estebanvalencia.com (Esteban Valencia)</author>
-      <guid>//localhost:1313/collection/webapps-i/</guid>
+      <guid>/collection/webapps-i/</guid>
       <description>&lt;no value&gt;</description>
       <content:encoded>
         
@@ -294,24 +294,24 @@ Riding with the wind&amp;rdquo;&lt;/em&gt;&lt;br&gt;
         
         
         
-        <![CDATA[<img src="//localhost:1313/collection/webapps-i/ye-i_hu8a8d6a747f5995f93244a3d5a971ec51_79907_640x0_resize_q75_box.jpeg" width="640" height="1386"/>]]>
+        <![CDATA[<img src="/collection/webapps-i/ye-i_hu8a8d6a747f5995f93244a3d5a971ec51_79907_640x0_resize_q75_box.jpeg" width="640" height="1386"/>]]>
         
         
         &lt;h1 id=&#34;web-apps-for-fun&#34;&gt;Web apps for fun&lt;/h1&gt;
-&lt;p&gt;The world is quickly turning a lot of what is said into quantifiable and recorded information.  To the &lt;a href=&#34;//localhost:1313/collection/apis-i&#34;&gt;last post about APIs&lt;/a&gt;, this data becomes available in services like the APIs mentioned before.  This quickly makes the information accessible to anyone who can connect with the service via HTTP, GraphQL or other connection services.  These API services can be used for useful and mostly useless data sets that one can find on resources such as this &lt;a href=&#34;https://github.com/public-apis/public-apis&#34;&gt;repository on Github&lt;/a&gt; with resources for animals, events, chuck norris and photography.  As I am a bit of a fun of &lt;a href=&#34;photos/yeezus&#34;&gt;Kanye West&lt;/a&gt;, I decided it was only appropriate to channel his wisdom into a fun application which was found on the list at &lt;a href=&#34;https://kanye.rest&#34;&gt;Kanye.rest&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The world is quickly turning a lot of what is said into quantifiable and recorded information.  To the &lt;a href=&#34;/collection/apis-i&#34;&gt;last post about APIs&lt;/a&gt;, this data becomes available in services like the APIs mentioned before.  This quickly makes the information accessible to anyone who can connect with the service via HTTP, GraphQL or other connection services.  These API services can be used for useful and mostly useless data sets that one can find on resources such as this &lt;a href=&#34;https://github.com/public-apis/public-apis&#34;&gt;repository on Github&lt;/a&gt; with resources for animals, events, chuck norris and photography.  As I am a bit of a fun of &lt;a href=&#34;photos/yeezus&#34;&gt;Kanye West&lt;/a&gt;, I decided it was only appropriate to channel his wisdom into a fun application which was found on the list at &lt;a href=&#34;https://kanye.rest&#34;&gt;Kanye.rest&lt;/a&gt;.&lt;/p&gt;
 &lt;h1 id=&#34;yes-wisdom&#34;&gt;Ye&amp;rsquo;s Wisdom&lt;/h1&gt;
 &lt;p&gt;As others have collected the information and made the API service available, I thought it might be fun to connect a mobile front-end to this service using Shiny.  Here&amp;rsquo;s what it looks like:&lt;/p&gt;
 &lt;table&gt;
 &lt;thead&gt;
 &lt;tr&gt;
 &lt;th style=&#34;text-align:center&#34;&gt;
-&lt;link rel=&#34;stylesheet&#34; href=&#34;//localhost:1313/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;/css/hugo-easy-gallery.css&#34; /&gt;
 &lt;div class=&#34;box&#34; style=&#34;max-width:250px&#34;&gt;
   &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
     &lt;div class=&#34;img&#34;&gt;
-      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;//localhost:1313/collection/webapps-i/ye-i.jpeg&#34; /&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;/collection/webapps-i/ye-i.jpeg&#34; /&gt;
     &lt;/div&gt;
-    &lt;a href=&#34;//localhost:1313/collection/webapps-i/ye-i.jpeg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+    &lt;a href=&#34;/collection/webapps-i/ye-i.jpeg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
   &lt;/figure&gt;
 &lt;/div&gt;&lt;/th&gt;
 &lt;th style=&#34;text-align:center&#34;&gt;
@@ -319,9 +319,9 @@ Riding with the wind&amp;rdquo;&lt;/em&gt;&lt;br&gt;
 &lt;div class=&#34;box&#34; style=&#34;max-width:250px&#34;&gt;
   &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
     &lt;div class=&#34;img&#34;&gt;
-      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;//localhost:1313/collection/webapps-i/ye-ii.jpeg&#34; /&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;/collection/webapps-i/ye-ii.jpeg&#34; /&gt;
     &lt;/div&gt;
-    &lt;a href=&#34;//localhost:1313/collection/webapps-i/ye-ii.jpeg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+    &lt;a href=&#34;/collection/webapps-i/ye-ii.jpeg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
   &lt;/figure&gt;
 &lt;/div&gt;&lt;/th&gt;
 &lt;th style=&#34;text-align:center&#34;&gt;
@@ -329,9 +329,9 @@ Riding with the wind&amp;rdquo;&lt;/em&gt;&lt;br&gt;
 &lt;div class=&#34;box&#34; style=&#34;max-width:250px&#34;&gt;
   &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
     &lt;div class=&#34;img&#34;&gt;
-      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;//localhost:1313/collection/webapps-i/ye-iii.jpeg&#34; /&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;/collection/webapps-i/ye-iii.jpeg&#34; /&gt;
     &lt;/div&gt;
-    &lt;a href=&#34;//localhost:1313/collection/webapps-i/ye-iii.jpeg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+    &lt;a href=&#34;/collection/webapps-i/ye-iii.jpeg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
   &lt;/figure&gt;
 &lt;/div&gt;&lt;/th&gt;
 &lt;th style=&#34;text-align:center&#34;&gt;
@@ -339,9 +339,9 @@ Riding with the wind&amp;rdquo;&lt;/em&gt;&lt;br&gt;
 &lt;div class=&#34;box&#34; style=&#34;max-width:250px&#34;&gt;
   &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
     &lt;div class=&#34;img&#34;&gt;
-      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;//localhost:1313/collection/webapps-i/ye-iv.jpeg&#34; /&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;/collection/webapps-i/ye-iv.jpeg&#34; /&gt;
     &lt;/div&gt;
-    &lt;a href=&#34;//localhost:1313/collection/webapps-i/ye-iv.jpeg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+    &lt;a href=&#34;/collection/webapps-i/ye-iv.jpeg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
   &lt;/figure&gt;
 &lt;/div&gt;&lt;/th&gt;
 &lt;/tr&gt;
@@ -358,17 +358,17 @@ Riding with the wind&amp;rdquo;&lt;/em&gt;&lt;br&gt;
         
         
         
-        <enclosure url="//localhost:1313/collection/webapps-i/ye-i_hu8a8d6a747f5995f93244a3d5a971ec51_79907_640x0_resize_q75_box.jpeg" type="image/jpg" />
+        <enclosure url="/collection/webapps-i/ye-i_hu8a8d6a747f5995f93244a3d5a971ec51_79907_640x0_resize_q75_box.jpeg" type="image/jpg" />
       
       
     </item>
     
     <item>
       <title>Getting Started with APIs</title>
-      <link>//localhost:1313/collection/apis-i/</link>
+      <link>/collection/apis-i/</link>
       <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
       <author>me@estebanvalencia.com (Esteban Valencia)</author>
-      <guid>//localhost:1313/collection/apis-i/</guid>
+      <guid>/collection/apis-i/</guid>
       <description>&lt;no value&gt;</description>
       <content:encoded>
         
@@ -419,7 +419,7 @@ new TradingView.widget({
 &lt;p&gt;I&amp;rsquo;ve decided that knowing what is happening in the world of &lt;a href=&#34;https://www.thrillist.com/eat/nation/what-is-mukbang&#34;&gt;mukbang&lt;/a&gt; is important so that I know what news is relevant in the world of mukbang in 2021.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;link rel=&#34;stylesheet&#34; href=&#34;//localhost:1313/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;/css/hugo-easy-gallery.css&#34; /&gt;
 &lt;div class=&#34;box&#34; style=&#34;max-width:50%&#34;&gt;
   &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
     &lt;div class=&#34;img&#34;&gt;
@@ -492,10 +492,10 @@ results$articles%&amp;gt;%tbl_df()
     
     <item>
       <title>Getting Started with APIs</title>
-      <link>//localhost:1313/collection/apis-ii/</link>
+      <link>/collection/apis-ii/</link>
       <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
       <author>me@estebanvalencia.com (Esteban Valencia)</author>
-      <guid>//localhost:1313/collection/apis-ii/</guid>
+      <guid>/collection/apis-ii/</guid>
       <description>&lt;no value&gt;</description>
       <content:encoded>
         
@@ -546,7 +546,7 @@ new TradingView.widget({
 &lt;p&gt;I&amp;rsquo;ve decided that knowing what is happening in the world of &lt;a href=&#34;https://www.thrillist.com/eat/nation/what-is-mukbang&#34;&gt;mukbang&lt;/a&gt; is important so that I know what news is relevant in the world of mukbang in 2021.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;link rel=&#34;stylesheet&#34; href=&#34;//localhost:1313/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;/css/hugo-easy-gallery.css&#34; /&gt;
 &lt;div class=&#34;box&#34; style=&#34;max-width:50%&#34;&gt;
   &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
     &lt;div class=&#34;img&#34;&gt;
@@ -619,10 +619,10 @@ results$articles%&amp;gt;%tbl_df()
     
     <item>
       <title>Machine Learning: How to get started</title>
-      <link>//localhost:1313/collection/machine-learning-i/</link>
+      <link>/collection/machine-learning-i/</link>
       <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
       <author>me@estebanvalencia.com (Esteban Valencia)</author>
-      <guid>//localhost:1313/collection/machine-learning-i/</guid>
+      <guid>/collection/machine-learning-i/</guid>
       <description>&lt;no value&gt;</description>
       <content:encoded>
         
@@ -630,13 +630,13 @@ results$articles%&amp;gt;%tbl_df()
         
         
         
-        <![CDATA[<img src="//localhost:1313/collection/machine-learning-i/anaconda-env_hu3c2e982226e986835f0a506a8a362f39_49793_640x0_resize_box_2.PNG" width="640" height="331"/>]]>
+        <![CDATA[<img src="/collection/machine-learning-i/anaconda-env_hu3c2e982226e986835f0a506a8a362f39_49793_640x0_resize_box_2.PNG" width="640" height="331"/>]]>
         
         
         &lt;h1 id=&#34;what-is-machine-learning&#34;&gt;What is machine learning?&lt;/h1&gt;
 &lt;p&gt;Machine learning sounds opaque, but it&amp;rsquo;s more of a general term for statistical learning algorithms that continuously improve through experience.  How do things improve in general?  Through training!  So, let&amp;rsquo;s say something happens that can be recorded or observed (in a table or dataset) such as a transaction or speed of a vehicle, this information can be used as a form of training data.  From your training data, you need to establish what question you might try to answer with a metric of success (commonly known as your predictor). When more data (read experience) becomes available, the algorithm can fine tune it&amp;rsquo;s results according to what is next. &lt;strong&gt;That&amp;rsquo;s it.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;link rel=&#34;stylesheet&#34; href=&#34;//localhost:1313/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;/css/hugo-easy-gallery.css&#34; /&gt;
 &lt;div class=&#34;box&#34; &gt;
   &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
     &lt;div class=&#34;img&#34;&gt;
@@ -662,7 +662,7 @@ results$articles%&amp;gt;%tbl_df()
 &lt;div class=&#34;box&#34; &gt;
   &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
     &lt;div class=&#34;img&#34;&gt;
-      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;//localhost:1313/collection/machine-learning-i/anaconda-env.PNG&#34; alt=&#34;This takes a couple minutes :clock:&#34;/&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;/collection/machine-learning-i/anaconda-env.PNG&#34; alt=&#34;This takes a couple minutes :clock:&#34;/&gt;
     &lt;/div&gt;
     &lt;a href=&#34;collection/machine-learning-i/anaconda-env.PNG&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
       &lt;figcaption&gt;
@@ -684,7 +684,7 @@ results$articles%&amp;gt;%tbl_df()
 &lt;div class=&#34;box&#34; style=&#34;max-width:50%&#34;&gt;
   &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
     &lt;div class=&#34;img&#34;&gt;
-      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;//localhost:1313/collection/machine-learning-i/anaconda-pkgs.PNG&#34; /&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;/collection/machine-learning-i/anaconda-pkgs.PNG&#34; /&gt;
     &lt;/div&gt;
     &lt;a href=&#34;collection/machine-learning-i/anaconda-pkgs.PNG&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
   &lt;/figure&gt;
@@ -697,7 +697,7 @@ results$articles%&amp;gt;%tbl_df()
 &lt;div class=&#34;box&#34; style=&#34;max-width:50%&#34;&gt;
   &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
     &lt;div class=&#34;img&#34;&gt;
-      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;//localhost:1313/collection/machine-learning-i/search-env.PNG&#34; /&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;/collection/machine-learning-i/search-env.PNG&#34; /&gt;
     &lt;/div&gt;
     &lt;a href=&#34;collection/machine-learning-i/search-env.PNG&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
   &lt;/figure&gt;
@@ -707,7 +707,7 @@ results$articles%&amp;gt;%tbl_df()
 &lt;div class=&#34;box&#34; style=&#34;max-width:50%&#34;&gt;
   &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
     &lt;div class=&#34;img&#34;&gt;
-      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;//localhost:1313/collection/machine-learning-i/notebook-dir.PNG&#34; /&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;/collection/machine-learning-i/notebook-dir.PNG&#34; /&gt;
     &lt;/div&gt;
     &lt;a href=&#34;collection/machine-learning-i/notebook-dir.PNG&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
   &lt;/figure&gt;
@@ -775,17 +775,17 @@ plt.show()
         
         
         
-        <enclosure url="//localhost:1313/collection/machine-learning-i/anaconda-env_hu3c2e982226e986835f0a506a8a362f39_49793_640x0_resize_box_2.PNG" type="image/jpg" />
+        <enclosure url="/collection/machine-learning-i/anaconda-env_hu3c2e982226e986835f0a506a8a362f39_49793_640x0_resize_box_2.PNG" type="image/jpg" />
       
       
     </item>
     
     <item>
       <title>Data you need to stay current with economics</title>
-      <link>//localhost:1313/collection/data-i/</link>
+      <link>/collection/data-i/</link>
       <pubDate>Tue, 02 Feb 2021 00:00:00 +0000</pubDate>
       <author>me@estebanvalencia.com (Esteban Valencia)</author>
-      <guid>//localhost:1313/collection/data-i/</guid>
+      <guid>/collection/data-i/</guid>
       <description>&lt;no value&gt;</description>
       <content:encoded>
         
@@ -793,11 +793,11 @@ plt.show()
         
         
         
-        <![CDATA[<img src="//localhost:1313/collection/data-i/index_files/figure-html/pressure-1_hu551e44aaad0f85d1b1faaefdcf0f3ad0_9907_640x0_resize_box_2.png" width="640" height="457"/>]]>
+        <![CDATA[<img src="/collection/data-i/index_files/figure-html/pressure-1_hu551e44aaad0f85d1b1faaefdcf0f3ad0_9907_640x0_resize_box_2.png" width="640" height="457"/>]]>
         
         
         
-&lt;link rel=&#34;stylesheet&#34; href=&#34;//localhost:1313/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;/css/hugo-easy-gallery.css&#34; /&gt;
 &lt;div class=&#34;box&#34; &gt;
   &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
     &lt;div class=&#34;img&#34;&gt;
@@ -819,17 +819,17 @@ plt.show()
         
         
         
-        <enclosure url="//localhost:1313/collection/data-i/index_files/figure-html/pressure-1_hu551e44aaad0f85d1b1faaefdcf0f3ad0_9907_640x0_resize_box_2.png" type="image/jpg" />
+        <enclosure url="/collection/data-i/index_files/figure-html/pressure-1_hu551e44aaad0f85d1b1faaefdcf0f3ad0_9907_640x0_resize_box_2.png" type="image/jpg" />
       
       
     </item>
     
     <item>
       <title>GME - How to Stop the Game</title>
-      <link>//localhost:1313/collection/gme/</link>
+      <link>/collection/gme/</link>
       <pubDate>Tue, 26 Jan 2021 00:00:00 +0000</pubDate>
       <author>me@estebanvalencia.com (Esteban Valencia)</author>
-      <guid>//localhost:1313/collection/gme/</guid>
+      <guid>/collection/gme/</guid>
       <description>&lt;no value&gt;</description>
       <content:encoded>
         
@@ -909,10 +909,10 @@ I mean, Keith Gill (aka theRoaringKitty) seems to like the stock which can give 
     
     <item>
       <title>Write. Everyday.</title>
-      <link>//localhost:1313/collection/write-everyday/</link>
+      <link>/collection/write-everyday/</link>
       <pubDate>Sat, 05 Dec 2020 00:00:00 +0000</pubDate>
       <author>me@estebanvalencia.com (Esteban Valencia)</author>
-      <guid>//localhost:1313/collection/write-everyday/</guid>
+      <guid>/collection/write-everyday/</guid>
       <description>&lt;no value&gt;</description>
       <content:encoded>
         
@@ -923,7 +923,7 @@ I mean, Keith Gill (aka theRoaringKitty) seems to like the stock which can give 
         &lt;h1 id=&#34;write-it-down&#34;&gt;Write it down&lt;/h1&gt;
 &lt;p&gt;This isn&amp;rsquo;t a suggestion, but a need to be able to manage thoughts, plans and work. There&amp;rsquo;s often a misconception we have that we are able to remember what we need to do or wish to accomplish because it&amp;rsquo;s in our mind and we will remember it well enough to do and accomplish it.  If reading the previous sentence bothered you, you&amp;rsquo;re already moving in the &amp;lsquo;write&amp;rsquo; direction.&lt;/p&gt;
 
-&lt;link rel=&#34;stylesheet&#34; href=&#34;//localhost:1313/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;/css/hugo-easy-gallery.css&#34; /&gt;
 &lt;div class=&#34;box&#34; &gt;
   &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
     &lt;div class=&#34;img&#34;&gt;
@@ -995,10 +995,10 @@ I mean, Keith Gill (aka theRoaringKitty) seems to like the stock which can give 
     
     <item>
       <title>Inflation: Our Modern Economy</title>
-      <link>//localhost:1313/collection/finance-i/</link>
+      <link>/collection/finance-i/</link>
       <pubDate>Fri, 04 Dec 2020 00:00:00 +0000</pubDate>
       <author>me@estebanvalencia.com (Esteban Valencia)</author>
-      <guid>//localhost:1313/collection/finance-i/</guid>
+      <guid>/collection/finance-i/</guid>
       <description>&lt;no value&gt;</description>
       <content:encoded>
         
@@ -1006,11 +1006,11 @@ I mean, Keith Gill (aka theRoaringKitty) seems to like the stock which can give 
         
         
         
-        <![CDATA[<img src="//localhost:1313/collection/finance-i/spx-2020_hu767b5db958935f4c40178eb91fb92c89_85835_640x0_resize_box_2.PNG" width="640" height="337"/>]]>
+        <![CDATA[<img src="/collection/finance-i/spx-2020_hu767b5db958935f4c40178eb91fb92c89_85835_640x0_resize_box_2.PNG" width="640" height="337"/>]]>
         
         
         
-&lt;link rel=&#34;stylesheet&#34; href=&#34;//localhost:1313/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;/css/hugo-easy-gallery.css&#34; /&gt;
 &lt;div class=&#34;box&#34; style=&#34;max-width:1200px&#34;&gt;
   &lt;figure class=&#34;img&#34; itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
     &lt;div class=&#34;img&#34;&gt;
@@ -1120,17 +1120,17 @@ new TradingView.widget({
         
         
         
-        <enclosure url="//localhost:1313/collection/finance-i/spx-2020_hu767b5db958935f4c40178eb91fb92c89_85835_640x0_resize_box_2.PNG" type="image/jpg" />
+        <enclosure url="/collection/finance-i/spx-2020_hu767b5db958935f4c40178eb91fb92c89_85835_640x0_resize_box_2.PNG" type="image/jpg" />
       
       
     </item>
     
     <item>
       <title>How to Break Up With: TV</title>
-      <link>//localhost:1313/collection/breaking-up-tv/</link>
+      <link>/collection/breaking-up-tv/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
       <author>me@estebanvalencia.com (Esteban Valencia)</author>
-      <guid>//localhost:1313/collection/breaking-up-tv/</guid>
+      <guid>/collection/breaking-up-tv/</guid>
       <description>&lt;no value&gt;</description>
       <content:encoded>
         
@@ -1139,7 +1139,7 @@ new TradingView.widget({
         
         
         
-&lt;link rel=&#34;stylesheet&#34; href=&#34;//localhost:1313/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;/css/hugo-easy-gallery.css&#34; /&gt;
 &lt;div class=&#34;box&#34; &gt;
   &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
     &lt;div class=&#34;img&#34;&gt;
@@ -1308,10 +1308,10 @@ with TV controlling my mind.📺&lt;/p&gt;
     
     <item>
       <title>Frank Ocean</title>
-      <link>//localhost:1313/collection/frank-ocean/</link>
+      <link>/collection/frank-ocean/</link>
       <pubDate>Mon, 30 Nov 2020 00:00:00 +0000</pubDate>
       <author>me@estebanvalencia.com (Esteban Valencia)</author>
-      <guid>//localhost:1313/collection/frank-ocean/</guid>
+      <guid>/collection/frank-ocean/</guid>
       <description>&lt;no value&gt;</description>
       <content:encoded>
         
@@ -1319,17 +1319,17 @@ with TV controlling my mind.📺&lt;/p&gt;
         
         
         
-        <![CDATA[<img src="//localhost:1313/collection/frank-ocean/juice-never-dies_hua310ed4e2f9d36aaa0e9b47360393af3_123342_640x0_resize_q75_box.jpg" width="640" height="801"/>]]>
+        <![CDATA[<img src="/collection/frank-ocean/juice-never-dies_hua310ed4e2f9d36aaa0e9b47360393af3_123342_640x0_resize_q75_box.jpg" width="640" height="801"/>]]>
         
         
         
-&lt;link rel=&#34;stylesheet&#34; href=&#34;//localhost:1313/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;/css/hugo-easy-gallery.css&#34; /&gt;
 &lt;div class=&#34;box&#34; &gt;
   &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
     &lt;div class=&#34;img&#34;&gt;
-      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;//localhost:1313/collection/frank-ocean/stairs.png&#34; /&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;/collection/frank-ocean/stairs.png&#34; /&gt;
     &lt;/div&gt;
-    &lt;a href=&#34;//localhost:1313/collection/frank-ocean/stairs.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+    &lt;a href=&#34;/collection/frank-ocean/stairs.png&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
   &lt;/figure&gt;
 &lt;/div&gt;
 &lt;h1 id=&#34;el-chapo-de-facto&#34;&gt;El Chapo, de facto&lt;/h1&gt;
@@ -1452,17 +1452,17 @@ Bet you wish you was me&lt;br&gt;
         
         
         
-        <enclosure url="//localhost:1313/collection/frank-ocean/juice-never-dies_hua310ed4e2f9d36aaa0e9b47360393af3_123342_640x0_resize_q75_box.jpg" type="image/jpg" />
+        <enclosure url="/collection/frank-ocean/juice-never-dies_hua310ed4e2f9d36aaa0e9b47360393af3_123342_640x0_resize_q75_box.jpg" type="image/jpg" />
       
       
     </item>
     
     <item>
       <title>Juice WRLD</title>
-      <link>//localhost:1313/collection/juice-wrld/</link>
+      <link>/collection/juice-wrld/</link>
       <pubDate>Sun, 22 Nov 2020 00:00:00 +0000</pubDate>
       <author>me@estebanvalencia.com (Esteban Valencia)</author>
-      <guid>//localhost:1313/collection/juice-wrld/</guid>
+      <guid>/collection/juice-wrld/</guid>
       <description>&lt;no value&gt;</description>
       <content:encoded>
         
@@ -1470,7 +1470,7 @@ Bet you wish you was me&lt;br&gt;
         
         
         
-        <![CDATA[<img src="//localhost:1313/collection/juice-wrld/juice-never-dies_hua310ed4e2f9d36aaa0e9b47360393af3_123342_640x0_resize_q75_box.jpg" width="640" height="801"/>]]>
+        <![CDATA[<img src="/collection/juice-wrld/juice-never-dies_hua310ed4e2f9d36aaa0e9b47360393af3_123342_640x0_resize_q75_box.jpg" width="640" height="801"/>]]>
         
         
         &lt;p&gt;&lt;img src=&#34;juice-never-dies.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
@@ -1489,7 +1489,7 @@ Bet you wish you was me&lt;br&gt;
 &lt;p&gt;The tragedy here lies more in relying on drugs to enjoy each and every moment of your travesties and  success which can plague young and old artists alike. Before leaving earth, Juice WRLD managed to leave memorable music behind encompassing his drug-fueled and vibrant energy.&lt;/p&gt;
 &lt;h1 id=&#34;goodbye--good-riddance&#34;&gt;Goodbye &amp;amp; Good Riddance&lt;/h1&gt;
 
-&lt;link rel=&#34;stylesheet&#34; href=&#34;//localhost:1313/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;/css/hugo-easy-gallery.css&#34; /&gt;
 &lt;div class=&#34;box&#34; style=&#34;max-width:800px&#34;&gt;
   &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
     &lt;div class=&#34;img&#34;&gt;
@@ -1601,17 +1601,17 @@ Takin&#39; all these meds to the face got me dying&lt;/em&gt;&lt;br&gt;
         
         
         
-        <enclosure url="//localhost:1313/collection/juice-wrld/juice-never-dies_hua310ed4e2f9d36aaa0e9b47360393af3_123342_640x0_resize_q75_box.jpg" type="image/jpg" />
+        <enclosure url="/collection/juice-wrld/juice-never-dies_hua310ed4e2f9d36aaa0e9b47360393af3_123342_640x0_resize_q75_box.jpg" type="image/jpg" />
       
       
     </item>
     
     <item>
       <title>A Case for Alternative Search</title>
-      <link>//localhost:1313/collection/alt-search/</link>
+      <link>/collection/alt-search/</link>
       <pubDate>Wed, 18 Nov 2020 00:00:00 +0000</pubDate>
       <author>me@estebanvalencia.com (Esteban Valencia)</author>
-      <guid>//localhost:1313/collection/alt-search/</guid>
+      <guid>/collection/alt-search/</guid>
       <description>&lt;no value&gt;</description>
       <content:encoded>
         
@@ -1619,7 +1619,7 @@ Takin&#39; all these meds to the face got me dying&lt;/em&gt;&lt;br&gt;
         
         
         
-        <![CDATA[<img src="//localhost:1313/collection/alt-search/google-revenue_hu8779dcdcfc85e68a659c4c34cfc49295_71199_640x0_resize_box_2.PNG" width="640" height="391"/>]]>
+        <![CDATA[<img src="/collection/alt-search/google-revenue_hu8779dcdcfc85e68a659c4c34cfc49295_71199_640x0_resize_box_2.PNG" width="640" height="391"/>]]>
         
         
         &lt;p&gt;What was once seen as a harmless way of learning and gathering information has quickly evolved into a universal source of truth underlying an advertising platform.&lt;/p&gt;
@@ -1670,17 +1670,17 @@ Takin&#39; all these meds to the face got me dying&lt;/em&gt;&lt;br&gt;
         
         
         
-        <enclosure url="//localhost:1313/collection/alt-search/google-revenue_hu8779dcdcfc85e68a659c4c34cfc49295_71199_640x0_resize_box_2.PNG" type="image/jpg" />
+        <enclosure url="/collection/alt-search/google-revenue_hu8779dcdcfc85e68a659c4c34cfc49295_71199_640x0_resize_box_2.PNG" type="image/jpg" />
       
       
     </item>
     
     <item>
       <title>High Performance Websites</title>
-      <link>//localhost:1313/collection/web-performance/</link>
+      <link>/collection/web-performance/</link>
       <pubDate>Sat, 14 Nov 2020 00:00:00 +0000</pubDate>
       <author>me@estebanvalencia.com (Esteban Valencia)</author>
-      <guid>//localhost:1313/collection/web-performance/</guid>
+      <guid>/collection/web-performance/</guid>
       <description>&lt;no value&gt;</description>
       <content:encoded>
         
@@ -1688,7 +1688,7 @@ Takin&#39; all these meds to the face got me dying&lt;/em&gt;&lt;br&gt;
         
         
         
-        <![CDATA[<img src="//localhost:1313/collection/web-performance/estebanvalencia_hua13ff5a26cf97eed80c11e4297fc6ab2_23705_640x0_resize_box_2.PNG" width="640" height="635"/>]]>
+        <![CDATA[<img src="/collection/web-performance/estebanvalencia_hua13ff5a26cf97eed80c11e4297fc6ab2_23705_640x0_resize_box_2.PNG" width="640" height="635"/>]]>
         
         
         &lt;h1 id=&#34;google-the-internet-overlord&#34;&gt;Google, the internet overlord&lt;/h1&gt;
@@ -1752,17 +1752,17 @@ Takin&#39; all these meds to the face got me dying&lt;/em&gt;&lt;br&gt;
         
         
         
-        <enclosure url="//localhost:1313/collection/web-performance/estebanvalencia_hua13ff5a26cf97eed80c11e4297fc6ab2_23705_640x0_resize_box_2.PNG" type="image/jpg" />
+        <enclosure url="/collection/web-performance/estebanvalencia_hua13ff5a26cf97eed80c11e4297fc6ab2_23705_640x0_resize_box_2.PNG" type="image/jpg" />
       
       
     </item>
     
     <item>
       <title>Travis Scott</title>
-      <link>//localhost:1313/collection/travis-scott/</link>
+      <link>/collection/travis-scott/</link>
       <pubDate>Fri, 13 Nov 2020 00:00:00 +0000</pubDate>
       <author>me@estebanvalencia.com (Esteban Valencia)</author>
-      <guid>//localhost:1313/collection/travis-scott/</guid>
+      <guid>/collection/travis-scott/</guid>
       <description>&lt;no value&gt;</description>
       <content:encoded>
         
@@ -1778,7 +1778,7 @@ Takin&#39; all these meds to the face got me dying&lt;/em&gt;&lt;br&gt;
 
 &lt;h1 id=&#34;singles&#34;&gt;Singles&lt;/h1&gt;
 
-&lt;link rel=&#34;stylesheet&#34; href=&#34;//localhost:1313/css/hugo-easy-gallery.css&#34; /&gt;
+&lt;link rel=&#34;stylesheet&#34; href=&#34;/css/hugo-easy-gallery.css&#34; /&gt;
 &lt;div class=&#34;box&#34; style=&#34;max-width:800px&#34;&gt;
   &lt;figure class=&#34;img&#34; itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
     &lt;div class=&#34;img&#34;&gt;
@@ -1853,7 +1853,7 @@ Fuckin&#39; up my room, I&amp;rsquo;ve been rackin&#39; up incidentals&lt;/em&gt
 &lt;div class=&#34;box&#34; style=&#34;max-width:800px&#34;&gt;
   &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
     &lt;div class=&#34;img&#34;&gt;
-      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;//localhost:1313/travis-scott/astro&amp;#43;update&amp;#43;final&amp;#43;2.jpg&#34; /&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;/travis-scott/astro&amp;#43;update&amp;#43;final&amp;#43;2.jpg&#34; /&gt;
     &lt;/div&gt;
     &lt;a href=&#34;travis-scott/astro&amp;#43;update&amp;#43;final&amp;#43;2.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
       &lt;figcaption&gt;&lt;h4&gt;Seeing flashes?  oh, no no, that&#39;s my neck 💎 &lt;/h4&gt;
@@ -1889,10 +1889,10 @@ We ain&amp;rsquo;t gone play the steel, why you tryna fuck the flex, yeah&lt;/em
     
     <item>
       <title>Collectivists and Individuals</title>
-      <link>//localhost:1313/collection/collectivists-individuals/</link>
+      <link>/collection/collectivists-individuals/</link>
       <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
       <author>me@estebanvalencia.com (Esteban Valencia)</author>
-      <guid>//localhost:1313/collection/collectivists-individuals/</guid>
+      <guid>/collection/collectivists-individuals/</guid>
       <description>&lt;no value&gt;</description>
       <content:encoded>
         
@@ -1944,10 +1944,10 @@ We ain&amp;rsquo;t gone play the steel, why you tryna fuck the flex, yeah&lt;/em
     
     <item>
       <title>News - The Fourth Branch</title>
-      <link>//localhost:1313/collection/religion-government/</link>
+      <link>/collection/religion-government/</link>
       <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
       <author>me@estebanvalencia.com (Esteban Valencia)</author>
-      <guid>//localhost:1313/collection/religion-government/</guid>
+      <guid>/collection/religion-government/</guid>
       <description>&lt;no value&gt;</description>
       <content:encoded>
         
@@ -1992,10 +1992,10 @@ We ain&amp;rsquo;t gone play the steel, why you tryna fuck the flex, yeah&lt;/em
     
     <item>
       <title>News - The Fourth Branch</title>
-      <link>//localhost:1313/collection/the-news/</link>
+      <link>/collection/the-news/</link>
       <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
       <author>me@estebanvalencia.com (Esteban Valencia)</author>
-      <guid>//localhost:1313/collection/the-news/</guid>
+      <guid>/collection/the-news/</guid>
       <description>&lt;no value&gt;</description>
       <content:encoded>
         
@@ -2040,10 +2040,10 @@ We ain&amp;rsquo;t gone play the steel, why you tryna fuck the flex, yeah&lt;/em
     
     <item>
       <title></title>
-      <link>//localhost:1313/collection/i-cry/</link>
+      <link>/collection/i-cry/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <author>me@estebanvalencia.com (Esteban Valencia)</author>
-      <guid>//localhost:1313/collection/i-cry/</guid>
+      <guid>/collection/i-cry/</guid>
       <description>&lt;no value&gt;</description>
       <content:encoded>
         
