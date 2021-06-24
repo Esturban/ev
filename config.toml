@@ -2,7 +2,7 @@ baseurl = "/"
 title = "estebanvalencia.com"
 googleAnalytics = "UA-81176691-3"
 
-theme = "hugo-theme-console"
+theme = "ev-console"
 enableEmoji = true
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "index\\.html", "about\\.html", "static/blog/\\*_files/", "README","\\.knit\\.md$", "\\.utf8\\.md$"] 
 ignoreErrors = ["error-remote-getjson"]
@@ -56,6 +56,10 @@ name = "me/"
 url = "me/"
 
 [[params.navlinks]]
+name = "books/"
+url = "books/"
+
+[[params.navlinks]]
 name = "collection/"
 url = "collection/"
   
@@ -64,9 +68,9 @@ name = "photos/"
 url = "photos/"
   
 [[params.plugins.css]]
-URL = "hugo-theme-console/css/terminal-0.7.1.min.css"
+URL = "ev-console/css/terminal-0.7.1.min.css"
 [[params.plugins.css]]
-URL = "hugo-theme-console/css/animate-3.7.2.min.css"
+URL = "ev-console/css/animate-3.7.2.min.css"
 [[params.plugins.css]]
 URL = "hugo-theme-console/css/console.css"
 [[params.plugins.css]]
