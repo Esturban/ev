@@ -156,3 +156,8 @@ figcaption styles
 figcaption p {
     margin: auto; /* override style in theme */
 }
+
+div.box > figure, div.box > figure > div{
+    margin:0px;
+    padding: 0px;   
+}

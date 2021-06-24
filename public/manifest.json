@@ -30,7 +30,6 @@
   ],
   "start_url": "http://estebanvalencia.com",
   "display": "standalone",
-  "orientation": "portrait",
   "background_color": "#FFFFFF",
   "theme_color": "#FFFFFF"
 }
