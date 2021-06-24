@@ -1,6 +1,6 @@
 [build]
 publish = "public"
-command = "cd themes/ev-console && git submodule update -f --init && cd ../.. && hugo --minify"
+command = "cd themes/ev-console && git submodule update -f --init && cd ../.. && hugo"
 
 [context.production.environment]
 HUGO_VERSION = "0.80.0"
@@ -8,20 +8,20 @@ HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
 
 [context.split1]
-command = "cd themes/ev-console && git submodule update -f --init && cd ../.. && hugo  --minify --enableGitInfo"
+command = "cd themes/ev-console && git submodule update -f --init && cd ../.. && hugo --enableGitInfo"
 
 [context.split1.environment]
 HUGO_VERSION = "0.80.0"
 HUGO_ENV = "production"
 
 [context.deploy-preview]
-command = "cd themes/ev-console && git submodule update -f --init && cd ../.. && hugo  --minify --buildFuture -b $DEPLOY_PRIME_URL"
+command = "cd themes/ev-console && git submodule update -f --init && cd ../.. && hugo --buildFuture -b $DEPLOY_PRIME_URL"
 
 [context.deploy-preview.environment]
 HUGO_VERSION = "0.80.0"
 
 [context.branch-deploy]
-command = "cd themes/ev-console && git submodule update -f --init && cd ../.. && hugo --minify -b $DEPLOY_PRIME_URL"
+command = "cd themes/ev-console && git submodule update -f --init && cd ../.. && hugo -b $DEPLOY_PRIME_URL"
 
 [context.branch-deploy.environment]
 HUGO_VERSION = "0.80.0"
