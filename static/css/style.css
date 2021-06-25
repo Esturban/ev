@@ -54,6 +54,7 @@ pill{padding-right:.6em;padding-left:.6em;border-radius:10rem}
     -moz-box-flex: 1;
     -webkit-box-flex: 1;
     -ms-flex-positive: 1;
+    padding: 0 0 0 0;
     flex-grow: 1;
   float:left;
   width:30%;
