@@ -4,6 +4,7 @@
 {{ $classText := .Get "classText" | default "col-sm-l" }}
 {{ $description := .Get "description" | default "" }}
 {{ $width := .Get "width" | default "100%" }}
+{{ $height := .Get "height" | default "80%" }}
 <!-- use either src or link-thumb for thumbnail image -->
 {{- $thumb := .Get "src" | default (printf "%s." (.Get "thumb") | replace (.Get "link") ".") }}
 <div class = "row">
