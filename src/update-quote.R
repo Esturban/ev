@@ -12,7 +12,7 @@ quotes<-jsonlite::fromJSON("data/quotes.json")
 #Get new quotes
 new_quote<-sample(quotes,1)
 # update footer
-new_footer<-paste0(footert[1]," = \"",new_quote,"\"")
+new_footer<-paste0(footert[1]," = \"",new_quote,"\n Last Build: ",format(Sys.time(),"%A %B %d, %Y at %I:%M %p (Eastern Time)",tz = "EST"),"\"")
 #Add footer to config file
 config_file[footer_loc]<-new_footer
 #Save the config file

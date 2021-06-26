@@ -35,11 +35,9 @@ jobs:
 
       - uses: r-lib/actions/setup-pandoc@master
 
-      - name: Query dependencies
+      - name: Install dependencies and update config.toml
         run: |
-          install.packages('remotes')
-          install.packages('sessioninfo')
-          install.packages('jsonlite')
+          install.packages(c('remotes','sessioninfo','jsonlite'))
           #saveRDS(remotes::dev_package_deps(dependencies = TRUE), ".github/depends.Rds", version = 2)
           #writeLines(sprintf("R-%i.%i", getRversion()$major, getRversion()$minor), ".github/R-version")
         shell: Rscript {0}
