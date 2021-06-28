@@ -26,8 +26,8 @@ languageCode = "en-us"
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən"
-  footerText  = "*“Anybody can become angry - that is easy, but to be angry with the right person and to the right degree and at the right time and for the right purpose, and in the right way - that is not within everybody's power and is not easy.”* - Aristotle"
-  buildText  = "Last Build: Monday June 28, 2021 at 10:35 AM (Eastern Time)"
+  footerText   = "*“It is strange to be known so universally and yet to be so lonely.”* - Albert Einstein"
+  buildText   = "Last Build: Monday June 28, 2021 at 11:08 AM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
