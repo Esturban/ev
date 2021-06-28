@@ -6,10 +6,13 @@ on:
     - dev
   schedule:
     - cron: "0 * * * *"
-    
-steps:
-  - name: Approve Pull Request
-    uses: juliangruber/approve-pull-request-action@v1
-    with:
-      github-token: ${{ secrets.GITHUB_TOKEN }}
-      number: 1
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Approve Pull Request
+        uses: juliangruber/approve-pull-request-action@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          number: 1
