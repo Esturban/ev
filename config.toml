@@ -26,8 +26,13 @@ languageCode = "en-us"
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən"
+<<<<<<< HEAD
   footerText       = "*“We all know that Art is not truth. Art is a lie that makes us realize the truth, at least the truth that is given to us to understand.”* - Pablo Picasso"
   buildText       = "Last Build: Monday June 28, 2021 at 01:50 PM (Eastern Time)"
+=======
+  footerText                            = "*“The spirit of resistance to government is so valuable on certain occasions that I wish it to be always kept alive.”* - Thomas Jefferson"
+  buildText                            = "Last Build: Tuesday June 29, 2021 at 11:07 AM (Eastern Time)"
+>>>>>>> e68c5efa150b81850b55a89a7a6eaa03a80fffb7
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
