@@ -1,9 +1,6 @@
 name: 'DEV Deploy'
 
 on:
-  push:
-    branches:
-      - dev
   schedule:
     - cron: "0 * * * *"
 
