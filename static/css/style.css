@@ -68,12 +68,29 @@ pill{padding-right:.6em;padding-left:.6em;border-radius:10rem}
     -webkit-box-flex: 1;
     -ms-flex-positive: 1;
     vertical-align: top;
-    padding: 10px;
-    width: 130px;
-    height: 130px;
+    width: 200px;
+    height: 200px;
     margin-right: .5em;
     margin-bottom: .3em;
  
+}
+
+div.row > a > div{
+  height: 100%;
+    overflow: hidden;
+    position: relative;
+  
+  img{
+    display: block;
+    min-width: 100%;
+    min-height: 100%;
+    margin: auto;
+    position: absolute;
+    top: -100%;
+    right: -100%;
+    bottom: -100%;
+    left: -100%;
+}
 }
 
 .col-sm-r {
@@ -96,9 +113,8 @@ pill{padding-right:.6em;padding-left:.6em;border-radius:10rem}
     -ms-flex-positive: 1;
     flex-grow: 1;
     width:69%;
-    float:right;
-    text-align: center;
-  
+  float:right;
+  text-align:center;
 }
 
 body > div > trends-widget > ng-include > widget > div{ 
