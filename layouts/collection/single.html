@@ -21,7 +21,7 @@
 {{ $readTime := mul (div (countwords .Content) 220.0) 60 }}
 <p>Read time: {{ math.Floor (div $readTime 60) }} minutes and
     {{ mod $readTime 60 }} seconds.</p>
-{{"<!-- layouts/blog/single.html --><!-- ... -->" | safeHTML }}
+{{"<!-- layouts/collection/single.html --><!-- ... -->" | safeHTML }}
 tags: {{ partial "tags.html" .}}
 {{ with .Params.linkedin }}
     // <a href="{{ . }}">Linkedin</a>

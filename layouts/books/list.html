@@ -1,0 +1,49 @@
+{{ define "main" }}
+<html lang="{{ .Site.LanguageCode }}">
+<head>
+    {{- partial "head.html" . -}}
+    {{ `
+      <!--[if lt IE 9]>
+          <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+          <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+      <![endif]-->
+    ` | safeHTML }}
+
+    {{- partial "favicon.html" . -}}
+    {{ with .OutputFormats.Get "RSS" }}
+      {{ printf `<link href="%s" rel="%s" type="%s" title="%s" />` .Permalink .Rel .MediaType.Type $.Site.Title | safeHTML }}
+    {{ end }}
+    {{- partial "opengraph.html" . -}}
+    {{ template "_internal/twitter_cards.html" . }}
+    {{ template "_internal/google_analytics.html" . }}
+</head>
+<h1>{{- .Page.Title -}}</h1>
+<br/>
+{{- .Content -}}
+
+<div class = "row">
+{{ range sort .Data.Pages "Date" "desc" }}
+    {{ if not .Params.draft }}
+    <!-- use either src or link-thumb for thumbnail image -->
+    {{ $width := .Params.width | default "100%" }}
+    {{ $height := .Params.height | default "80%" }}
+    {{- $thumb := .Params.href | default (printf "%s." (.Params.thumb) | replace (.Params.link) ".") }}
+
+<h1><a href="{{ .Params.AA }}" title="{{ .Title }}">{{- .Title -}}</a></h1>
+{{ partial "tags.html" .}}
+<a target="_blank"  href="{{.Params.AA}}" class="{{.Params.ClassImg}}" >
+<div {{ if .Parent }} style="background-image: url('{{ $thumb | relURL }}') 50% 50% no-repeat;"{{ end }}{{ with .Params.Size }} data-size="{{.}}"{{ end }}>
+      <img itemprop="thumbnail" src="{{ $thumb | relURL }}" style = "border-radius: 15px; height: 100%; overflow: hidden; position: relative;" {{ with .Params.Alt | default (.Params.Caption) }}alt="{{.}}"{{ end }} border = "0"/>
+    </div>
+          <figcaption>
+        {{- if or (.Params.Caption) (.Params.Attr) | emojify }}
+          <p> {{- .Params.Caption | emojify -}} </p>
+        {{- end }}
+      </figcaption>
+</a>
+<p class="{{.Params.ClassText}}"> {{ .Description | markdownify | emojify }}</p>
+    {{ end }}
+{{ end }}
+</div>
+</html>
+{{ end }}
