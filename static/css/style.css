@@ -59,6 +59,23 @@ pill{padding-right:.6em;padding-left:.6em;border-radius:10rem}
   float:left;
   width:30%;
 }
+
+.col-sm-l-book {
+    -ms-flex-preferred-size: 0;
+    flex-basis: 0;
+    -ms-box-flex: 1;
+    -moz-box-flex: 1;
+    -webkit-box-flex: 1;
+    -ms-flex-positive: 1;
+    vertical-align: top;
+    padding: 10px;
+    width: 130px;
+    height: 130px;
+    margin-right: .5em;
+    margin-bottom: .3em;
+ 
+}
+
 .col-sm-r {
     -ms-flex-preferred-size: 0;
     flex-basis: 0;
@@ -69,6 +86,19 @@ pill{padding-right:.6em;padding-left:.6em;border-radius:10rem}
     flex-grow: 1;
     width:69%;
   float:right;
+}
+.col-sm-r-book {
+    -ms-flex-preferred-size: 0;
+    flex-basis: 0;
+    -ms-box-flex: 1;
+    -moz-box-flex: 1;
+    -webkit-box-flex: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    width:69%;
+    float:right;
+    text-align: center;
+  
 }
 
 body > div > trends-widget > ng-include > widget > div{ 
