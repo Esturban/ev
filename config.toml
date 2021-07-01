@@ -26,8 +26,8 @@ languageCode = "en-us"
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən"
-  footerText                 = "*“History is a set of lies agreed upon.”* - Napoleon Bonaparte"
-  buildText                 = "Last Build: Tuesday June 29, 2021 at 09:55 PM (Eastern Time)"
+  footerText                  = "*“Let us beware of saying that death is the opposite of life. The living being is only a species of the dead, and a very rare species.”* - Friedrich Nietzsche"
+  buildText                  = "Last Build: Wednesday June 30, 2021 at 08:55 PM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
