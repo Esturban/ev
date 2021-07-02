@@ -1,3 +1,5 @@
+name: 'PR - Master'
+
 on:
   push:
     branches:

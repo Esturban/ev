@@ -1,4 +1,4 @@
-name: 'DEV Deploy'
+name: 'Quote Update - Dev'
 
 on:
   schedule:
