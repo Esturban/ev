@@ -1,6 +1,9 @@
 name: 'Quote Update - Dev'
 
 on:
+  push:
+    branches:
+    - dev  # Support wildcard matching
   schedule:
     - cron: "0 0 * * *"
 
