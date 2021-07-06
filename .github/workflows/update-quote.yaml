@@ -1,6 +1,9 @@
 name: 'Quote Update - Dev'
 
 on:
+  push:
+    branches:
+    - dev  # Support wildcard matching
   schedule:
     - cron: "0 0 * * *"
 
@@ -20,7 +23,6 @@ jobs:
       R_REMOTES_NO_ERRORS_FROM_WARNINGS: true
       RSPM: ${{ matrix.config.rspm }}
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
-    if: github.ref == 'dev'
     steps:
       - uses: actions/checkout@v2
 
@@ -60,7 +62,7 @@ jobs:
           git config user.name "${GITHUB_ACTOR}"
           git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
           git add --all
-          git commit -am "Quote Update"
+          git commit -am "Quote Update" -m "${GITHUB_REF}"
           git push
 
       - name: Session info
