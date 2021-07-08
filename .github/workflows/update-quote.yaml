@@ -2,11 +2,13 @@ name: 'Quote Update - Dev'
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "1 50 * * *"
 
 jobs:
   generate-data:
     if: endsWith(github.ref, '/dev')
+    with:
+       ref: dev
     runs-on: ${{ matrix.config.os }}
 
     name: ${{ matrix.config.os }}(${{ matrix.config.r }})
