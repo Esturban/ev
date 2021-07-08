@@ -2,7 +2,7 @@ name: 'Quote Update - Dev'
 
 on:
   schedule:
-    - cron: "1 53 * * *"
+    - cron: "53 1 * * *"
 
 jobs:
   generate-data:
