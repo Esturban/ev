@@ -2,7 +2,7 @@ name: 'Quote Update - Dev'
 
 on:
   schedule:
-    - cron: "0 57 * * *"
+    - cron: "0 59 * * *"
 
 jobs:
   generate-data:
@@ -23,8 +23,8 @@ jobs:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
     steps:
      - uses: actions/checkout@v2
-     with:
-        ref: refs/heads/dev
+        with:
+          ref: refs/heads/dev
      - uses: r-lib/actions/setup-r@master
         with:
           r-version: ${{ matrix.config.r }}
