@@ -23,10 +23,9 @@ jobs:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
     steps:
      - uses: actions/checkout@v2
-    with:
+     with:
         ref: refs/heads/dev
-
-      - uses: r-lib/actions/setup-r@master
+     - uses: r-lib/actions/setup-r@master
         with:
           r-version: ${{ matrix.config.r }}
           http-user-agent: ${{ matrix.config.http-user-agent }}
