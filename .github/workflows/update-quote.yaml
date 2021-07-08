@@ -2,7 +2,7 @@ name: 'Quote Update - Dev'
 
 on:
   schedule:
-    - cron: "0 50 * * *"
+    - cron: "0 55 * * *"
 
 jobs:
   generate-data:
@@ -23,8 +23,8 @@ jobs:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
     steps:
       - uses: actions/checkout@v2
-	with:
-       	  ref: dev
+      with:
+        ref: dev
 
       - uses: r-lib/actions/setup-r@master
         with:
