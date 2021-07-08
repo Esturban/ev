@@ -7,8 +7,6 @@ on:
 jobs:
   generate-data:
     if: endsWith(github.ref, '/dev')
-    with:
-       ref: dev
     runs-on: ${{ matrix.config.os }}
 
     name: ${{ matrix.config.os }}(${{ matrix.config.r }})
@@ -25,6 +23,8 @@ jobs:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
     steps:
       - uses: actions/checkout@v2
+	with:
+       	  ref: dev
 
       - uses: r-lib/actions/setup-r@master
         with:
