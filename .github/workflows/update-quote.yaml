@@ -6,7 +6,6 @@ on:
 
 jobs:
   generate-data:
-    if: endsWith(github.ref, '/dev')
     runs-on: ${{ matrix.config.os }}
 
     name: ${{ matrix.config.os }}(${{ matrix.config.r }})
