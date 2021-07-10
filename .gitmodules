@@ -3,4 +3,4 @@
 	url = git@github.com:Esturban/content.git
 [submodule "themes/ev-console"]
 	path = themes/ev-console
-	url = https://github.com/Esturban/ev-console.git
+	url = git@github.com:Esturban/ev-console.git
