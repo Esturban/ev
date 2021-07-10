@@ -25,7 +25,9 @@
 {{ range sort .Data.Pages "Date" "desc" }}
     {{ if not .Params.draft }}
         <div class="post">
-            <div class="date">{{- .PublishDate.Format "Jan. 2, 2006" -}}</div>    
+            <div class="date">{{- .PublishDate.Format "Jan. 2, 2006" -}}
+            {{ partial "first-tag.html" .}}
+            </div>    
             <h1><a href="{{ .Permalink }}" title="{{ .Title }}">{{- .Title -}}</a></h1>
             {{- .Summary | emojify -}}&nbsp;-&nbsp;{{- $readTime := mul (div (countwords .Content) 220.0) 60 -}}
  {{- math.Floor (div $readTime 60) }} minutes and  {{  mod $readTime 60 }} seconds.
