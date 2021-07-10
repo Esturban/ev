@@ -1,0 +1,10 @@
+<!-- layouts/partials/tags.html -->
+{{ $taxonomy := "tags" }} {{ with .Param $taxonomy }}
+<ul class = "list-inline">
+   {{ range $tag := first 1 . }} {{ with $.Site.GetPage (printf "/%s/%s" $taxonomy $tag) -}}
+   <a href="{{ .Permalink }}"><li class = "pill list-inline-item">
+      {{ $tag | urlize | emojify }}
+   </li></a>
+   {{- end -}} {{- end -}}
+</ul>
+{{ end }}
