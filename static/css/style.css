@@ -31,8 +31,17 @@ figure > h4
 color: #ffffff;
 }
 
-pill{padding-right:.6em;padding-left:.6em;border-radius:10rem}
-.list-inline{padding-left:0;list-style:none}
+
+.pill{line-height: 24px;
+    min-width: 80px;
+    transition: all .3s;
+    text-align: center;
+    padding-right:.6em;
+    padding-left:.6em;
+    border-radius:10rem;
+    background-color: #D8F7FC;
+    box-shadow: 0 5px 20px 0 rgba(0,0,0,.2), 0 13px 24px -11px rgba(156,39,176,.6)}
+.list-inline{padding-left:0;list-style:none;}
 .list-inline-item{display:inline-block}
 .list-inline-item:not(:last-child)
 
