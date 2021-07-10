@@ -1,11 +1,14 @@
 name: 'Quote Update - Dev'
 
 on:
+  push:
+    branches:
+    - dev
   schedule:
     - cron: '30 2 * * *'
 
 jobs:
-  generate-data:
+  quote-generator:
     runs-on: ${{ matrix.config.os }}
 
     name: ${{ matrix.config.os }}(${{ matrix.config.r }})
