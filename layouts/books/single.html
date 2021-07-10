@@ -29,6 +29,9 @@ tags: {{ partial "tags.html" .}}
 {{ with .Params.twitter }}
     // <a href="{{ . }}">Twitter</a>
 {{ end }}
+<h1>A Review</h1>
+{{.Page.Description | markdownify | emojify }}  
+
 {{ .Content | emojify }}
 {{ template "_internal/disqus.html" . }}
 </html>
