@@ -20,8 +20,6 @@
 <h1>{{- .Page.Title -}}</h1>
 <br/>
 {{- .Content -}}
-{{partial "tags.html" .}}   
-
 <div class="posts-list">
 {{ range sort .Data.Pages "Date" "desc" }}
     {{ if not .Params.draft }}
