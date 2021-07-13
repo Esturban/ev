@@ -1,6 +1,6 @@
 <!--last-read-->
 <div class="row">
-<div  class = "col-sm" style = "text-align:left;"><h1><a  href = "books/">last-read</a></h1></div>
+<div  class = "col-sm" style = "text-align:left; padding-left:0px;"><h1><a  href = "books/">last-read</a></h1></div>
    {{ with .Site.GetPage "/books" }}
    {{ range first 4 (sort  .Data.Pages "Date" "desc" ) }}
       <div class="col-sm" >  
