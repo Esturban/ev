@@ -27,7 +27,19 @@
    {{ . | markdownify }} <a href="me/">(more)</a>
    {{end}} 
 </p></div>
-<br/>
+
+<div class="row">
+<div  class = "col-sm" style = "text-align:left;"><h1><a  href = "books/">last-read</a></h1></div>
+   {{ with .Site.GetPage "/books" }}
+   {{ range first 3 (sort  .Data.Pages "Date" "desc" ) }}
+      <div class="col-sm" >  
+      <div><h2 style = "margin-bottom:2px;"><a href="{{ .Params.AA }}" title="{{ .Title }}">{{ .Title }}</a></h2>{{ partial "first-tag.html" . }}</div>
+      </div>
+   {{ end }}
+   {{ end }}
+</div>
+
+
 <h1><a  href = "collection/">recently-added</a></h1>
 When I have a post or an archive, it'll appear here in the collection.  
 <div class="posts-list">
