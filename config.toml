@@ -26,8 +26,8 @@ languageCode = "en-us"
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən"
-  footerText                                              = "*“Men are only as good as their technical development allows them to be.”* - George Orwell"
-  buildText                                              = "Last Build: Tuesday July 20, 2021 at 10:02 AM (Eastern Time)"
+  footerText                                               = "*“Great hearts steadily send forth the secret forces that incessantly draw great events.”* - Ralph Waldo Emerson"
+  buildText                                               = "Last Build: Tuesday July 20, 2021 at 10:07 AM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
