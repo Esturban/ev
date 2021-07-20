@@ -58,7 +58,7 @@ jobs:
         source("src/update-quote.R")
        shell: Rscript {0} 
         
-     - name: Commit files
+     - name: Commit files   
        run: |
          git config user.name "${GITHUB_ACTOR}"
          git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
