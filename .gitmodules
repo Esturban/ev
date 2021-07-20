@@ -3,4 +3,5 @@
 	url = git@github.com:Esturban/ev-console.git
 [submodule "content"]
 	path = content
-	url = git@github.com:Esturban/content.git
+	url = git@github.com:Esturban/content.git                              
+  	ignore = dirty
