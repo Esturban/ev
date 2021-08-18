@@ -26,8 +26,8 @@ languageCode = "en-us"
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən"
-  footerText                                                                                    = "*“Know one knows whether death, which people fear to be the greatest evil, may not be the greatest good.”* - Plato"
-  buildText                                                                                    = "Last Build: Monday August 16, 2021 at 10:43 PM (Eastern Time)"
+  footerText                                                                                     = "*“The faults of a superior person are like the sun and moon. They have their faults, and everyone sees them they change and everyone looks up to them.”* - Confucius"
+  buildText                                                                                     = "Last Build: Tuesday August 17, 2021 at 10:43 PM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
