@@ -26,8 +26,8 @@ languageCode = "en-us"
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən"
-  footerText                                                                                                           = "*“Freedom is the freedom to say that two plus two make four. If that is granted, all else follows.”* - George Orwell"
-  buildText                                                                                                           = "Last Build: Sunday September 05, 2021 at 10:46 PM (Eastern Time)"
+  footerText                                                                                                            = "*“Pictures must not be too picturesque.”* - Ralph Waldo Emerson"
+  buildText                                                                                                            = "Last Build: Monday September 06, 2021 at 10:43 PM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
