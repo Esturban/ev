@@ -7,11 +7,10 @@
 
 ![stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)
 
-![github repo size](https://img.shields.io/github/repo-size/Esturban/ev)
-![github code size](https://img.shields.io/github/languages/code-size/Esturban/ev)
-
-![github languages](https://img.shields.io/github/languages/count/Esturban/ev)
-![top language](https://img.shields.io/github/languages/top/Esturban/ev)
+![GitHub repo file count](https://img.shields.io/github/directory-file-count/Esturban/ev?style=plastic)  
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Esturban/ev)   
+![github languages](https://img.shields.io/github/languages/count/Esturban/ev)  
+![top language](https://img.shields.io/github/languages/top/Esturban/ev)  
 
 
 Staging: [![Netlify Status](https://api.netlify.com/api/v1/badges/a089032c-3282-4cfe-8519-d9b855cd920a/deploy-status)](https://app.netlify.com/sites/confident-blackwell-ccd7ff/deploys)  
