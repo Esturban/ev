@@ -26,8 +26,8 @@ languageCode = "en-us"
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən"
-  footerText                                                                                                                    = "*“What is ominous is the ease with which some people go from saying that they don't like something to saying that the government should forbid it. When you go down that road, don't expect freedom to survive very long.”* - Thomas Sowell"
-  buildText                                                                                                                    = "Last Build: Monday September 13, 2021 at 07:30 PM (Eastern Time)"
+  footerText                                                                                                                     = "*“Nothing in the affairs of men is worthy of great anxiety.”* - Plato"
+  buildText                                                                                                                     = "Last Build: Monday September 13, 2021 at 07:37 PM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
