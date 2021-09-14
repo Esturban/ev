@@ -26,8 +26,8 @@ languageCode = "en-us"
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən"
-  footerText                                                                                                                       = "*“Every government degenerates when trusted to the rulers of the people alone. The people themselves are its only safe depositories.”* - Thomas Jefferson"
-  buildText                                                                                                                       = "Last Build: Monday September 13, 2021 at 10:44 PM (Eastern Time)"
+  footerText                                                                                                                        = "*“One must change one's tactics every ten years if one wishes to maintain one's superiority.”* - Napoleon Bonaparte"
+  buildText                                                                                                                        = "Last Build: Tuesday September 14, 2021 at 07:03 PM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
