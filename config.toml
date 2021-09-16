@@ -26,8 +26,8 @@ languageCode = "en-us"
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən"
-  footerText                                                                                                                          = "*“Perhaps I know best why it is man alone who laughs he alone suffers so deeply that he had to invent laughter.”* - Friedrich Nietzsche"
-  buildText                                                                                                                          = "Last Build: Tuesday September 14, 2021 at 07:30 PM (Eastern Time)"
+  footerText                                                                                                                             = "*“The doer alone learneth.”* - Friedrich Nietzsche"
+  buildText                                                                                                                             = "Last Build: Thursday September 16, 2021 at 01:05 PM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
