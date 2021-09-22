@@ -26,8 +26,8 @@ languageCode = "en-us"
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən"
-  footerText                                                                                                                                   = "*“The only real security that a man can have in this world is a reserve of knowledge, experience and ability.”* - Henry Ford"
-  buildText                                                                                                                                   = "Last Build: Tuesday September 21, 2021 at 08:00 PM (Eastern Time)"
+  footerText                                                                                                                                    = "*“I doubt whether classical education ever has been or can be successfully carried out without corporal punishment.”* - George Orwell"
+  buildText                                                                                                                                    = "Last Build: Tuesday September 21, 2021 at 08:02 PM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
