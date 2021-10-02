@@ -26,8 +26,8 @@ languageCode = "en-us"
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən"
-  footerText                                                                                                                                                  = "*“Question with boldness even the existence of a God because, if there be one, he must more approve of the homage of reason, than that of blind-folded fear.”* - Thomas Jefferson"
-  buildText                                                                                                                                                  = "Last Build: Thursday September 30, 2021 at 10:48 PM (Eastern Time)"
+  footerText                                                                                                                                                   = "*“The man of knowledge must be able not only to love his enemies but also to hate his friends.”* - Friedrich Nietzsche"
+  buildText                                                                                                                                                   = "Last Build: Friday October 01, 2021 at 10:46 PM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
