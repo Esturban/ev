@@ -26,8 +26,8 @@ languageCode = "en-us"
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən"
-  footerText                                                                                                                                                                    = "*“When the people fear the government, there is tyranny. When the government fears the people, there is liberty.”* - Thomas Jefferson"
-  buildText                                                                                                                                                                    = "Last Build: Sunday October 17, 2021 at 10:48 PM (Eastern Time)"
+  footerText                                                                                                                                                                     = "*“Suffering becomes beautiful when anyone bears great calamities with cheerfulness, not through insensibility but through greatness of mind.”* - Aristotle"
+  buildText                                                                                                                                                                     = "Last Build: Monday October 18, 2021 at 08:01 AM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
