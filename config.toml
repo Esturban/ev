@@ -26,8 +26,8 @@ languageCode = "en-us"
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən"
-  footerText                                                                                                                                                                                        = "*“In truth, politeness is artificial good humor, it covers the natural want of it, and ends by rendering habitual a substitute nearly equivalent to the real virtue.”* - Thomas Jefferson"
-  buildText                                                                                                                                                                                        = "Last Build: Thursday November 04, 2021 at 10:48 PM (Eastern Time)"
+  footerText                                                                                                                                                                                         = "*“We must not discriminate between things. Where things are concerned there are no class distinctions. We must pick out what is good for us where we can find it.”* - Pablo Picasso"
+  buildText                                                                                                                                                                                         = "Last Build: Friday November 05, 2021 at 10:47 PM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
