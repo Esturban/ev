@@ -26,8 +26,8 @@ languageCode = "en-us"
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən"
-  footerText                                                                                                                                                                                                 = "*“I'm bored with that line. I never use it anymore. My new line is 'In 15 minutes everybody will be famous.'”* - Andy Warhol"
-  buildText                                                                                                                                                                                                 = "Last Build: Friday November 12, 2021 at 09:47 PM (Eastern Time)"
+  footerText                                                                                                                                                                                                  = "*“Man has, as it were, become a kind of prosthetic God. When he puts on all his auxiliary organs, he is truly magnificent but those organs have not grown on him and they still give him much trouble at times.”* - Sigmund Freud"
+  buildText                                                                                                                                                                                                  = "Last Build: Saturday November 13, 2021 at 09:49 PM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
