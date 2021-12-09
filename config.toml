@@ -26,8 +26,8 @@ languageCode = "en-us"
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən"
-  footerText                                                                                                                                                                                                                          = "*“Courage is knowing what not to fear.”* - Plato"
-  buildText                                                                                                                                                                                                                          = "Last Build: Tuesday December 07, 2021 at 09:52 PM (Eastern Time)"
+  footerText                                                                                                                                                                                                                           = "*“There's only one effectively redemptive sacrifice, the sacrifice of self-will to make room for the knowledge of God.”* - Aldous Huxley"
+  buildText                                                                                                                                                                                                                           = "Last Build: Wednesday December 08, 2021 at 09:51 PM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
