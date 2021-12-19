@@ -26,8 +26,8 @@ languageCode = "en-us"
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən"
-  footerText                                                                                                                                                                                                                                    = "*“Fix reason firmly in her seat, and call to her tribunal every fact, every opinion. Question with boldness even the existence of a God because, if there be one, he must more approve of the homage of reason, than that of blindfolded fear.”* - Thomas Jefferson"
-  buildText                                                                                                                                                                                                                                    = "Last Build: Friday December 17, 2021 at 09:55 PM (Eastern Time)"
+  footerText                                                                                                                                                                                                                                     = "*“In order to acquire a growing and lasting respect in society, it is a good thing, if you possess great talent, to give, early in your youth, a very hard kick to the right shin of the society that you love. After that, be a snob.”* - Salvador Dali"
+  buildText                                                                                                                                                                                                                                     = "Last Build: Saturday December 18, 2021 at 09:52 PM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
