@@ -26,8 +26,8 @@ languageCode = "en-us"
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən"
-  footerText                                                                                                                                                                                                                                                     = "*“Justice means minding one's own business and not meddling with other men's concerns.”* - Plato"
-  buildText                                                                                                                                                                                                                                                     = "Last Build: Sunday January 02, 2022 at 09:54 PM (Eastern Time)"
+  footerText                                                                                                                                                                                                                                                      = "*“Excellence is an art won by training and habituation. We do not act rightly because we have virtue or excellence, but we rather have those because we have acted rightly. We are what we repeatedly do. Excellence, then, is not an act but a habit.”* - Aristotle"
+  buildText                                                                                                                                                                                                                                                      = "Last Build: Monday January 03, 2022 at 09:53 PM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
