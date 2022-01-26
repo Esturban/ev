@@ -26,8 +26,8 @@ languageCode = "en-us"
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən"
-  footerText             = "*“It is a kind of spiritual snobbery that makes people think they can be happy without money.”* - Albert Camus"
-  buildText             = "Last Build: Monday January 24, 2022 at 09:48 PM (Eastern Time)"
+  footerText              = "*“What is ominous is the ease with which some people go from saying that they don't like something to saying that the government should forbid it. When you go down that road, don't expect freedom to survive very long.”* - Thomas Sowell"
+  buildText              = "Last Build: Tuesday January 25, 2022 at 09:50 PM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
