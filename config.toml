@@ -26,8 +26,8 @@ languageCode = "en-us"
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən"
-  footerText                                                   = "*“Don't be afraid to give your best to what seemingly are small jobs. Every time you conquer one it makes you that much stronger. If you do the little jobs well, the big ones will tend to take care of themselves.”* - Dale Carnegie"
-  buildText                                                   = "Last Build: Thursday March 03, 2022 at 09:58 PM (Eastern Time)"
+  footerText                                                    = "*“We see God face to face every hour, and know the savor of Nature.”* - Ralph Waldo Emerson"
+  buildText                                                    = "Last Build: Friday March 04, 2022 at 09:51 PM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
