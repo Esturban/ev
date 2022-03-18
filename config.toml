@@ -26,8 +26,8 @@ languageCode = "en-us"
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən"
-  footerText                                                                = "*“He who despairs of the human condition is a coward, but he who has hope for it is a fool.”* - Albert Camus"
-  buildText                                                                = "Last Build: Wednesday March 16, 2022 at 10:54 PM (Eastern Time)"
+  footerText                                                                 = "*“A man is a god in ruins. When men are innocent, life shall be longer, and shall pass into the immortal, as gently as we awake from dreams.”* - Ralph Waldo Emerson"
+  buildText                                                                 = "Last Build: Thursday March 17, 2022 at 10:59 PM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
