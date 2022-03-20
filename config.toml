@@ -26,8 +26,8 @@ languageCode = "en-us"
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən"
-  footerText                                                                  = "*“The only way to have a friend is to be one.”* - Ralph Waldo Emerson"
-  buildText                                                                  = "Last Build: Friday March 18, 2022 at 10:51 PM (Eastern Time)"
+  footerText                                                                   = "*“There will one day spring from the brain of science a machine or force so fearful in its potentialities, so absolutely terrifying, that even man, the fighter, who will dare torture and death in order to inflict torture and death, will be appalled, and so abandon war forever.”* - Thomas A. Edison"
+  buildText                                                                   = "Last Build: Saturday March 19, 2022 at 10:52 PM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
