@@ -26,8 +26,8 @@ languageCode = "en-us"
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən"
-  footerText                                                                     = "*“One and God make a majority.”* - Frederick Douglass"
-  buildText                                                                     = "Last Build: Monday March 21, 2022 at 11:06 PM (Eastern Time)"
+  footerText                                                                      = "*“If the facts don't fit the theory, change the facts.”* - Albert Einstein"
+  buildText                                                                      = "Last Build: Tuesday March 22, 2022 at 11:09 PM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
