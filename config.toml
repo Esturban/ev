@@ -26,8 +26,8 @@ languageCode = "en-us"
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən"
-  footerText          = "*“One loves to possess arms, though they hope never to have occasion for them.”* - Thomas Jefferson"
-  buildText          = "Last Build: Saturday January 22, 2022 at 08:16 AM (Eastern Time)"
+  footerText                                                                                = "*“The man who makes everything that leads to happiness depends upon himself, and not upon other men, has adopted the very best plan for living happily. This is the man of moderation, the man of manly character and of wisdom.”* - Plato"
+  buildText                                                                                = "Last Build: Friday April 01, 2022 at 09:59 PM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
