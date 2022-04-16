@@ -26,8 +26,8 @@ languageCode = "en-us"
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən"
-  footerText   = "*“I would believe only in a God that knows how to Dance.”* - Friedrich Nietzsche"
-  buildText   = "Last Build: Thursday April 14, 2022 at 11:50 PM (Eastern Time)"
+  footerText    = "*“To correct a natural indifference I was placed half-way between misery and the sun. Misery kept me from believing that all was well under the sun, and the sun taught me that history wasn't everything.”* - Albert Camus"
+  buildText    = "Last Build: Friday April 15, 2022 at 11:08 PM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
