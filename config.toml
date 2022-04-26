@@ -26,8 +26,8 @@ languageCode = "en-us"
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən"
-  footerText             = "*“Nothing is more destructive of respect for the government and the law of the land than passing laws which cannot be enforced.”* - Albert Einstein"
-  buildText             = "Last Build: Sunday April 24, 2022 at 11:31 PM (Eastern Time)"
+  footerText              = "*“All credibility, all good conscience, all evidence of truth come only from the senses.”* - Friedrich Nietzsche"
+  buildText              = "Last Build: Monday April 25, 2022 at 11:37 PM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
