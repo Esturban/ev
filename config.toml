@@ -26,8 +26,8 @@ languageCode = "en-us"
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən"
-  footerText                             = "*“To insure the adoration of a theorem for any length of time, faith is not enough, a police force is needed as well.”* - Albert Camus"
-  buildText                             = "Last Build: Tuesday May 10, 2022 at 11:38 PM (Eastern Time)"
+  footerText                              = "*“Entire ignorance is not so terrible or extreme an evil, and is far from being the greatest of all too much cleverness and too much learning, accompanied with ill bringing-up, are far more fatal.”* - Plato"
+  buildText                              = "Last Build: Wednesday May 11, 2022 at 11:30 PM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
