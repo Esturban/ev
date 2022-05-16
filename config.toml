@@ -26,8 +26,8 @@ languageCode = "en-us"
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən"
-  footerText                                 = "*“Must not all things at the last be swallowed up in death?”* - Plato"
-  buildText                                 = "Last Build: Saturday May 14, 2022 at 11:29 PM (Eastern Time)"
+  footerText                                  = "*“To prefer evil to good is not in human nature and when a man is compelled to choose one of two evils, no one will choose the greater when he might have the less.”* - Plato"
+  buildText                                  = "Last Build: Sunday May 15, 2022 at 11:22 PM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
