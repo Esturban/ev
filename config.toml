@@ -2,7 +2,7 @@ baseurl = "/"
 title = "estebanvalencia.com"
 googleAnalytics = "UA-81176691-3"
 
-theme = ["hugo-dynamic-tabs","ev-console"]
+theme = ["ev-console"]
 enableEmoji = true
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "index\\.html", "about\\.html", "static/blog/\\*_files/", "README","\\.knit\\.md$", "\\.utf8\\.md$"] 
 ignoreErrors = ["error-remote-getjson"]
