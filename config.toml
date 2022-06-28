@@ -26,8 +26,8 @@ languageCode = "en-us"
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən"
-  footerText                                              = "*“There is joy in work. There is no happiness except in the realization that we have accomplished something.”* - Henry Ford"
-  buildText                                              = "Last Build: Sunday June 26, 2022 at 11:59 PM (Eastern Time)"
+  footerText                                               = "*“The person who seeks all their applause from outside has their happiness in another's keeping .”* - Dale Carnegie"
+  buildText                                               = "Last Build: Monday June 27, 2022 at 11:53 PM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
