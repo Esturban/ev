@@ -26,8 +26,8 @@ languageCode = "en-us"
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən"
-  footerText                                                         = "*“You cannot create experience. You must undergo it.”* - Albert Camus"
-  buildText                                                         = "Last Build: Thursday July 07, 2022 at 11:51 PM (Eastern Time)"
+  footerText                                                          = "*“In truth, politeness is artificial good humor, it covers the natural want of it, and ends by rendering habitual a substitute nearly equivalent to the real virtue.”* - Thomas Jefferson"
+  buildText                                                          = "Last Build: Friday July 08, 2022 at 11:32 PM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
