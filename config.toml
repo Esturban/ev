@@ -26,8 +26,8 @@ languageCode = "en-us"
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən"
-  footerText                                                              = "*“There are three methods to gaining wisdom. The first is reflection, which is the highest. The second is limitation, which is the easiest. The third is experience, which is the bitterest.”* - Confucius"
-  buildText                                                              = "Last Build: Tuesday July 12, 2022 at 11:52 PM (Eastern Time)"
+  footerText                                                               = "*“You must not fight too often with one enemy, or you will teach him all your art of war.”* - Napoleon Bonaparte"
+  buildText                                                               = "Last Build: Wednesday July 13, 2022 at 11:58 PM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
