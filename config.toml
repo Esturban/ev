@@ -1,6 +1,6 @@
 baseurl = "/"
 title = "estebanvalencia.com"
-googleAnalytics = "UA-81176691-3"
+googleAnalytics = "G-T1S5YBNW8N"
 
 theme = ["ev-console"]
 enableEmoji = true
@@ -8,6 +8,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "index\\.html", "about\\.h
 ignoreErrors = ["error-remote-getjson"]
 copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
 languageCode = "en-us"
+[markup.goldmark.renderer]
+unsafe = true
 
 [author]
   name= "Esteban Valencia"
@@ -26,8 +28,8 @@ languageCode = "en-us"
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən"
-  footerText                                   = "*“Restlessness is discontent and discontent is the first necessity of progress. Show me a thoroughly satisfied man and I will show you a failure.”* - Thomas A. Edison"
-  buildText                                   = "Last Build: Wednesday June 15, 2022 at 11:40 PM (Eastern Time)"
+  footerText                                                                       = "*“The great enemy of clear language is insincerity. When there is a gap between one's real and one's declared aims, one turns, as it were, instinctively to long words and exhausted idioms, like a cuttlefish squirting out ink.”* - George Orwell"
+  buildText                                                                       = "Last Build: Tuesday July 19, 2022 at 04:45 PM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
