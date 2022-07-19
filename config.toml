@@ -1,6 +1,6 @@
 baseurl = "/"
 title = "estebanvalencia.com"
-googleAnalytics = "323926901"
+googleAnalytics = "G-T1S5YBNW8N"
 
 theme = ["ev-console"]
 enableEmoji = true
