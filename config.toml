@@ -8,6 +8,8 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "index\\.html", "about\\.h
 ignoreErrors = ["error-remote-getjson"]
 copyright = "This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License."
 languageCode = "en-us"
+[markup.goldmark.renderer]
+unsafe = true
 
 [author]
   name= "Esteban Valencia"
