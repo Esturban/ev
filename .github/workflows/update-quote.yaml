@@ -1,9 +1,6 @@
 name: 'Quote Update - Dev'
 
 on:
-  push:
-    branches:
-    - dev
   schedule:
     - cron: '30 2 * * *'
 
