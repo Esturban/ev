@@ -28,8 +28,8 @@ unsafe = true
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən"
-  footerText                                             = "*“He who despairs of the human condition is a coward, but he who has hope for it is a fool.”* - Albert Camus"
-  buildText                                             = "Last Build: Monday September 05, 2022 at 12:27 AM (Eastern Time)"
+  footerText                                              = "*“A market is never saturated with a good product, but it is very quickly saturated with a bad one.”* - Henry Ford"
+  buildText                                              = "Last Build: Tuesday September 06, 2022 at 12:32 AM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
