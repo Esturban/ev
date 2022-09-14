@@ -4,6 +4,8 @@ on:
   push:
     branches:
     - dev  # Support wildcard matching
+  schedule:
+    - cron: '33 2 * * *'
 
 jobs:
   pull-request:
