@@ -28,8 +28,8 @@ unsafe = true
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən"
-  footerText                                                      = "*“The bad gains respect through imitation, the good loses it especially in art.”* - Friedrich Nietzsche"
-  buildText                                                      = "Last Build: Wednesday September 14, 2022 at 12:25 AM (Eastern Time)"
+  footerText                                                       = "*“Remember happiness doesn't depend upon who you are or what you have it depends solely on what you think.”* - Dale Carnegie"
+  buildText                                                       = "Last Build: Thursday September 15, 2022 at 12:31 AM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
