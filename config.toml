@@ -28,8 +28,8 @@ unsafe = true
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən"
-  footerText                                                       = "*“Remember happiness doesn't depend upon who you are or what you have it depends solely on what you think.”* - Dale Carnegie"
-  buildText                                                       = "Last Build: Thursday September 15, 2022 at 12:31 AM (Eastern Time)"
+  footerText                                                        = "*“Great is truth, but still greater, from a practical point of view, is silence about truth. By simply not mentioning certain subjects... totalitarian propagandists have influenced opinion much more effectively than they could have by the most eloquent denunciations.”* - Aldous Huxley"
+  buildText                                                        = "Last Build: Friday September 16, 2022 at 12:34 AM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
