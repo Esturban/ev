@@ -13,6 +13,11 @@ body > div.container.animated.zoomIn.fast > section > div > ul > div > div {
 padding: 0px 20px 0px 0px;  
 }
 
+.excal-wrapper {
+  display: flex;
+  flex-direction: column;
+}
+
 body {
     margin-bottom:0px;
 }
