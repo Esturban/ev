@@ -3,6 +3,9 @@ name: 'Quote Update - Dev'
 on:
   schedule:
     - cron: '30 2 * * *'
+  push:
+    branches:
+    - dev 
 
 jobs:
   quote-generator:
