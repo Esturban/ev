@@ -22,6 +22,7 @@ jobs:
         author: ${{ github.actor }} <${{ github.actor }}@users.noreply.github.com>
         signoff: false
         branch: dev
+        base: master
         delete-branch: false
         body: |
             Update production website :crown:
