@@ -16,7 +16,6 @@ jobs:
       uses: peter-evans/create-pull-request@v4
       with:
         token: ${{ secrets.GITHUB_TOKEN }}
-        destination_branch: "master"                      # If blank, default: master
         title: "Pulling ${{ github.ref }} into master (Staging to Production)" # Title of pull request
         commit-message: Staging to Production
         committer: GitHub <noreply@github.com>
