@@ -28,8 +28,8 @@ unsafe = true
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən"
-  footerText ="*“Uncontrolled, the hunger and thirst after God may become an obstacle, cutting off the soul from what it desires. If a man would travel far along the mystic road, he must learn to desire God intensely but in stillness, passively and yet with all his heart and mind and strength.”* - Aldous Huxley"
-  buildText ="Last Build: Sunday December 04, 2022 at 09:55 PM (Eastern Time)"
+  footerText ="*“Who controls the past controls the future. Who controls the present controls the past.”* - George Orwell"
+  buildText ="Last Build: Monday December 05, 2022 at 09:56 PM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
