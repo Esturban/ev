@@ -28,8 +28,8 @@ unsafe = true
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən" 
-  footerText ="*“The 'kingdom of Heaven' is a condition of the heart - not something that comes 'upon the earth' or 'after death.'”* - Friedrich Nietzsche"
-  buildText ="Last Build: Thursday December 22, 2022 at 09:49 PM (Eastern Time)"
+  footerText ="*“Excellence is an art won by training and habituation. We do not act rightly because we have virtue or excellence, but we rather have those because we have acted rightly. We are what we repeatedly do. Excellence, then, is not an act but a habit.”* - Aristotle"
+  buildText ="Last Build: Friday December 23, 2022 at 09:44 PM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
