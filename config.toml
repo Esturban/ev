@@ -28,8 +28,8 @@ unsafe = true
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən" 
-  footerText ="*“For centuries the death penalty, often accompanied by barbarous refinements, has been trying to hold crime in check yet crime persists. Why? Because the instincts that are warring in man are not, as the law claims, constant forces in a state of equilibrium.”* - Albert Camus"
-  buildText ="Last Build: Sunday December 25, 2022 at 09:49 PM (Eastern Time)"
+  footerText ="*“Too much of what is called 'education' is little more than an expensive isolation from reality.”* - Thomas Sowell"
+  buildText ="Last Build: Monday December 26, 2022 at 09:46 PM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
