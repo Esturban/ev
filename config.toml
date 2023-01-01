@@ -28,8 +28,8 @@ unsafe = true
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən" 
-  footerText ="*“There's only one effectively redemptive sacrifice, the sacrifice of self-will to make room for the knowledge of God.”* - Aldous Huxley"
-  buildText ="Last Build: Friday December 30, 2022 at 09:45 PM (Eastern Time)"
+  footerText ="*“But friendship is precious, not only in the shade, but in the sunshine of life, and thanks to a benevolent arrangement the greater part of life is sunshine.”* - Thomas Jefferson"
+  buildText ="Last Build: Saturday December 31, 2022 at 10:03 PM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
