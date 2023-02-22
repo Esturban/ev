@@ -28,8 +28,8 @@ unsafe = true
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən" 
-  footerText ="*“Freedom has cost too much blood and agony to be relinquished at the cheap price of rhetoric.”* - Thomas Sowell"
-  buildText ="Last Build: Monday February 20, 2023 at 10:03 PM (Eastern Time)"
+  footerText ="*“I believe God is managing affairs and that He doesn't need any advice from me. With God in charge, I believe everything will work out for the best in the end. So what is there to worry about.”* - Henry Ford"
+  buildText ="Last Build: Tuesday February 21, 2023 at 10:00 PM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
