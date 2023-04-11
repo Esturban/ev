@@ -28,8 +28,8 @@ unsafe = true
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən" 
-  footerText ="*“Analysis does not set out to make pathological reactions impossible, but to give the patient's ego freedom to decide one way or another.”* - Sigmund Freud"
-  buildText ="Last Build: Sunday April 09, 2023 at 10:42 PM (Eastern Time)"
+  footerText ="*“Perfect friendship is the friendship of men who are good, and alike in excellence for these wish well alike to each other qua good, and they are good in themselves.”* - Aristotle"
+  buildText ="Last Build: Monday April 10, 2023 at 10:43 PM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
