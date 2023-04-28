@@ -28,8 +28,8 @@ unsafe = true
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən" 
-  footerText ="*“Imagination is more important than knowledge.”* - Albert Einstein"
-  buildText ="Last Build: Wednesday April 26, 2023 at 10:45 PM (Eastern Time)"
+  footerText ="*“To know, is to know that you know nothing. That is the meaning of true knowledge.”* - Socrates"
+  buildText ="Last Build: Thursday April 27, 2023 at 10:44 PM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
