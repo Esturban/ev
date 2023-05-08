@@ -28,8 +28,8 @@ unsafe = true
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən" 
-  footerText ="*“Wisdom, compassion, and courage are the three universally recognized moral qualities of men.”* - Confucius"
-  buildText ="Last Build: Saturday May 06, 2023 at 10:47 PM (Eastern Time)"
+  footerText ="*“A free press can, of course, be good or bad, but, most certainly without freedom, the press will never be anything but bad.”* - Albert Camus"
+  buildText ="Last Build: Sunday May 07, 2023 at 10:43 PM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
