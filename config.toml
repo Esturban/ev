@@ -28,8 +28,8 @@ unsafe = true
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən" 
-  footerText ="*“People with great gifts are easy to find, but symmetrical and balanced ones never.”* - Ralph Waldo Emerson"
-  buildText ="Last Build: Friday June 09, 2023 at 10:54 PM (Eastern Time)"
+  footerText ="*“In art, the hand can never execute anything higher than the heart can imagine.”* - Ralph Waldo Emerson"
+  buildText ="Last Build: Saturday June 10, 2023 at 11:10 PM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
