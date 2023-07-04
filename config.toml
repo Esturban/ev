@@ -28,8 +28,8 @@ unsafe = true
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən" 
-  footerText ="*“The secret of genius is to carry the spirit of the child into old age, which mean never losing your enthusiasm.”* - Aldous Huxley"
-  buildText ="Last Build: Sunday July 02, 2023 at 11:08 PM (Eastern Time)"
+  footerText ="*“The great enemy of clear language is insincerity. When there is a gap between one's real and one's declared aims, one turns, as it were, instinctively to long words and exhausted idioms, like a cuttlefish squirting out ink.”* - George Orwell"
+  buildText ="Last Build: Monday July 03, 2023 at 11:10 PM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
