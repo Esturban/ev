@@ -28,8 +28,8 @@ unsafe = true
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən" 
-  footerText ="*“The herd seek out the great, not for their sake but for their influence and the great welcome them out of vanity or need.”* - Napoleon Bonaparte"
-  buildText ="Last Build: Thursday July 06, 2023 at 11:10 PM (Eastern Time)"
+  footerText ="*“One of the great attractions of patriotism - it fulfills our worst wishes. In the person of our nation we are able, vicariously, to bully and cheat. Bully and cheat, what's more, with a feeling that we are profoundly virtuous.”* - Aldous Huxley"
+  buildText ="Last Build: Friday July 07, 2023 at 11:11 PM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
