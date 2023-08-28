@@ -28,8 +28,8 @@ unsafe = true
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən" 
-  footerText ="*“To my mind the old masters are not art their value is in their scarcity.”* - Thomas A. Edison"
-  buildText ="Last Build: Saturday August 26, 2023 at 10:34 PM (Eastern Time)"
+  footerText ="*“Perfect friendship is the friendship of men who are good, and alike in excellence for these wish well alike to each other qua good, and they are good in themselves.”* - Aristotle"
+  buildText ="Last Build: Sunday August 27, 2023 at 10:34 PM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
