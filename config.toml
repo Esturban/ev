@@ -28,8 +28,8 @@ unsafe = true
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən" 
-  footerText ="*“A man's growth is seen in the successive choirs of his friends.”* - Ralph Waldo Emerson"
-  buildText ="Last Build: Tuesday December 12, 2023 at 09:41 PM (Eastern Time)"
+  footerText ="*“Those who intend on becoming great should love neither themselves nor their own things, but only what is just, whether it happens to be done by themselves or others.”* - Plato"
+  buildText ="Last Build: Wednesday December 13, 2023 at 09:40 PM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
