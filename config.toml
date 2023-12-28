@@ -28,8 +28,8 @@ unsafe = true
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən" 
-  footerText ="*“Most people say that it is the intellect which makes a great scientist. They are wrong: it is character.”* - Albert Einstein"
-  buildText ="Last Build: Tuesday December 26, 2023 at 09:37 PM (Eastern Time)"
+  footerText ="*“If you are pained by external things, it is not they that disturb you, but your own judgment of them.”* - Marcus Aurelius"
+  buildText ="Last Build: Wednesday December 27, 2023 at 09:37 PM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
