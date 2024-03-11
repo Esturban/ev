@@ -28,8 +28,8 @@ unsafe = true
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən" 
-  footerText ="*“Know one knows whether death, which people fear to be the greatest evil, may not be the greatest good.”* - Plato"
-  buildText ="Last Build: Saturday March 09, 2024 at 09:37 PM (Eastern Time)"
+  footerText ="*“To assert in any case that a man must be absolutely cut off from society because he is absolutely evil amounts to saying that society is absolutely good, and no-one in his right mind will believe this today.”* - Albert Camus"
+  buildText ="Last Build: Sunday March 10, 2024 at 10:34 PM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
