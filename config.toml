@@ -28,8 +28,8 @@ unsafe = true
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən" 
-  footerText ="*“The worst enemy of life, freedom and the common decencies is total anarchy their second worst enemy is total efficiency.”* - Aldous Huxley"
-  buildText ="Last Build: Friday March 22, 2024 at 10:33 PM (Eastern Time)"
+  footerText ="*“It is amazing that people who think we cannot afford to pay for doctors, hospitals, and medication somehow think that we can afford to pay for doctors, hospitals, medication and a government bureaucracy to administer it.”* - Thomas Sowell"
+  buildText ="Last Build: Saturday March 23, 2024 at 10:36 PM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
