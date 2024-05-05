@@ -28,8 +28,8 @@ unsafe = true
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən" 
-  footerText ="*“The rulers of the state are the only persons who ought to have the privilege of lying, either at home or abroad they may be allowed to lie for the good of the state.”* - Plato"
-  buildText ="Last Build: Friday May 03, 2024 at 10:35 PM (Eastern Time)"
+  footerText ="*“Perfect friendship is the friendship of men who are good, and alike in excellence for these wish well alike to each other qua good, and they are good in themselves.”* - Aristotle"
+  buildText ="Last Build: Saturday May 04, 2024 at 10:39 PM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
