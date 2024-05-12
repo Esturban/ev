@@ -28,8 +28,8 @@ unsafe = true
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən" 
-  footerText ="*“Those who lack the courage will always find a philosophy to justify it.”* - Albert Camus"
-  buildText ="Last Build: Friday May 10, 2024 at 10:36 PM (Eastern Time)"
+  footerText ="*“The wise man does not expose himself needlessly to danger, since there are few things for which he cares sufficiently but he is willing, in great crises, to give even his life - knowing that under certain conditions it is not worthwhile to live.”* - Aristotle"
+  buildText ="Last Build: Saturday May 11, 2024 at 10:41 PM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
