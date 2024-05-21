@@ -28,8 +28,8 @@ unsafe = true
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən" 
-  footerText ="*“Prices are important not because money is considered paramount but because prices are a fast and effective conveyor of information through a vast society in which fragmented knowledge must be coordinated.”* - Thomas Sowell"
-  buildText ="Last Build: Sunday May 19, 2024 at 10:43 PM (Eastern Time)"
+  footerText ="*“When the people fear the government, there is tyranny. When the government fears the people, there is liberty.”* - Thomas Jefferson"
+  buildText ="Last Build: Monday May 20, 2024 at 10:41 PM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
