@@ -28,8 +28,8 @@ unsafe = true
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən" 
-  footerText ="*“Competition is the keen cutting edge of business, always shaving away at costs.”* - Henry Ford"
-  buildText ="Last Build: Monday June 10, 2024 at 10:44 PM (Eastern Time)"
+  footerText ="*“The real goal should be reduced government spending, rather than balanced budgets achieved by ever rising tax rates to cover ever rising spending.”* - Thomas Sowell"
+  buildText ="Last Build: Tuesday June 11, 2024 at 10:44 PM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
