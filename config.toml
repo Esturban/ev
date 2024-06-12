@@ -2,6 +2,7 @@ baseurl = "https://estebanvalencia.com/"
 title = "estebanvalencia.com"
 googleAnalytics = "G-T1S5YBNW8N"
 
+themesDir = "themes"
 theme = ["ev-console"]
 enableEmoji = true
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "index\\.html", "about\\.html", "static/blog/\\*_files/", "README","\\.knit\\.md$", "\\.utf8\\.md$"] 
