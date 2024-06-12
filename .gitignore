@@ -39,6 +39,6 @@ vignettes/*.pdf
 rsconnect/
 
 Dockerfile
-
+**.DS_Store
 **/archive/**
 **/resources/**
