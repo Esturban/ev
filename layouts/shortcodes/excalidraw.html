@@ -1,6 +1,0 @@
-<!--Excalidraw shortcode-->
-
-{{ $drawURL := .Get "drawURL" }}
-{{ $drawWidth := .Get "drawWidth" | default "100%" }}
-{{ $drawHeight := .Get "drawHeight" | default "450px" }}
-<iframe width="{{ $drawWidth }}" height="{{ $drawHeight }}" src="{{ $drawURL }}"></iframe>
