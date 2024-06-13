@@ -1,7 +1,6 @@
 baseurl = "https://estebanvalencia.com/"
 title = "estebanvalencia.com"
 googleAnalytics = "G-T1S5YBNW8N"
-
 themesDir = "themes"
 theme = ["ev-console"]
 enableEmoji = true
@@ -20,6 +19,10 @@ unsafe = true
   domain= "https://estebanvalencia.com"
 
 
+[imaging]
+resampleFilter = "Box"  # Default is "Box"
+quality = 75  # Default is 75
+anchor = "smart"  # Default is "smart"
 
 [taxonomies]
   category = "categories"
