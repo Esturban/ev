@@ -1,7 +1,6 @@
 baseurl = "https://estebanvalencia.com/"
 title = "estebanvalencia.com"
 googleAnalytics = "G-T1S5YBNW8N"
-
 themesDir = "themes"
 theme = ["ev-console"]
 enableEmoji = true
@@ -20,6 +19,10 @@ unsafe = true
   domain= "https://estebanvalencia.com"
 
 
+[imaging]
+resampleFilter = "Box"  # Default is "Box"
+quality = 75  # Default is 75
+anchor = "smart"  # Default is "smart"
 
 [taxonomies]
   category = "categories"
@@ -29,8 +32,8 @@ unsafe = true
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən" 
-  footerText ="*“The real goal should be reduced government spending, rather than balanced budgets achieved by ever rising tax rates to cover ever rising spending.”* - Thomas Sowell"
-  buildText ="Last Build: Tuesday June 11, 2024 at 10:44 PM (Eastern Time)"
+  footerText ="*“Men of age object too much, consult too long, adventure too little, repent too soon, and seldom drive business home to the full period, but content themselves with a mediocrity of success.”* - Dale Carnegie"
+  buildText ="Last Build: Wednesday June 12, 2024 at 10:44 PM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
@@ -70,6 +73,11 @@ url = "collection/"
 [[params.navlinks]]
 name = "photos/"
 url = "photos/"
+[[params.navlinks]]
+name = "how-i-help/"
+url = "services/"
+
+
   
 [[params.plugins.css]]
 URL = "ev-console/css/terminal-0.7.1.min.css"
