@@ -32,8 +32,8 @@ anchor = "smart"  # Default is "smart"
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən" 
-  footerText ="*“Today I love myself as I love my god: who could charge me with a sin today? I know only sins against my god but who knows my god?”* - Friedrich Nietzsche"
-  buildText ="Last Build: Sunday June 30, 2024 at 10:50 PM (Eastern Time)"
+  footerText ="*“We hold these truths to be self-evident: that all men are created equal that they are endowed by their Creator with certain unalienable rights that among these are life, liberty, and the pursuit of happiness.”* - Thomas Jefferson"
+  buildText ="Last Build: Monday July 01, 2024 at 10:44 PM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
