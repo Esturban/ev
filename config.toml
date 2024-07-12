@@ -32,8 +32,8 @@ anchor = "smart"  # Default is "smart"
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən" 
-  footerText ="*“Great ideas originate in the muscles.”* - Thomas A. Edison"
-  buildText ="Last Build: Wednesday July 10, 2024 at 10:47 PM (Eastern Time)"
+  footerText ="*“Poetry is finer and more philosophical than history for poetry expresses the universal, and history only the particular.”* - Aristotle"
+  buildText ="Last Build: Thursday July 11, 2024 at 10:45 PM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
