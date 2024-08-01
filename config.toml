@@ -32,8 +32,8 @@ anchor = "smart"  # Default is "smart"
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən" 
-  footerText ="*“I don't believe in accidents. There are only encounters in history. There are no accidents.”* - Pablo Picasso"
-  buildText ="Last Build: Tuesday July 30, 2024 at 10:32 PM (Eastern Time)"
+  footerText ="*“For a people who are free, and who mean to remain so, a well-organized and armed militia is their best security.”* - Thomas Jefferson"
+  buildText ="Last Build: Wednesday July 31, 2024 at 10:43 PM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
