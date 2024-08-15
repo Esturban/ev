@@ -32,8 +32,8 @@ anchor = "smart"  # Default is "smart"
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən" 
-  footerText ="*“The highest revelation is that God is in every man.”* - Ralph Waldo Emerson"
-  buildText ="Last Build: Tuesday August 13, 2024 at 10:41 PM (Eastern Time)"
+  footerText ="*“I have no fear that the result of our experiment will be that men may be trusted to govern themselves without a master.”* - Thomas Jefferson"
+  buildText ="Last Build: Wednesday August 14, 2024 at 10:38 PM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
