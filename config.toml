@@ -32,8 +32,8 @@ anchor = "smart"  # Default is "smart"
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən" 
-  footerText ="*“Freedom is nothing but a chance to be better.”* - Albert Camus"
-  buildText ="Last Build: Thursday August 22, 2024 at 10:41 PM (Eastern Time)"
+  footerText ="*“Progressive art can assist people to learn not only about the objective forces at work in the society in which they live, but also about the intensely social character of their interior lives. Ultimately, it can propel people toward social emancipation.”* - Salvador Dali"
+  buildText ="Last Build: Friday August 23, 2024 at 10:41 PM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
