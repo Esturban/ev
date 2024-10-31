@@ -32,8 +32,8 @@ anchor = "smart"  # Default is "smart"
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən" 
-  footerText ="*“What we feel and think and are is to a great extent determined by the state of our ductless glands and viscera.”* - Aldous Huxley"
-  buildText ="Last Build: Tuesday October 29, 2024 at 10:46 PM (Eastern Time)"
+  footerText ="*“It is also true that one can write nothing readable unless one constantly struggles to efface one's own personality. Good prose is like a windowpane.”* - George Orwell"
+  buildText ="Last Build: Wednesday October 30, 2024 at 10:47 PM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
