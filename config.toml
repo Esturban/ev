@@ -32,8 +32,8 @@ anchor = "smart"  # Default is "smart"
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən" 
-  footerText ="*“Great indebtedness does not make men grateful, but vengeful and if a little charity is not forgotten, it turns into a gnawing worm.”* - Friedrich Nietzsche"
-  buildText ="Last Build: Wednesday November 27, 2024 at 09:52 PM (Eastern Time)"
+  footerText ="*“Being busy does not always mean real work. The object of all work is production or accomplishment and to either of these ends there must be forethought, system, planning, intelligence, and honest purpose, as well as perspiration. Seeming to do is not doing.”* - Thomas A. Edison"
+  buildText ="Last Build: Thursday November 28, 2024 at 09:52 PM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
