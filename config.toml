@@ -32,8 +32,8 @@ anchor = "smart"  # Default is "smart"
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən" 
-  footerText ="*“Intellectual growth should commence at birth and cease only at death.”* - Albert Einstein"
-  buildText ="Last Build: Friday May 16, 2025 at 10:57 PM (Eastern Time)"
+  footerText ="*“Happiness is not being pained in body or troubled in mind.”* - Thomas Jefferson"
+  buildText ="Last Build: Saturday May 17, 2025 at 11:01 PM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
