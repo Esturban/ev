@@ -32,8 +32,8 @@ anchor = "smart"  # Default is "smart"
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən" 
-  footerText ="*“Wealth, like happiness, is never attained when sought after directly. It comes as a by-product of providing a useful service.”* - Henry Ford"
-  buildText ="Last Build: Tuesday July 15, 2025 at 11:07 PM (Eastern Time)"
+  footerText ="*“I only wish that ordinary people had an unlimited capacity for doing harm then they might have an unlimited power for doing good.”* - Socrates"
+  buildText ="Last Build: Wednesday July 16, 2025 at 11:07 PM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
