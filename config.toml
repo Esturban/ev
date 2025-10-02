@@ -32,8 +32,8 @@ anchor = "smart"  # Default is "smart"
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən" 
-  footerText ="*“Just as a cautious businessman avoids investing all his capital in one concern, so wisdom would probably admonish us also not to anticipate all our happiness from one quarter alone.”* - Sigmund Freud"
-  buildText ="Last Build: Tuesday September 30, 2025 at 11:00 PM (Eastern Time)"
+  footerText ="*“You must not fight too often with one enemy, or you will teach him all your art of war.”* - Napoleon Bonaparte"
+  buildText ="Last Build: Wednesday October 01, 2025 at 10:50 PM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
