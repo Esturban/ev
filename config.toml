@@ -32,8 +32,8 @@ anchor = "smart"  # Default is "smart"
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən" 
-  footerText ="*“Experience demands that man is the only animal which devours his own kind, for I can apply no milder term to the general prey of the rich on the poor.”* - Thomas Jefferson"
-  buildText ="Last Build: Wednesday October 29, 2025 at 10:59 PM (Eastern Time)"
+  footerText ="*“Nothing is more destructive of respect for the government and the law of the land than passing laws which cannot be enforced.”* - Albert Einstein"
+  buildText ="Last Build: Thursday October 30, 2025 at 11:00 PM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
