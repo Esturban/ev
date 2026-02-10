@@ -32,8 +32,8 @@ anchor = "smart"  # Default is "smart"
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən" 
-  footerText ="*“To prefer evil to good is not in human nature and when a man is compelled to choose one of two evils, no one will choose the greater when he might have the less.”* - Plato"
-  buildText ="Last Build: Sunday February 08, 2026 at 10:28 PM (Eastern Time)"
+  footerText ="*“By three methods we may learn wisdom: First, by reflection, which is noblest Second, by imitation, which is easiest and third by experience, which is the bitterest.”* - Confucius"
+  buildText ="Last Build: Monday February 09, 2026 at 10:33 PM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
