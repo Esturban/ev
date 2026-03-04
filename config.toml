@@ -32,8 +32,8 @@ anchor = "smart"  # Default is "smart"
   # Cutting off the page title to two chars for mobile (console-demo -> co)
   titleCutting = true
   pre = "Esteban | ˈe-stə-vən" 
-  footerText ="*“Where there is reverence there is fear, but there is not reverence everywhere that there is fear, because fear presumably has a wider extension than reverence.”* - Socrates"
-  buildText ="Last Build: Monday March 02, 2026 at 10:23 PM (Eastern Time)"
+  footerText ="*“Not necessity, not desire - no, the love of power is the demon of men. Let them have everything - health, food, a place to live, entertainment - they are and remain unhappy and low-spirited: for the demon waits and waits and will be satisfied.”* - Friedrich Nietzsche"
+  buildText ="Last Build: Tuesday March 03, 2026 at 10:17 PM (Eastern Time)"
   summaryImg = "/me/tux.webm"
   summary = "**Hi visitor!  If you're not quite sure where to start, here's a a heart warming summary about myself and the joys of reading my content.  TL;DR - This page is dedicated to the things I enjoy like data, development, music, books and plenty of other things!**"
   description = "Bite-sized ideas sourced from the internet"
